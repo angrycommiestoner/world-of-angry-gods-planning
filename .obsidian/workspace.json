@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "3d95a1cd24fcf3d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f101a8b80fecaaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "528ee00a2ad2de14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "woag-planning/Test 1-2-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test 1-2-3"
+            }
+          },
+          {
+            "id": "40e64b3bddb0eda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "woag-planning/Quest Planning/Devros Quest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devros Quest"
+            }
+          },
+          {
+            "id": "f42aef3c75562aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "woag-planning/Test 1-2-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test 1-2-3"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0f94417cb1741bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e8cc3aac8336b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cfdf9be333646d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f621f1710986931e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "159961830542084e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6b0662570614260",
+    "type": "split",
+    "children": [
+      {
+        "id": "38e4401f89221c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9840c51a69116aa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "a00497f4fc7e84e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "752b8e1bf7320801",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "75ab8c0eface0480",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "7d838cc6625de120",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "cicada-sync:CI-SYNC": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "rpg-manager:RPG Manager": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f42aef3c75562aa6",
+  "lastOpenFiles": [
+    "woag-planning/README.md",
+    "woag-planning/Test 1-2-3.md",
+    "woag-planning/Quest Planning/Devros Quest.md",
+    "woag-planning/Rules & Updates/Character Creation Rules.md",
+    "woag-planning/Rules & Updates",
+    "woag-planning/Quest Planning",
+    "woag-planning",
+    "Welcome.md",
+    "World Of Angry Gods/Test 1 2 3.md",
+    "World Of Angry Gods"
+  ]
+}
