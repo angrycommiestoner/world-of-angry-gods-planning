@@ -133,4 +133,4 @@ As the party descends to the lower level, the staircase vanishes beneath them, f
 **Effect** 50-ft. fall (5d6, falling damage), Reflex DC 20 avoids
 
 # Room 6: Another Long Hall
-The hall leading to the 
+The unexplored hall leading away from the Atrium contains many statues, paintings, suits of armor, and various holy relics and artifacts left in the care of the church by wealthy nobles. A DC 35 Appraisal check reveals that the assembled wealth in the hall is worth approximately 960,000 GP if sold at wholesale market prices, and further investigation reveals some particularly significant (and/or potentially useful) items, including a Decanter of Endless Holy Water (12,500 GP), a Scroll of [Sacred Nimbus](https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus) (CL 13, 1,125 GP), a Scroll of [Banishment](https://www.d20pfsrd.com/magic/all-spells/b/banishment) 
