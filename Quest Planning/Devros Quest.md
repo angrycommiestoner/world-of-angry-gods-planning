@@ -12,12 +12,14 @@ Planning 5 fights, 3 small traps/non-combat encounters, 1 big trap/non-combat en
 Here the party will be welcomed warmly by a Priestess of Sarenrae. A DC 50 Sense Motive or Spellcraft check reveals that this Priestess' mind is asleep and being actively controlled at a distance by something else. She will recognize Devros ("from Father Traric's description" if asked), approach the party, and offer to escort them to a private room where the Father would be "happy to meet them."
 # Encounter 1: Secret Sanctuary
 
-The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 28 Perception roll is required to spot her secretly operate the mechanism in the floor.
+The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 25 Perception roll is required to spot her secretly operate the mechanism in the floor.
 
-If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. The party receives 1 round to make a DC 30 Perception check followed by a DC 35 Disable Device or Knowledge (Engineering) check to discover and use a similar floor mechanism inside the room to unlock and open the door before they must begin making saves against this poison (DC 28 Fortitude, on failure take 1d3 points of Wisdom damage for 1d4 rounds. Being reduced to 1 Wisdom or less causes the victim to fall unconscious until the poison passes from their system.)
+If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. Once they realize they are trapped, the party may make a DC 40 Athletics check to try and force the door or a DC 25 Perception check followed by a DC 30 Disable Device or Knowledge (Engineering) check to discover and use the hidden mechanism inside the room to unlock and open the door. 
+
+In addition, a DC 22 Perception check allows the party to identify the whistling of the poisonous gas from the vent. Due to the airborne nature of the poison, the party has 2 rounds to notice the poison and act before they must begin making saves against this poison (DC 24 Fortitude, on failure take 1d3 points of Wisdom damage for 1d4 rounds. Being reduced to 1 Wisdom or less by this poison causes the victim to fall unconscious until the poison passes from their system.)
 
 # Encounter 2: The Long Hall
-After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 3 large bloodhounds. At the sight of the party, the Paladin and all 3 beasts attack without hesitation. DC 30 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds.
+After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 2 large bloodhounds. At the sight of the party, the Paladin and both beasts attack without hesitation. DC 15 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds. Upon finishing this fight, the party can continue further into the bowels of the church or return the way they came to the Vestibule in search of the Priestess.
 ## Corrupted Crusader (CR 4)
 **XP** 1,200  
 Human paladin of Sarenrae 5  
@@ -75,3 +77,6 @@ LE Medium outsider (evil, extraplanar, chaotic)
 ### Description
 
 An Abyssal Hound resembles a demented artist's vision of a greyhound, standing at between 4–5 feet tall at the shoulder and weighing 120 pounds on average. It is said that Abyss Hounds hunger endlessly and, once they have sunk their teeth into prey, they will hold on relentlessly until they drag their prey down from sheer exhaustion.
+
+# Room 1: Returning to the Vestibule
+Upon returning to the Vestibule, the party will find the murderous priestess missing, along with all of the other priests and parishioners visiting the Dawnmother's temple, whom the party would have certainly seen on their way in. The Vestibule lies abandoned. A DC 15 Perception check reveals that a stained glass mural against one wall contains a strangely arching "hidden" door integrated into one side of it, which leads to a small garden where patches of sunflowers, merigold, mint, and a few other tea herbs can be found. If the party takes their time to explore the garden, a DC 16 Survival check will allow a clever herbalist to gather a few of the more expensive herbs from a slightly obscured box at the back of the garden.
