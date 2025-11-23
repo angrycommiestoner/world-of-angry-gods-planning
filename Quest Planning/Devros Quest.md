@@ -18,9 +18,10 @@ If the party follows the Priestess without resistance, she will lock them in the
 
 In addition, a DC 22 Perception check allows the party to identify the whistling of the poisonous gas from the vent. Due to the airborne nature of the poison, the party has 2 rounds to notice the poison and act before they must begin making DC 18 Fortitude saves against actually inhaling the poison. In addition to the normal benefit against inhaled poisons (50% chance to ignore poison), holding their breath allows a subject to take 4 rounds before needing to save instead of 2. On a failed save, the subject takes 1d3 points of Wisdom damage for 1d4 rounds. This poison stacks, dealing an additional 1d3 points of Wisdom damage and resetting the number of rounds a target is affected for each round the affected creature spends in the area of the poison's effect. Being reduced to 1 Wisdom or less by this poison causes the victim to fall unconscious until the poison passes from their system in ~8 hours, healing all Wisdom damage.
 
-## Poisoned Gas Trap (CR 1)
+## Poisoned Gas Trap (CR 4, 1200 XP)
+**Type** Mechanical; **Notice** Perception DC 22; **Remove** Disable Device DC 20; **Trigger** touch; **Reset** manual; **Bypass** hidden switch (DC 25 Perception to locate)
 
-
+**Effect** Poison gas, Essence of Blue Whinnis 
 # Encounter 2: The Long Hall
 After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 2 large bloodhounds. At the sight of the party, the Paladin and both beasts attack without hesitation. DC 15 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds. Upon finishing this fight, the party can continue further into the bowels of the church or return the way they came to the Vestibule in search of the Priestess.
 ## Corrupted Crusader (CR 4)
