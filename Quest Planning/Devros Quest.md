@@ -138,4 +138,31 @@ The unexplored hall leading away from the Atrium contains many statues, painting
 Now, as the party approaches, it is *silent.*
 
 # Room 8: The Grand Hall of the Temple of the Dawnmother
-As the party enters the room, Devros finds confirmation of horror beyond his worst imaginings. A line of supplicants lay bound before a group of priests and priestesses in the robes of Sarenrae. The co chant in a horrible, twisted tongue, which seems to call to some deep, slumbering piece of Devros’ soul. Abyssal. The tongue of Daemons… And at the head of their congregation, a woman he is utterly certain he’s known all his life, and yet equally as certainly knows he’s never seen her before, whispers heresies into Father Traric’s ears. For his part, Father Traric’s eyes are glassy and half-focused, and his chanting seems more hesitant than the other priests’. Finally, the horror
+As the party enters the room, Devros finds confirmation of horror beyond his worst imaginings. A line of supplicants lay bound before a group of priests and priestesses in the robes of Sarenrae. The broken-eyed, fanatical members of the clergy chant in a horrible, twisted tongue while strangling the Sarenite worshippers before them. Their words seem to call to some deep, slumbering piece of Devros’ soul. Abyssal. The tongue of Daemons… And at the head of their congregation, a woman he is utterly certain he’s known all his life, and yet equally as certainly knows he’s never seen before, whispers heresies into Father Traric’s ears. For his part, Father Traric’s eyes are glassy and half-focused, and his chanting seems more hesitant than the other priests’. Despite the heavy flanged whip in his hand, and the towering height between himself and the strange woman, he very obviously isn’t in any semblance of control over the situation. At last, the true horror of the scene finally unveils itself as Devros sees before him the object of Father Traric’s abuse… Sister Magdelon, bloody, bruised, beaten within an inch of her life, and crucified against the golden ankh, the divine symbol of Sarenrae. She may once have had the strength left to scream. Now, as Traric raised the whip, the strange woman’s cloying whispers seemingly encouraging, no, forcing him to continue in this barbarous act, the woman who raised Devros cannot muster so much as a whimper. Her eyes roll into the back of her head as the whip makes contact and she slumps forward against the pain of her restraints, rendered unconscious by the beating at last, flecks of foam spittle still clinging to her lips.
+## Statblock: Corrupted Crusader (CR 4 1200 XP)
+Human paladin of Sarenrae 5  
+LG Medium humanoid (human)  
+**Init** –1; **Senses** Perception +1  
+**Aura** courage (10 ft.)
+### Defense
+
+**AC** 22, touch 9, flat-footed 20 (+10 armor, –1 Dex, +3 shield)  
+**hp** 47 (5d10+15)  
+**Fort** +8, **Ref** +3, **Will** +8  
+**Immune** disease, fear
+### Offense
+
+**Speed** 20 ft.  
+**Melee** +1 cold iron longsword +10 (1d8+4/19–20)
+**Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+3 attack and AC, +5 damage)  
+**Paladin Spells Prepared** (CL 2nd; concentration +5)  
+1st—_bless weapon_, _lesser restoration_
+### Statistics
+
+**Str** 16, **Dex** 8, **Con** 13, **Int** 10, **Wis** 12, **Cha** 16  
+**Base Atk** +5; **CMB** +8; **CMD** 17  
+**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Cantrips](http://spheresofpower.wikidot.com/general-feats#toc9), [Cantrips, Improved](http://spheresofpower.wikidot.com/general-feats#toc10) [Selective Channeling](https://www.d20pfsrd.com/feats/general-feats/selective-channeling/), [Powerful Maneuvers](https://michaeliantorno.com/feat-taxes-in-pathfinder/#:~:text=Powerful%20Maneuvers,-New) [Toughness](https://www.d20pfsrd.com/feats/general-feats/toughness/), [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance/), [Diehard](https://www.d20pfsrd.com/feats/general-feats/diehard/), [Combat Stamina](https://aonprd.com/CombatStamina.aspx), [Armor Focus (Full Plate)](https://www.d20pfsrd.com/feats/combat-feats/armor-focus-combat/) [Shield Focus](https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat/), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/)
+**Skills** Diplomacy +11, Heal +9, Ride +4  
+**Languages** Common  
+**SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
+**Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
