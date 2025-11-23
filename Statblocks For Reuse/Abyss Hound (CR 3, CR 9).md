@@ -10,7 +10,7 @@ NE Medium outsider (evil, extraplanar, chaotic)
 **hp** 30 (4d10+8)   
 **Fort** +6, **Ref** +5, **Will** +1  
 **Immune** fire, cold, electricity
-**SQ** 
+**SQ** *Aura of Distortion (Su)* - Abyss Hounds appear for all intents and purposes as a normal, if slightly oversized dog, until they attack a target. The target of the Abyss Hound's attack makes a DC 14 (10 + HD) Will Save to overcome the illusion and see the creature for what it truly is. Having the nature of the creature pointed out is enough to allow a creature to roll a Will Save as if they had been attacked. This is a mind-affecting effect.
 ### Offense
 **Speed** 40 ft.  
 **Melee** bite +5 (1d8+1) 
@@ -39,7 +39,7 @@ NE Large [outsider](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creatur
 **hp** 126 (12d10+60)  
 **Fort** +13, **Ref** +10, **Will** +5  
 **Immune** fire, cold, electricity 
-**SQ** All-Around Vision (Ex)
+**SQ** All-Around Vision (Ex), *Aura of Distortion (Su)* - Stygian Abyss Hounds appear for all intents and purposes as a normal, if oversized, wolfhound, until they attack a target. The target of the Stygian Abyss Hound's attack makes a DC 22 (10 + HD) Will Save to overcome the illusion and see the creature for what it truly is. Having the nature of the creature pointed out is enough to allow a creature to roll a Will Save as if they had been attacked. This is a mind-affecting effect.
 ## Offense
 **Speed** 40 ft.  
 **Melee** bite +20 (2d6+12/19–20 plus 2d6 fire)  
@@ -53,7 +53,7 @@ NE Large [outsider](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creatur
 **Languages** Abyssal
 ## Ecology
 **Environment** any (The Abyss)  
-**Organization** solitary, pair, or pack (3–6)  
+**Organization** solitary 
 **Treasure** incidental
 
-These mad, snarling hounds stand easily as tall as a man, and while far less mindlessly loyal than their infernal counterparts, their snapping fangs, razor-sharp claws and immense size still make them favored mounts and pets for Daemon-worshipping Clerics and Antipaladins.
+These mad, snarling hounds' whole bodies are covered in glaring, blood red eyes. Each stands easily as tall as a man. While far less mindlessly loyal than their infernal counterparts, their snapping fangs, razor-sharp claws and immense size still make them favored mounts and pets for Daemon-worshipping Clerics and Antipaladins. Abyss Hounds that have reached this life stage have typically staked out large hunting grounds for themselves within the Abyss, rather than possessing and corrupting warhounds in the Prime Material, and are often far too aggressive to come together with others of their species aside from to occasionally perform whatever unholy acts pass for reproduction among Daemonkind. Even then, Abyss Hound pups are powerful enough hunters to fend for themselves within hours of being born. Some especially old Stygian Abyss Hounds may even begin displaying signs of advanced intelligence, collecting trophies from their hunts and reveling in the remembered horror of the tortured, roiling soul screaming for all eternity within their very essence.
