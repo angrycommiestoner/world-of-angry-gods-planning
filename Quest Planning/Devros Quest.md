@@ -17,7 +17,7 @@ The hidden room the party is escorted to is well hidden, and the Priestess takes
 If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. The party receives 1 round to make a DC 30 Perception check followed by a DC 35 Disable Device or Knowledge (Engineering) check to discover and use a similar floor mechanism inside the room to unlock and open the door before they must begin making saves against this poison (DC 28 Fortitude, on failure take 1d3 points of Wisdom damage for 1d4 rounds. Being reduced to 1 Wisdom or less causes the victim to fall unconscious until the poison passes from their system.)
 
 # Encounter 2: The Long Hall
-After freeing themselves from the hidden room, the party is confronted by 2 obviously addled Paladins of Sarenrae, half-
+After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 3 large bloodhounds. At the sight of the party, the Paladin and all 3 beasts attack without hesitation. DC 30 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds.
 ## Corrupted Crusader (CR 4)
 **XP** 1,200  
 Human paladin of Sarenrae 5  
@@ -47,3 +47,33 @@ LG Medium humanoid (human)
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
 
+
+## Abyss Hound (CR 3)
+**XP** 800  
+LE Medium outsider (evil, extraplanar, chaotic)  
+**Init** +5; **Senses** darkvision 60 ft., scent; Perception +7
+### Defense
+**AC** 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)  
+**hp** 30 (4d10+8)   
+**Fort** +6, **Ref** +5, **Will** +1  
+**Immune** fire, cold, electricity
+### Offense
+**Speed** 40 ft.  
+**Melee** bite +5 (1d8+1) 
+**Special Attacks** latching jaws (bite triggers attach UMA), blood loss (1d2+1 constitution damage)
+### Statistics
+
+**Str** 13, **Dex** 13, **Con** 15, **Int** 6, **Wis** 10, **Cha** 6  
+**Base Atk** +4; **CMB** +5; **CMD** 16 (20 vs. trip)  
+**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Powerful Maneuvers], [Deft Maneuvers] [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative), [Run](https://aonprd.com/FeatDisplay.aspx?ItemName=Run),   
+**Skills** Acrobatics +8, Perception +7, Stealth +13, Survival +7; **Racial Modifiers** +5 CMB to Grapple Checks  
+**Languages** Abyssal (cannot speak)
+### Ecology
+
+**Environment** any (The Abyss)  
+**Organization** solitary, pair, or pack (3–12)  
+**Treasure** incidental
+
+### Description
+
+A typical hell hound stands 4–5 feet tall at the shoulder and weighs 120 pounds. Efficient hunters, a favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving prey toward the rest of the pack with their fiery breath. If the prey doesn’t run, the pack closes in. Hell hounds track fleeing creatures relentlessly.
