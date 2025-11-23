@@ -41,7 +41,7 @@ LG Medium humanoid (human)
 
 **Str** 16, **Dex** 8, **Con** 13, **Int** 10, **Wis** 12, **Cha** 16  
 **Base Atk** +5; **CMB** +8; **CMD** 17  
-**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Cantrips](http://spheresofpower.wikidot.com/general-feats#toc9), [Cantrips, Improved](http://spheresofpower.wikidot.com/general-feats#toc10) [Selective Channeling](https://www.d20pfsrd.com/feats/general-feats/selective-channeling/), [Toughness](https://www.d20pfsrd.com/feats/general-feats/toughness/), [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance/), [Diehard](https://www.d20pfsrd.com/feats/general-feats/diehard/), [Combat Stamina](https://aonprd.com/CombatStamina.aspx), [Armor Focus (Full Plate)](https://www.d20pfsrd.com/feats/combat-feats/armor-focus-combat/) [Shield Focus](https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat/), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/)
+**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Cantrips](http://spheresofpower.wikidot.com/general-feats#toc9), [Cantrips, Improved](http://spheresofpower.wikidot.com/general-feats#toc10) [Selective Channeling](https://www.d20pfsrd.com/feats/general-feats/selective-channeling/), [Powerful Maneuvers](https://michaeliantorno.com/feat-taxes-in-pathfinder/#:~:text=Powerful%20Maneuvers,-New) [Toughness](https://www.d20pfsrd.com/feats/general-feats/toughness/), [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance/), [Diehard](https://www.d20pfsrd.com/feats/general-feats/diehard/), [Combat Stamina](https://aonprd.com/CombatStamina.aspx), [Armor Focus (Full Plate)](https://www.d20pfsrd.com/feats/combat-feats/armor-focus-combat/) [Shield Focus](https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat/), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/)
 **Skills** Diplomacy +11, Heal +9, Ride +4  
 **Languages** Common  
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
@@ -64,16 +64,14 @@ LE Medium outsider (evil, extraplanar, chaotic)
 ### Statistics
 
 **Str** 13, **Dex** 13, **Con** 15, **Int** 6, **Wis** 10, **Cha** 6  
-**Base Atk** +4; **CMB** +5; **CMD** 16 (20 vs. trip)  
-**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Powerful Maneuvers], [Deft Maneuvers] [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative), [Run](https://aonprd.com/FeatDisplay.aspx?ItemName=Run),   
-**Skills** Acrobatics +8, Perception +7, Stealth +13, Survival +7; **Racial Modifiers** +5 CMB to Grapple Checks  
+**Base Atk** +4; **CMB** +5 (+9 to Grapple); **CMD** 16 (20 vs. trip)  
+**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Powerful Maneuvers](https://michaeliantorno.com/feat-taxes-in-pathfinder/#:~:text=Powerful%20Maneuvers,-New), [Deft Maneuvers](https://michaeliantorno.com/feat-taxes-in-pathfinder/#:~:text=Deft%20Maneuvers,-New) [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative), [Run](https://aonprd.com/FeatDisplay.aspx?ItemName=Run)**Skills** Acrobatics +8, Perception +7, Stealth +13, Survival +7; **Racial Modifiers** +5 CMB to Grapple Checks  
 **Languages** Abyssal (cannot speak)
 ### Ecology
 
 **Environment** any (The Abyss)  
 **Organization** solitary, pair, or pack (3–12)  
 **Treasure** incidental
-
 ### Description
 
-A typical hell hound stands 4–5 feet tall at the shoulder and weighs 120 pounds. Efficient hunters, a favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving prey toward the rest of the pack with their fiery breath. If the prey doesn’t run, the pack closes in. Hell hounds track fleeing creatures relentlessly.
+An Abyssal Hound resembles a demented artist's vision of a greyhound, standing at between 4–5 feet tall at the shoulder and weighing 120 pounds on average. It is said that Abyss Hounds hunger endlessly and, once they have sunk their teeth into prey, they will hold on relentlessly until they drag their prey down from sheer exhaustion.
