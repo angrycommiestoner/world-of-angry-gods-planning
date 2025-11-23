@@ -14,8 +14,8 @@ Here the party will be welcomed warmly by a dark-haired Priestess of Sarenrae wi
 
 The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 25 Perception roll is required to spot her secretly operate the mechanism in the floor.
 
-If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. Once they realize they are trapped, the party may make a DC 40 Athletics check to try and force the door or a DC 25 Perception check followed by a DC 30 Disable Device or Knowledge (Engineering) check to discover and use the hidden mechanism inside the room to unlock and open the door. 
-## Poisoned Gas Trap (CR 4, 1200 XP)
+If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. Once they realize they are trapped, the party may make a DC 40 Athletics check to try and force the door or a DC 25 Perception check followed by a DC 30 Disable Device or Knowledge (Engineering) check to discover and use the hidden mechanism inside the room to unlock and open the door. If the party unlocks or forces the door before disarming the gas trap, they only gain 1/2 the XP for the encounter.
+## Statblock: Poisoned Gas Trap (CR 4, 1200 XP)
 **Type** Mechanical; **Notice** Perception DC 22; **Remove** Disable Device DC 20; **Trigger** touch; **Reset** manual; **Bypass** hidden switch (DC 25 Perception to locate)
 **Effect** Poison gas (Essence of Blue Whinnis); **Save** Fortitude DC 18 (Concentrated, +1 CR); **Special** This trap continues spewing poison until it is manually disabled. The primary activation method is a switch on the outside of the room the trap affects.
 _Essence of Blue Whinnis_
@@ -24,7 +24,7 @@ _Essence of Blue Whinnis_
 **Effect** Healthy—Weakened—Unconscious; No End State
 # Room 3, Encounter 2: The Long Hall
 After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 2 large bloodhounds. At the sight of the party, the Paladin and both beasts attack without hesitation. DC 15 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds. Upon finishing this fight, the party can continue further into the bowels of the church or return the way they came to the Vestibule in search of the Priestess.
-## Corrupted Crusader (CR 4 1200 XP)
+## Statblock: Corrupted Crusader (CR 4 1200 XP)
 Human paladin of Sarenrae 5  
 LG Medium humanoid (human)  
 **Init** –1; **Senses** Perception +1  
@@ -52,7 +52,7 @@ LG Medium humanoid (human)
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
 
-## Abyss Hound (CR 3)
+## Statblock: Abyss Hound (CR 3)
 _Some legends tell of a deal between Szuriel and Asmodeus that resulted in these mongrelized, Daemonic cousins to the infernal Hellhound. Some scholars, however, suggest perhaps, that their appearance is merely a rare case of covergent evolution across the astral sea. Whatever the case, these horrifying persistence hunters can be found across the multiverse wherever there are battlefields. They often possess warhounds and weave minor enchantments about their "owners" to disregard the odd changes such beasts undergo_
 **XP** 800  
 NE Medium outsider (evil, extraplanar, chaotic)  
@@ -82,7 +82,46 @@ NE Medium outsider (evil, extraplanar, chaotic)
 
 An Abyssal Hound resembles a demented artist's vision of a greyhound, standing at between 4–5 feet tall at the shoulder and weighing 120 pounds on average. It is said that Abyss Hounds hunger endlessly and, once they have sunk their teeth into prey, they will hold on relentlessly until they drag their prey down from sheer exhaustion.
 # Room 1b: Returning to the Vestibule, Exploring the Garden
-Upon returning to the Vestibule, the party will find the murderous priestess missing, along with all of the other priests and parishioners visiting the Dawnmother's temple, whom the party would have certainly seen on their way in. The Vestibule lies abandoned. A DC 15 Perception check reveals that a stained glass mural against one wall contains a strangely arching "hidden" door integrated into one side of it, which leads to a small garden where patches of sunflowers, merigold, mint, and a few other tea herbs can be found. If the party takes their time to explore the garden, a DC 16 Survival check will allow a clever herbalist to gather a few of the more expensive herbs from a slightly obscured box at the back of the garden.
+Upon returning to the Vestibule, the party will find the murderous priestess missing, along with all of the other priests and parishioners visiting the Dawnmother's temple, whom the party would have certainly seen on their way in. The Vestibule lies abandoned. A DC 15 Perception check reveals that a stained glass mural against one wall contains a strangely arching "hidden" door integrated into one side of it, which leads to a small garden where patches of sunflowers, merigold, mint, and a few other tea herbs can be found. If the party takes their time to explore the garden, a DC 16 Survival check will allow a clever herbalist to gather a few of the more expensive herbs (Worth ~50 GP in Spell Components) from a slightly obscured box at the back of the garden.
 
 # Room 4, Encounter 3: Angels in the Atrium
-Continuing further down the hall into the Temple of Sarenrae will eventually lead the party to two paths. One arching door leads to a wide open atrium where oddly-shaped golden creatures zip from tree to tree, almost akin to birds. These creatures are Cassians, a type of angel renowned for their perfect memories, a fact which can be recalled with a successful DC 15 Knowledge (Planes) check. These Angels are not immediately hostile to the party, but will defend themselves if provoked. They show some deference to those that introduce themselves as worshippers of Sarenrae, and a DC 22 Diplomacy check will convince them to tell the party about the events of the last several weeks, including Father Traric’s sudden reclusion, with orders from the church’s leader coming now from the mouth of a woman who wears the robes of Sarenrae, but who is constantly followed by an aura of death and horror. If asked to describe the woman, they will tell the party that she wears hooded robes, but that her auburn hair, worn in a long
+Continuing further down the hall into the Temple of Sarenrae eventually leads the party to a wide open atrium where oddly-shaped golden creatures zip from place to place, almost akin to birds. These creatures are Cassians, a type of angel renowned for their perfect memories, a fact which can be recalled with a successful DC 15 Knowledge (Planes) check. These Angels are not immediately hostile to the party, but will defend themselves if provoked. They show some deference to those that introduce themselves as worshippers of Sarenrae, and a DC 22 Diplomacy check will convince them to tell the party about the events of the last several weeks, including Father Traric’s sudden personality change and reclusion, as well as how orders from the church’s leader are coming now from the mouth of a stranger woman who wears the robes of Sarenrae, but who is constantly followed by an aura of death and horror. If asked to describe the woman, they will tell the party of an aged woman with long, braided silver-gray hair and icy white eyes that seem to pierce and dissect any unfortunate thing they happen to gaze upon.
+
+## Statblock: Cassian (CR 2, XP 600)
+NG Small [outsider](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider) ([angel](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Angel), [extraplanar](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Extraplanar), [good](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Good))  
+**Init** +0; **Senses** [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) 60 ft., [_detect evil_](https://www.d20pfsrd.com/magic/all-spells/d/detect-evil), [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +5  
+**Aura** lesser protective aura
+### Defense
+**AC** 14, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 11, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 14 (+3 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Natural-Armor-), +1 [size](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Size-)) (+2 [deflection](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-) vs. evil)  
+**hp** 13 (2d10+2)  
+**Fort** +4, **Ref** +3, **Will** +2; +4 vs. [poison](https://www.d20pfsrd.com/gamemastering/afflictions#TOC-Poison); +2 resistance vs. evil  
+**DR** 5/cold iron or evil; **Immune** acid, cold, petrification; **Resist** electricity 10, fire 10
+### Offense
+**Speed** fly 60 ft. (perfect)  
+**Melee** slam –1 (1d3–4)  
+**Special Attacks** [breath weapon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Breath-Weapon-Su-) (15-ft. line, 1d6 cold or 1d6 fire, [Reflex](https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex) DC 12 half, usable every 1d4 rounds)
+#### Spell-Like Abilities (CL 3rd; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +3)
+**Constant**–[detect evil](https://www.d20pfsrd.com/magic/all-spells/d/detect-evil), [know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction)  
+**1/day**–[aid](https://www.d20pfsrd.com/magic/all-spells/a/aid), [daylight](https://www.d20pfsrd.com/magic/all-spells/d/daylight)  
+**1/week**–[commune](https://www.d20pfsrd.com/magic/all-spells/c/commune) (six questions, CL 12th)
+### Statistics
+**Str** 3, **Dex** 11, **Con** 12, **Int** 6, **Wis** 11, **Cha** 10  
+**Base Atk** +2; **CMB** –3; **CMD** 7 (can’t be [tripped](https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip))  
+**Feats** [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will)  
+**Skills** [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +2, [Fly](https://www.d20pfsrd.com/skills/fly) +10, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (planes) +2, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (religion) +2, [Perception](https://www.d20pfsrd.com/skills/perception) +5, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +4, [Stealth](https://www.d20pfsrd.com/skills/stealth) +8  
+**Languages** Celestial, Draconic, Infernal; [truespeech](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Angel)  
+**SQ** change shape (2 of the following forms: Small human-like angel, dove, dog, or Tiny fish, [polymorph](https://www.d20pfsrd.com/magic/all-spells/p/polymorph)), perfect memory
+### Special Abilities
+#### Perfect Memory (Ex)
+Though they are not particularly intelligent, cassisians have perfect memories and remember everything they see or hear. They can faultlessly recite conversations they heard hundreds of years before. They also have the power to erase portions of their own memories, which they do (usually under orders from superior angels) to protect sensitive information.
+#### Lesser Protective Aura (Su)
+A cassisian has a lesser form of the protective aura possessed by more powerful angels. This protective aura grants the cassisian a +2 [deflection bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-) to its AC against evil foes, and a +2 [resistance bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Resistance-Bonus) on all [saving throws](https://www.d20pfsrd.com/gamemastering/combat#TOC-Saving-Throws) made against evil effects or spells cast by evil creatures. This aura extends to a radius of 5 feet, but can only benefit one additional creature other than the cassisian at any one time. A cassisian’s protective aura is fragile, and as soon as an evil creature successfully strikes the cassisian, or as soon as the cassisian fails a [saving throw](https://www.d20pfsrd.com/gamemastering/combat#TOC-Saving-Throws) against an evil source, its protective aura fades away and is no longer applicable. The cassisian can reactivate its protective aura by spending 1 minute concentrating upon the task.
+
+### Ecology
+**Environment** any good-aligned plane  
+**Organization** solitary, pair, or squad (3–6)  
+**Treasure** none
+### Description
+Cassisians are the weakest sort of angel, but are absolutely dedicated to the cause of good. They serve as messengers for more powerful angels, and on the Material Plane they are often bound to good mortals to serve as familiars, acting as spiritual guides, reciting platitudes and quoting scripture from various benign faiths and philosophies (some forgotten for centuries).
+
+#
