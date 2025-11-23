@@ -1,6 +1,6 @@
 ```table-of-contents
 ```
-## Abyss Hound (CR 3)
+# Abyss Hound (CR 3)
 _Some legends tell of a deal between Szuriel and Asmodeus that resulted in these mongrelized, Daemonic cousins to the infernal Hellhound. Some scholars, however, suggest perhaps, that their appearance is merely a rare case of covergent evolution across the astral sea. Whatever the case, these horrifying persistence hunters can be found across the multiverse wherever there are battlefields. They often possess warhounds and weave minor enchantments about their "owners" to disregard the odd changes such beasts undergo_
 **XP** 800  
 NE Medium outsider (evil, extraplanar, chaotic)  

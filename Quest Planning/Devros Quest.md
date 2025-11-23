@@ -3,13 +3,13 @@
 # Quest Overview
 Devros was born as a result of the meddling of an Astradaemon in the affairs of a broken cult of Aroden in the wake of the death of the God of the Azlanti.
 
-Now, rumors of dark heresies committed by Father Traric reek of similar Daemonic meddling. Now the young man, unknowing host to a sliver of the abhorrent daemonic being known as The Bound Prince, seeks a way to avert the tragedy he has forseen. The Dawnflower whispers in his dreams, prompting him to take up her light to sear away the darkness that occupies her temple.
+Now, rumors of dark heresies committed by Father Traric reek of similar Daemonic meddling. The young Devros, unknowing host to a sliver of the abhorrent daemonic being known as The Bound Prince, seeks a way to avert the tragedy he has forseen. The Dawnflower whispers in his dreams, prompting him to take up her light to sear away the darkness that occupies her temple.
 
 Dungeon Run for PCs level 5-8
 
 Planning 5 fights, 3 small traps/non-combat encounters, 1 big trap/non-combat encounter, 1 boss fight.
 # Room 1: Temple Vestebule
-Here the party will be welcomed warmly by a Priestess of Sarenrae. A DC 50 Sense Motive or Spellcraft check reveals that this Priestess' mind is asleep and being actively controlled at a distance by something else. She will recognize Devros ("from Father Traric's description" if asked), approach the party, and offer to escort them to a private room where the Father would be "happy to meet them."
+Here the party will be welcomed warmly by a dark-haired Priestess of Sarenrae with bright green eyes. A DC 50 Sense Motive or Spellcraft check reveals that this Priestess' mind is asleep and being actively controlled at a distance by something else. She will recognize Devros ("from Father Traric's description" if asked), approach the party, and offer to escort them to a private room where the Father would be "happy to meet them."
 # Room 2, Encounter 1: Secret Sanctuary
 
 The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 25 Perception roll is required to spot her secretly operate the mechanism in the floor.
@@ -52,8 +52,9 @@ LG Medium humanoid (human)
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
 
-
-## Abyss Hound (CR 3, 800 XP)
+## Abyss Hound (CR 3)
+_Some legends tell of a deal between Szuriel and Asmodeus that resulted in these mongrelized, Daemonic cousins to the infernal Hellhound. Some scholars, however, suggest perhaps, that their appearance is merely a rare case of covergent evolution across the astral sea. Whatever the case, these horrifying persistence hunters can be found across the multiverse wherever there are battlefields. They often possess warhounds and weave minor enchantments about their "owners" to disregard the odd changes such beasts undergo_
+**XP** 800  
 NE Medium outsider (evil, extraplanar, chaotic)  
 **Init** +5; **Senses** darkvision 60 ft., scent; Perception +7
 ### Defense
@@ -61,6 +62,7 @@ NE Medium outsider (evil, extraplanar, chaotic)
 **hp** 30 (4d10+8)   
 **Fort** +6, **Ref** +5, **Will** +1  
 **Immune** fire, cold, electricity
+**SQ** *Aura of Distortion (Su)* - Abyss Hounds appear for all intents and purposes as a normal, if slightly oversized dog, until they attack a target. The target of the Abyss Hound's attack makes a DC 14 (10 + HD) Will Save to overcome the illusion and see the creature for what it truly is. Having the nature of the creature pointed out is enough to allow a creature to roll a Will Save as if they had been attacked. This is a mind-affecting effect.
 ### Offense
 **Speed** 40 ft.  
 **Melee** bite +5 (1d8+1) 
@@ -79,8 +81,8 @@ NE Medium outsider (evil, extraplanar, chaotic)
 ### Description
 
 An Abyssal Hound resembles a demented artist's vision of a greyhound, standing at between 4–5 feet tall at the shoulder and weighing 120 pounds on average. It is said that Abyss Hounds hunger endlessly and, once they have sunk their teeth into prey, they will hold on relentlessly until they drag their prey down from sheer exhaustion.
-
 # Room 1b: Returning to the Vestibule, Exploring the Garden
 Upon returning to the Vestibule, the party will find the murderous priestess missing, along with all of the other priests and parishioners visiting the Dawnmother's temple, whom the party would have certainly seen on their way in. The Vestibule lies abandoned. A DC 15 Perception check reveals that a stained glass mural against one wall contains a strangely arching "hidden" door integrated into one side of it, which leads to a small garden where patches of sunflowers, merigold, mint, and a few other tea herbs can be found. If the party takes their time to explore the garden, a DC 16 Survival check will allow a clever herbalist to gather a few of the more expensive herbs from a slightly obscured box at the back of the garden.
 
-# Room 4, Encounter 3
+# Room 4, Encounter 3: Angels in the Atrium
+Continuing further down the hall into the Temple of Sarenrae will eventually lead the party to two paths. One arching door leads to a wide open atrium where oddly-shaped golden creatures zip from tree to tree, almost akin to birds. These creatures are Cassians, a type of angel renowned for their perfect memories, a fact which can be recalled with a successful DC 15 Knowledge (Planes) check. These Angels are not immediately hostile to the party, but will defend themselves if provoked. They show some deference to those that introduce themselves as worshippers of Sarenrae, and a DC 22 Diplomacy check will convince them to tell the party about the events of the last several weeks, including Father Traric’s sudden reclusion, with orders from the church’s leader coming now from the mouth of a woman who wears the robes of Sarenrae, but who is constantly followed by an aura of death and horror. If asked to describe the woman, they will tell the party that she wears hooded robes, but that her auburn hair, worn in a long
