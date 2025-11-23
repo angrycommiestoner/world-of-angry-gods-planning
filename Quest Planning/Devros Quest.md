@@ -87,6 +87,8 @@ Upon returning to the Vestibule, the party will find the murderous priestess mis
 # Room 4, Encounter 3: Angels in the Atrium
 Continuing further down the hall into the Temple of Sarenrae eventually leads the party to a wide open atrium where oddly-shaped golden creatures zip from place to place, almost akin to birds. These creatures are Cassians, a type of angel renowned for their perfect memories, a fact which can be recalled with a successful DC 15 Knowledge (Planes) check. These Angels are not immediately hostile to the party, but will defend themselves if provoked. They show some deference to those that introduce themselves as worshippers of Sarenrae, and a DC 22 Diplomacy check will convince them to tell the party about the events of the last several weeks, including Father Traric’s sudden personality change and reclusion, as well as how orders from the church’s leader are coming now from the mouth of a stranger woman who wears the robes of Sarenrae, but who is constantly followed by an aura of death and horror. If asked to describe the woman, they will tell the party of an aged woman with long, braided silver-gray hair and icy white eyes that seem to pierce and dissect any unfortunate thing they happen to gaze upon.
 
+As the party departs from the atrium, they are given 2 choices of where to go. On [[#Room 5 Descend Beneath the Temple|one side]] of the Atrium is a set of stairs that lead down to an underground section of the temple. On [[#Room 6 Another Long Hall|the other]] is a long hall with what appears to be a large door at the far end.
+
 ## Statblock: Cassian (CR 2, XP 600)
 NG Small [outsider](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider) ([angel](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Angel), [extraplanar](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Extraplanar), [good](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Good))  
 **Init** +0; **Senses** [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) 60 ft., [_detect evil_](https://www.d20pfsrd.com/magic/all-spells/d/detect-evil), [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +5  
@@ -124,4 +126,11 @@ A cassisian has a lesser form of the protective aura possessed by more powerful 
 ### Description
 Cassisians are the weakest sort of angel, but are absolutely dedicated to the cause of good. They serve as messengers for more powerful angels, and on the Material Plane they are often bound to good mortals to serve as familiars, acting as spiritual guides, reciting platitudes and quoting scripture from various benign faiths and philosophies (some forgotten for centuries).
 
-#
+# Room 5: Descend Beneath the Temple
+As the party descends to the lower level, the staircase vanishes beneath them, folding into completely smooth slats and creating a perfect ramp for the adventurers to fall down.
+## Statblock: Tipping Stairs Trap (CR 5, XP 1,600)
+**Type** mechanical; **Perception** DC 27; **Disable Device** DC 25; **Trigger** location; **Bypass** hidden lever (Perception DC 25 to Detect); **Reset** manual
+**Effect** 50-ft. fall (5d6, falling damage), Reflex DC 20 avoids
+
+# Room 6: Another Long Hall
+The hall leading to the 
