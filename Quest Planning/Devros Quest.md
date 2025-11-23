@@ -14,7 +14,34 @@ Here the party will be welcomed warmly by a Priestess of Sarenrae. A DC 50 Sense
 
 The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 28 Perception roll is required to spot her secretly operate the mechanism in the floor.
 
-If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. The party receives 1 round to make a DC 30 Perception check followed by a DC 35 Disable Device or Knowledge (Engineering) check to discover and use a similar floor mechanism inside the room to unlock and open the door before they must begin making saves against this poison (DC 28 Fortitude, on failure take 1d3 points of Wisdom damage for 1d4 rounds. Being reduced to 1 Wisdom or less causes the victim to fall unconscious until the poison passes from thei)
+If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. The party receives 1 round to make a DC 30 Perception check followed by a DC 35 Disable Device or Knowledge (Engineering) check to discover and use a similar floor mechanism inside the room to unlock and open the door before they must begin making saves against this poison (DC 28 Fortitude, on failure take 1d3 points of Wisdom damage for 1d4 rounds. Being reduced to 1 Wisdom or less causes the victim to fall unconscious until the poison passes from their system.)
 
+## Corrupted Crusader (CR 4)
 
-### Statblock: Paladins of Sarenrae
+**XP** 1,200  
+Human paladin of Sarenrae 5  
+LG Medium humanoid (human)  
+**Init** –1; **Senses** Perception +1  
+**Aura** courage (10 ft.)
+### Defense
+
+**AC** 20, touch 9, flat-footed 20 (+9 armor, –1 Dex, +2 shield)  
+**hp** 42 (5d10+10)  
+**Fort** +8, **Ref** +3, **Will** +8  
+**Immune** disease, fear
+### Offense
+
+**Speed** 20 ft.  
+**Melee** +1 cold iron longsword +10 (1d8+4/19–20)
+**Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+3 attack and AC, +5 damage)  
+**Paladin Spells Prepared** (CL 2nd; concentration +5)  
+1st—_bless weapon_, _lesser restoration_
+### Statistics
+
+**Str** 16, **Dex** 8, **Con** 13, **Int** 10, **Wis** 12, **Cha** 16  
+**Base Atk** +5; **CMB** +8; **CMD** 17  
+**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/),  [Skill Focus (Ride)](https://aonprd.com/FeatDisplay.aspx?ItemName=Skill%20Focus), [Spirited Charge](https://aonprd.com/FeatDisplay.aspx?ItemName=Spirited%20Charge)  
+**Skills** Diplomacy +11, Heal +9, Ride +4  
+**Languages** Common  
+**SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
+**Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, dagger, javelins (4), mwk cold iron longsword, mwk lance, everburning torch, silver holy symbol of Iomedae, spell component pouch, 83 gp)
