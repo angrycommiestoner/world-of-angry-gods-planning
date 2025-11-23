@@ -16,8 +16,9 @@ The hidden room the party is escorted to is well hidden, and the Priestess takes
 
 If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. The party receives 1 round to make a DC 30 Perception check followed by a DC 35 Disable Device or Knowledge (Engineering) check to discover and use a similar floor mechanism inside the room to unlock and open the door before they must begin making saves against this poison (DC 28 Fortitude, on failure take 1d3 points of Wisdom damage for 1d4 rounds. Being reduced to 1 Wisdom or less causes the victim to fall unconscious until the poison passes from their system.)
 
+# Encounter 2: The Long Hall
+After freeing themselves from the hidden room, the party is confronted by 2 obviously addled Paladins of Sarenrae, half-
 ## Corrupted Crusader (CR 4)
-
 **XP** 1,200  
 Human paladin of Sarenrae 5  
 LG Medium humanoid (human)  
@@ -25,8 +26,8 @@ LG Medium humanoid (human)
 **Aura** courage (10 ft.)
 ### Defense
 
-**AC** 20, touch 9, flat-footed 20 (+9 armor, –1 Dex, +2 shield)  
-**hp** 42 (5d10+10)  
+**AC** 22, touch 9, flat-footed 20 (+10 armor, –1 Dex, +3 shield)  
+**hp** 47 (5d10+15)  
 **Fort** +8, **Ref** +3, **Will** +8  
 **Immune** disease, fear
 ### Offense
@@ -40,8 +41,9 @@ LG Medium humanoid (human)
 
 **Str** 16, **Dex** 8, **Con** 13, **Int** 10, **Wis** 12, **Cha** 16  
 **Base Atk** +5; **CMB** +8; **CMD** 17  
-**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/),  [Skill Focus (Ride)](https://aonprd.com/FeatDisplay.aspx?ItemName=Skill%20Focus), [Spirited Charge](https://aonprd.com/FeatDisplay.aspx?ItemName=Spirited%20Charge)  
+**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Cantrips](http://spheresofpower.wikidot.com/general-feats#toc9), [Cantrips, Improved](http://spheresofpower.wikidot.com/general-feats#toc10) [Selective Channeling](https://www.d20pfsrd.com/feats/general-feats/selective-channeling/), [Toughness](https://www.d20pfsrd.com/feats/general-feats/toughness/), [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance/), [Diehard](https://www.d20pfsrd.com/feats/general-feats/diehard/), [Combat Stamina](https://aonprd.com/CombatStamina.aspx), [Armor Focus (Full Plate)](https://www.d20pfsrd.com/feats/combat-feats/armor-focus-combat/) [Shield Focus](https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat/), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/)
 **Skills** Diplomacy +11, Heal +9, Ride +4  
 **Languages** Common  
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
-**Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, dagger, javelins (4), mwk cold iron longsword, mwk lance, everburning torch, silver holy symbol of Iomedae, spell component pouch, 83 gp)
+**Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
+
