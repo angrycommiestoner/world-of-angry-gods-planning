@@ -22,13 +22,8 @@ _Essence of Blue Whinnis_
 **Type** poison, inhaled; **Save** Fortitude DC 14
 <<<<<<< HEAD
 **Track** Constitution (Special, see text); **Frequency** 1/round for 2 rounds.
-**Effect** Healthy—Weakened—Unconscious; No End State **(Should be: Initial Effect: 1-2 Con damage**
-**Secondary Effect: Unconsciousness for 1d3 hours)**
-=======
-**Track** Constitution (Special, see text); **Frequency** 1/round for 2 rounds; **Cure** 1 Save
-**Initial Effect** 1 Con Damage
+**Initial Effect** 1Con damage
 **Secondary Effect** Unconsciousness for 1d3 hours
->>>>>>> origin/main
 # Room 3, Encounter 2: The Long Hall
 After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 2 large bloodhounds. At the sight of the party, the Paladin and both beasts attack without hesitation. DC 15 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds. Upon finishing this fight, the party can continue further into the bowels of the church or return the way they came to the Vestibule in search of the Priestess.
 ## Statblock: Corrupted Crusader (CR 4 1200 XP)
@@ -325,8 +320,6 @@ Dolly’s whole goal in enacting this scheme was to bring Devros before her and 
 
 If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, all spells and effects she was maintaining will immediately end, freeing any remaining Sarenite clergy from her control.
 
-<<<<<<< HEAD
-If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, all spells and effects she was maintaining will immediately end.
 **(To add more, urgency to the quest I'd introduce a timer to the fight, if the group does not resolve the fight in a satisfactory fashion<ergo, kill the congregation> Dolly will threaten to Kill Sister Magdelon. Forcing Dervos to pick who dies seems very on point. I'd give the party five turns to resolve the encounter, if the fight drags on the Sister dies. If you want Dolly to be particularly cruel, she might trap her soul as a way to keep Dervos coming after her.)
 =======
 >>>>>>> origin/main  1
