@@ -73,8 +73,13 @@ Perhaps the worst part about this room is the false hope the first several sente
 There we go! Short, simple, to the point, _and_ it’s existence is now ludonarratively justified! Now, some of you might have some questions, like “how many plants can I grow in a greenhouse?” and I’m glad to inform you that the answers can be found below!
 
 ### 2) New Downtime Building: Arcane Reservoir
-Next up is a completely NEW downtime building! The Arcane Reservoir allows a magical horticulturalist to keep the bounty of their harvests 
-
+Next up is a completely NEW downtime building! The Arcane Reservoir will allow a magical horticulturalist to keep and enhance the bounty of their harvest:
+> **Arcane Reservoir**
+> **Earnings** see text
+> **Benefit** Bonuses to raising Magical Plants
+> **Create** [Deliberately Left Blank for Manual Adjustment]
+> **Time** 16 days; **Size** 8 Squares; **Upgrades From** Reservoir System
+> **Effect** 
 ### 3) Cultivate Magical Plants Changes
 As we established in part 1, the rules for cultivating magical plants *suck*. There’s no two ways about it, unfortunately. With that in mind, let’s change how some of those rules work.
 
