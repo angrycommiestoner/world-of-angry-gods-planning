@@ -133,7 +133,7 @@ As the party descends to the lower level, the staircase vanishes beneath them, f
 **Effect** 50-ft. fall (5d6, falling damage), Reflex DC 20 avoids
 
 # Room 6: The Tomb of the Dawnmother’s Faithful
-A winding and beautiful ancient catacomb twists for miles under the temple and several surrounding city blocks, with new construction occasionally breaking through unsanctimoniously into long-sealed or abandoned portions of the temple underway. A complex system of mirrors placed carefully within thin chutes in the wall allows The Everlight to keep eternal watch over her entombed faithful, and beautiful stained glass murals depicting beautiful natural vistas create grottoes of effervescence. There is _much_ that could be explored here, but a DC 16 Knowledge (Religion) check will quickly remind the players that it is rumored that the divinely appointed spirits of Sarenrae’s guardian saints, as well as angelic guardians wander these halls, protecting their charges from would-be graverobbers. Push for the party to not stay here long and instead press towards their real goal. If the party insists on exploring the catacombs for anything of value, roll a d100. On anything less than a 95, the party’s first encounter is with the spirit of the Sarenite Saint, Saint Luxor Il Vathos, who commands them to depart. If any members of the party identify themselves as Sarenites, Saint Luxor stands firm in his duty, insisting that the party must depart from this place, and charging them with purging the evil that has . 
+A winding and beautiful ancient catacomb twists for miles under the temple and several surrounding city blocks, with new construction occasionally breaking through unsanctimoniously into long-sealed or abandoned portions of the temple underway. A complex system of mirrors placed carefully within thin chutes in the wall allows The Everlight to keep eternal watch over her entombed faithful, and beautiful stained glass murals depicting beautiful natural vistas create grottoes of effervescence. There is _much_ that could be explored here, but a DC 16 Knowledge (Religion) check will quickly remind the players that it is rumored that the divinely appointed spirits of Sarenrae’s guardian saints, as well as angelic guardians wander these halls, protecting their charges from would-be graverobbers. Push for the party to not stay here long and instead press towards their real goal. If the party insists on exploring the catacombs for anything of value, roll a d100. On anything less than a 95, the party’s first encounter is with the spirit of the Sarenite Saint, Saint Luxor Il Vathos, who commands them to depart. If any members of the party identify themselves as Sarenites, Saint Luxor stands firm in his duty, insisting that the party must depart from this place. He will, however, inform them that the power of those who guard the catacombs is, unfortunately, *limited* to the catacombs, and charge the party with purging the evil that has come to infest the temple, before invoking a _miracle_ to return the party to the atrium from whence they descended to the catacombs. 
 # Room 7: Hall of Connection
 The so-called “Hall of Connection” — thus named in part because it connects the large atrium to the Grand Cathedral Hall and in part because of a long-established tradition of Sarenite couples who are married in the church to walk down the hall together in meditation on the nature of the shared connection they are forging — is a lengthy marble hall with stained glass walls that depict scenes from _”The Windsong Testaments”_. The hall is lined with many different statues, paintings, suits of armor, and various holy relics and artifacts left in the care of the church by wealthy nobles. A DC 35 Appraisal check reveals that the assembled wealth in the hall is worth approximately 960,000 GP if sold at wholesale market prices, and further investigation (DC 25 Perception and/or Detect Magic or similar) reveals some particularly significant (and/or potentially useful) items, including a Decanter of Endless Holy Water (12,500 GP), a Scroll of [Sacred Nimbus](https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus) (CL 15, 937 GP), a Scroll of [Banishment](https://www.d20pfsrd.com/magic/all-spells/b/banishment) (CL 20, DC 35 will save negates 1,500 GP) and a Scroll of [Holy Word](https://www.d20pfsrd.com/magic/all-spells/h/holy-word) (CL 25, DC 40, 2187.5 GP), as well as a book of Sarenite scriptures, _”The Windsong Testaments”_, whose white, velvet-wrapped cover is bound in gold thread and inlaid with gemstones (9,500 GP, contains several high-level Divine rituals, can DM with more info if it comes up). At the end of the hall is the Grand Hall, where the voices of the Dawnmother’s faithful have long been raised in prayer and supplication to Sarenrae.
 
@@ -141,7 +141,7 @@ Now, as the party approaches, it is *silent*. An aura of malice and dread can be
 
 # Room 8: The Grand Hall of the Temple of the Dawnmother
 As the party enters the room, Devros finds confirmation of horror beyond his worst imaginings. A line of supplicants lay bound before a group of priests and priestesses in the robes of Sarenrae. The broken-eyed, fanatical members of the clergy chant in a horrible, twisted tongue while strangling the Sarenite worshippers before them. Their words seem to call to some deep, slumbering piece of Devros’ soul. Abyssal. The tongue of Daemons… And at the head of their congregation, a woman he is utterly certain he’s known all his life, and yet equally as certainly knows he’s never seen before, whispers heresies into Father Traric’s ears. For his part, Father Traric’s eyes are glassy and half-focused, and his chanting seems more hesitant than the other priests’. Despite the heavy flanged whip in his hand, and the towering height between himself and the strange woman, he very obviously isn’t in any semblance of control over the situation. At last, the true horror of the scene finally unveils itself as Devros sees before him the object of Father Traric’s abuse… Sister Magdelon, bloody, bruised, beaten within an inch of her life, and crucified against the golden ankh, the divine symbol of Sarenrae. She may once have had the strength left to scream. Now, as Traric raised the whip, the strange woman’s cloying whispers seemingly encouraging, no, forcing him to continue in this barbarous act, the woman who raised Devros cannot muster so much as a whimper. Her eyes roll into the back of her head as the whip makes contact and she slumps forward against the pain of her restraints, rendered unconscious by the beating at last, flecks of foam spittle still clinging to her lips.
-## Statblock: Corrupted Crusader (CR 4 1200 XP)
+## Statblock: Corrupted Crusader, x4 (CR 4 1200 XP)
 Human paladin of Sarenrae 5  
 LG Medium humanoid (human)  
 **Init** –1; **Senses** Perception +1  
@@ -168,6 +168,34 @@ LG Medium humanoid (human)
 **Languages** Common  
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
+
+## Statblock: Fanatically Broken Priest, x6 (CR 2, 600 XP)
+Human cleric 3  
+NG Medium humanoid  
+**Init** +1; **Senses** Perception +3
+### Defense
+**AC** 18, touch 11, flat-footed 17 (+6 armor, +1 Dex, +1 shield)  
+**hp** 16 (3d8+3)  
+**Fort** +4, **Ref** +2, **Will** +5
+### Offense
+**Speed** 20 ft.  
+**Melee** mwk sickle +3 (1d6)  
+**Ranged** dart +3 (1d4)  
+**Special Attacks** channel negative energy 6/day (DC 14, 2d6)  
+**Spell-Like Abilities** (CL 3rd; concentration +5)  
+6/day—rebuke death (1d4+1), touch of evil (1 round)  
+**Cleric Spells Prepared** (CL 3rd; concentration +5)  
+2nd—_cure moderate wounds_D, _death knell_ (DC 14), _hold person_ (DC 14)  
+1st—_bane_ (DC 13), _cause fear_ (DC 13), _cure light wounds_D, _doom_ (DC 13)  
+0 (at will)—_bleed_ (DC 12), _guidance_, _light_, _resistance_  
+**D** domain spell; **Domains** Evil, Healing
+### Statistics
+**Str** 10, **Dex** 13, **Con** 12, **Int** 8, **Wis** 15, **Cha** 16  
+**Base Atk** +2; **CMB** +2; **CMD** 13  
+**Feats** [Alignment Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Alignment%20Channel), [Combat Casting](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Casting), [Selective Channeling](https://aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling)  
+**Skills** Knowledge (planes) +4, Knowledge (religion) +4, Linguistics +4, Perception +3, Sense Motive +6, Spellcraft +3  
+**Languages** Abyssal, Common, Infernal  
+**Combat Gear** bloodroot poison (1 dose), vials of unholy water (2); **Other Gear** chainmail, light steel shield, darts (4), masterwork sickle, silver unholy symbol
 ## Statblock: Father Traric (CR 8, XP 4,800)
 Elf cleric 9  
 LN Medium humanoid (Elf)  
@@ -256,6 +284,6 @@ If the creature is killed, it returns to life 24 hours later, regardless of the 
 #### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
 #### During Combat
-Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Once the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners. Once the parishioners have been slaughtered, she will use _enthrall_ to monologue at Devros about the futility of his struggle against her, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp, she will _planeshift_ back to the Abyss.
+Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Dolly will never attack the PCs, but will instead spam Fear and Greater Teleport if targeted. Once the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners. Once the parishioners have been slaughtered, she will use _enthrall_ to attempt to monologue at Devros about the futility of his struggle against her, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp at any point, she will _planeshift_ back to the Abyss.
 
-If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, ll spells and effects she was maintaining will immediately end.
+If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, all spells and effects she was maintaining will immediately end.
