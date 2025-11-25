@@ -166,3 +166,8 @@ LG Medium humanoid (human)
 **Languages** Common  
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
+## Statblock: Father Traric (CR 8, XP 4,800)
+Human Paladin of Sarenrae 9
+LG Medium Humanoid (human)
+**Init** +3; **Senses** Perception +10
+**Aura** Courage (10 ft.), Resolve
