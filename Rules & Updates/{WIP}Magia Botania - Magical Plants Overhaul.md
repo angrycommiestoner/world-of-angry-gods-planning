@@ -58,4 +58,18 @@ So, what is the aspiring magical horticulturalist to do? Read on to find out.
 # Botania Magia
 ## Overhauling the Magic Plant system
 ### 1) Downtime Room Update: Mystic Greenhouse
-The Mystic Greenhouse 
+The Mystic Greenhouse certainly seems like it should do what we want it to already. _Unfortunately,_ this room is _horribly_ misnamed.
+> A Mystic Greenhouse has been specially modified to accommodate both the mundane and magical needs of [supernatural](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-) plants and creatures of the [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant) type, making them easier to work with. In addition to the glass walls of a traditional Greenhouse, this chamber is set with devices that focus ambient magical energy to the benefit of those creatures growing inside, such as rune-inscribed plates or mirrors arranged to reflect and funnel magical energy. After a full day of exposure to the Mystical Greenhouse’s beneficial effects, creatures within become relaxed and compliant. Other creatures gain a +2 bonus on [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) checks and [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)-based skill checks against creatures that have spent the past 24 hours in a Mystic Greenhouse.
+
+Perhaps the worst part about this room is the false hope the first several sentences of fluff promise before the actual mechanical effect takes a hard-right turn into a random +2 bonus to Charisma checks? The effect somehow manages to be both too circumstantial to ever be worth the investment _and_ a massive fail on the promised flavor by being too broad and applying to any creature, with or without the plant type! It’s insulting! Adjusting this building is the first step to improving this system and will be a good way to demonstrate how I want this overhauled system to work:
+
+>**Mystic Greenhouse**
+>**Earnings** see text
+>**Benefit** Bonuses to raising Magical Plants
+>**Create** [Deliberately Left Blank for Manual Adjustment]
+>**Time** 30 days; **Size** 12 Squares; **Upgrades From** Greenhouse, Apothecary
+>**Effect** A Mystic Greenhouse has been specially modified to accommodate both the mundane and magical needs of [supernatural](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-) plants and creatures of the [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant) type, making them easier to work with. In addition to the glass walls of a traditional Greenhouse, this chamber is set with devices that focus ambient magical energy to the benefit of those creatures growing inside, such as rune-inscribed plates or mirrors arranged to reflect and funnel magical energy. Magical Plants grown in a mystic greenhouse are always treated as being in their growing season.
+
+### 2) New Downtime Rooms: Arcane Reservoir, Enchanted Pantry
+
+Next s
