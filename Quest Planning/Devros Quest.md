@@ -169,10 +169,10 @@ LG Medium humanoid (human)
 ## Statblock: Father Traric (CR 8, XP 4,800)
 Human Paladin of Sarenrae 9
 LG Medium Humanoid (elf)
-**Init** +3; **Senses** Perception +10
+**Init** +0; **Senses** low-light vision, perception +10
 **Aura** courage (10 ft.), resolve (10 ft.)
 ### Defense
-**AC** 
+**AC** 23
 **HP** 108 (9d10+9+9)
 **Fort** +9 ; **Reflex** +6 ; **Will** +9 ;
 ### Offense
@@ -181,9 +181,12 @@ LG Medium Humanoid (elf)
 **Ranged** mwk heavy crossbow
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with whip)
 **Special Attacks** channel positive energy (DC 10+4+x, 5d6), smite evil 3/day (+x attack and AC, +9 damage)
-**Spell-Like Abilities** (CL 9th; Concentration +x)
+**Spell-Like Abilities** (CL 9th; Concentration +12)
 At will—detect evil
-**Paladin Spells Prepared** (CL 6th; Concentration +x)
+**Paladin Spells Prepared** (CL 6th; Concentration +9)
+
 ### Statistics
 **Str** 20, **Dex** 10, **Con** 14, **Int** 13, **Wis** 8, **Cha** 16,
 **BAB** +9 ; **CMB** +14 ; **CMD** 24
+**Feats** Armor Focus (Full Plate), Shield Focus, Vital Strike, Devastating Strike
+**Skills** Diplomacy +8, 
