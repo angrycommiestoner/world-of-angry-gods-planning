@@ -20,9 +20,15 @@ If the party follows the Priestess without resistance, she will lock them in the
 **Effect** Poison gas (Essence of Blue Whinnis); **Save** Fortitude DC 18 (Concentrated, +1 CR); **Special** This trap continues spewing poison until it is manually disabled. The primary activation method is a switch on the outside of the room the trap affects.
 _Essence of Blue Whinnis_
 **Type** poison, inhaled; **Save** Fortitude DC 14
+<<<<<<< HEAD
 **Track** Constitution (Special, see text); **Frequency** 1/round for 2 rounds.
 **Effect** Healthy—Weakened—Unconscious; No End State **(Should be: Initial Effect: 1-2 Con damage**
 **Secondary Effect: Unconsciousness for 1d3 hours)**
+=======
+**Track** Constitution (Special, see text); **Frequency** 1/round for 2 rounds; **Cure** 1 Save
+**Initial Effect** 1 Con Damage
+**Secondary Effect** Unconsciousness for 1d3 hours
+>>>>>>> origin/main
 # Room 3, Encounter 2: The Long Hall
 After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 2 large bloodhounds. At the sight of the party, the Paladin and both beasts attack without hesitation. DC 15 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds. Upon finishing this fight, the party can continue further into the bowels of the church or return the way they came to the Vestibule in search of the Priestess.
 ## Statblock: Corrupted Crusader (CR 4 1200 XP)
@@ -53,7 +59,7 @@ LG Medium humanoid (human)
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
 
-## Statblock: Abyss Hound (CR 3)
+## Statblock: [[Abyss Hound (CR 3, CR 9)|Abyss Hound x2 (CR 3, 800 XP)]]
 _Some legends tell of a deal between Szuriel and Asmodeus that resulted in these mongrelized, Daemonic cousins to the infernal Hellhound. Some scholars, however, suggest perhaps, that their appearance is merely a rare case of covergent evolution across the astral sea. Whatever the case, these horrifying persistence hunters can be found across the multiverse wherever there are battlefields. They often possess warhounds and weave minor enchantments about their "owners" to disregard the odd changes such beasts undergo_
 **XP** 800  
 NE Medium outsider (evil, extraplanar, chaotic)  
@@ -198,6 +204,35 @@ NG Medium humanoid
 **Skills** Knowledge (planes) +4, Knowledge (religion) +4, Linguistics +4, Perception +3, Sense Motive +6, Spellcraft +3  
 **Languages** Abyssal, Common, Infernal  
 **Combat Gear** bloodroot poison (1 dose), vials of unholy water (2); **Other Gear** chainmail, light steel shield, darts (4), masterwork sickle, silver unholy symbol
+## Statblock: [[Abyss Hound (CR 3, CR 9)|Abyss Hound x2 (CR 3, 800 XP)]]
+_Some legends tell of a deal between Szuriel and Asmodeus that resulted in these mongrelized, Daemonic cousins to the infernal Hellhound. Some scholars, however, suggest perhaps, that their appearance is merely a rare case of covergent evolution across the astral sea. Whatever the case, these horrifying persistence hunters can be found across the multiverse wherever there are battlefields. They often possess warhounds and weave minor enchantments about their "owners" to disregard the odd changes such beasts undergo_
+**XP** 800  
+CE Medium outsider (evil, extraplanar, chaotic)  
+**Init** +5; **Senses** darkvision 60 ft., scent; Perception +7
+### Defense
+**AC** 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)  
+**hp** 30 (4d10+8)   
+**Fort** +6, **Ref** +5, **Will** +1  
+**Immune** fire, cold, electricity
+**SQ** *Aura of Distortion (Su)* - Abyss Hounds appear for all intents and purposes as a normal, if slightly oversized dog, until they attack a target. The target of the Abyss Hound's attack makes a DC 14 (10 + HD) Will Save to overcome the illusion and see the creature for what it truly is. Having the nature of the creature pointed out is enough to allow a creature to roll a Will Save as if they had been attacked. This is a mind-affecting effect.
+### Offense
+**Speed** 40 ft.  
+**Melee** bite +5 (1d8+1) 
+**Special Attacks** latching jaws (bite triggers attach UMA), blood loss (1d2+1 constitution damage)
+### Statistics
+
+**Str** 13, **Dex** 13, **Con** 15, **Int** 6, **Wis** 10, **Cha** 6  
+**Base Atk** +4; **CMB** +5 (+9 to Grapple); **CMD** 16 (20 vs. trip)  
+**Feats** [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/), [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Powerful Maneuvers](https://michaeliantorno.com/feat-taxes-in-pathfinder/#:~:text=Powerful%20Maneuvers,-New), [Deft Maneuvers](https://michaeliantorno.com/feat-taxes-in-pathfinder/#:~:text=Deft%20Maneuvers,-New) [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative), [Run](https://aonprd.com/FeatDisplay.aspx?ItemName=Run)**Skills** Acrobatics +8, Perception +7, Stealth +13, Survival +7; **Racial Modifiers** +5 CMB to Grapple Checks  
+**Languages** Abyssal (cannot speak)
+### Ecology
+
+**Environment** any (The Abyss)  
+**Organization** solitary, pair, or pack (3–12)  
+**Treasure** incidental
+### Description
+
+An Abyssal Hound resembles a demented artist's vision of a greyhound, standing at between 4–5 feet tall at the shoulder and weighing 120 pounds on average. It is said that Abyss Hounds hunger endlessly and, once they have sunk their teeth into prey, they will hold on relentlessly until they drag their prey down from sheer exhaustion.
 ## Statblock: Father Traric (CR 8, XP 4,800)
 Elf cleric 9  
 LN Medium humanoid (Elf)  
@@ -286,7 +321,12 @@ If the creature is killed, it returns to life 24 hours later, regardless of the 
 #### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
 #### During Combat
-Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Dolly will never attack the PCs, but will instead spam Fear and Greater Teleport if targeted. Once the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners. Once the parishioners have been slaughtered, she will use _enthrall_ to attempt to monologue at Devros about the futility of his struggle against her, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp at any point, she will _planeshift_ back to the Abyss.
+Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Dolly will never attack the PCs, but will instead spam Fear and Greater Teleport if targeted. Once the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners. Once the parishioners have been slaughtered, she will use _enthrall_ to attempt to monologue at Devros about the futility of his struggle against his true nature, a mere pawn through which the Bound Prince shall be awoken from his aeons of slumber, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp at any point, she will _planeshift_ back to the Abyss.
 
+If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, all spells and effects she was maintaining will immediately end, freeing any remaining Sarenite clergy from her control.
+
+<<<<<<< HEAD
 If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, all spells and effects she was maintaining will immediately end.
 **(To add more, urgency to the quest I'd introduce a timer to the fight, if the group does not resolve the fight in a satisfactory fashion<ergo, kill the congregation> Dolly will threaten to Kill Sister Magdelon. Forcing Dervos to pick who dies seems very on point. I'd give the party five turns to resolve the encounter, if the fight drags on the Sister dies. If you want Dolly to be particularly cruel, she might trap her soul as a way to keep Dervos coming after her.)
+=======
+>>>>>>> origin/main  1
