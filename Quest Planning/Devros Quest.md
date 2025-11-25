@@ -203,11 +203,10 @@ LN Medium humanoid (Elf)
 **Languages** Common  
 **SQ** healer’s blessing  
 **Gear** _+2 full plate_, _+2 heavy wooden shield_, _+1 bane of humankind scorpion whip_, masterwork light crossbow with 10 bolts, dagger, _cloak of resistance +1_, healer’s kit
-
-## Tactics
-### Before Combat
+### Tactics
+#### Before Combat
 Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|Dolly Winslow’s]] first turn, at which point, he will command the lesser clergy to seize the “heretical interlopers”. He will not, however, join the fight until directly commanded to by Dolly, or unless the party beelines for him.
-### During the Fight
+#### During the Fight
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him.
 
 # Statblock: Dolly Winslow (CR 19, MR 8, 204,800 XP)
@@ -215,15 +214,15 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
 ### Defense
-**AC** 30, touch 18, flat-footed 22 (+7 Dex, +1 dodge, +12 natural)  
+**AC** 31, touch 19, flat-footed 22 (+7 Dex, +2 dodge, +12 natural)  
 **hp** 212 (17d10+119)  
 **Fort** +12, **Ref** +17, **Will** +14  
-**Defensive Abilities** _displacement_; **DR** 10/good and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 27
+**Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/good and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 27
 ### Offense
 **Speed** 90 ft., fly 90 ft. (good)  
 **Melee** bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
-**Special Attacks** devour soul, energy drain (1 level, DC 25), channel energy, 10/day (ECL 15, DC 24, 8d6 negative)  
+**Special Attacks** devour soul, energy drain (1 level, DC 25), channel energy, 10/day (ECL 15, DC 24, 8d6 negative), mythic magic (3/day)  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
 Constant—_deathwatch_, _displacement_, _true seeing_  
 At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
@@ -239,12 +238,12 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 ### Statistics
 **Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 19, **Cha** 24  
 **Base Atk** +17; **CMB** +23; **CMD** 41  
-**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack), [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse)  
+**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge)
 **Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  
-**Languages** Abyssal, Infernal; telepathy 100 ft.
+**Languages** Abyssal, Infernal, Common; telepathy 100 ft.
 ### Ecology
 **Environment** any (Abaddon or Astral Plane)  
-**Organization** solitary, pair, or pack (3–6)  
+**Organization** Unique
 **Treasure** standard
 ### Special Abilities
 **Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).  
@@ -252,9 +251,12 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using _astral projection_ or _magic jar_) take 1d8 points of damage each round within the daemon’s aura.
 
 **Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long broken free from the yoke of the Four Horsemen and aims to bring about the return of the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant divine power from it’s sleeping daemonic god. Morvath has gained the Cleric template, and may cast a select number of Witch spells as though they were Cleric spells. 
-## Tactics
-### Before Combat
+
+**Mythic Immortality**
+If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that are restored with rest until it next rests. This ability doesn’t apply if the creature is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is 10th mythic rank, it can be killed only by a coup de grace or critical hit made with an artifact.
+### Tactics
+#### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
 
-### During Combat
+#### During Combat
 Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Once the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners. Once the parishioners have been slaughtered, she will use _enthrall_ to monologue at Devros about the futility of his struggle against her, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp, she will _planeshift_ back to the Abyss.
