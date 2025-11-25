@@ -132,8 +132,10 @@ As the party descends to the lower level, the staircase vanishes beneath them, f
 **Type** mechanical; **Perception** DC 27; **Disable Device** DC 25; **Trigger** location; **Bypass** hidden lever (Perception DC 25 to Detect); **Reset** manual
 **Effect** 50-ft. fall (5d6, falling damage), Reflex DC 20 avoids
 
-# Room 6: Another Long Hall
-The unexplored hall leading away from the Atrium contains many statues, paintings, suits of armor, and various holy relics and artifacts left in the care of the church by wealthy nobles. A DC 35 Appraisal check reveals that the assembled wealth in the hall is worth approximately 960,000 GP if sold at wholesale market prices, and further investigation reveals some particularly significant (and/or potentially useful) items, including a Decanter of Endless Holy Water (12,500 GP), a Scroll of [Sacred Nimbus](https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus) (CL 15, 937 GP), a Scroll of [Banishment](https://www.d20pfsrd.com/magic/all-spells/b/banishment) (CL 20, 1,500 GP) and a Scroll of [Holy Word] (https://www.d20pfsrd.com/magic/all-spells/h/holy-word) (CL 25, 2187.5 GP), as well as a finely-bound book of Sarenite scriptures, _”The Windsong Testaments”_, which are bound in gold thread and inlaid with gemstones (9,500 GP, contains several high-level Divine rituals). At the end of the hall is the Grand Hall, where the voices of the Dawnmother’s faithful have long been raised in prayer and supplication to Sarenrae.
+# Room 6: The Tomb of the Dawnmother’s Faithful
+A winding and beautiful ancient catacomb twists for miles under the temple and several surrounding city blocks, with new construction occasionally breaking through unsanctimoniously into long-sealed or abandoned portions of the temple underway. A complex system of mirrors placed carefully within thin chutes in the wall allows The Everlight to keep eternal watch over her entombed faithful, and beautiful stained glass 
+# Room 7: Another Long Hall
+The unexplored hall leading away from the Atrium contains many statues, paintings, suits of armor, and various holy relics and artifacts left in the care of the church by wealthy nobles. A DC 35 Appraisal check reveals that the assembled wealth in the hall is worth approximately 960,000 GP if sold at wholesale market prices, and further investigation reveals some particularly significant (and/or potentially useful) items, including a Decanter of Endless Holy Water (12,500 GP), a Scroll of [Sacred Nimbus](https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus) (CL 15, 937 GP), a Scroll of [Banishment](https://www.d20pfsrd.com/magic/all-spells/b/banishment) (CL 20, DC 35 will save negates 1,500 GP) and a Scroll of [Holy Word](https://www.d20pfsrd.com/magic/all-spells/h/holy-word) (CL 25, DC 40, 2187.5 GP), as well as a book of Sarenite scriptures, _”The Windsong Testaments”_, whose white, velvet-wrapped cover is bound in gold thread and inlaid with gemstones (9,500 GP, contains several high-level Divine rituals, can DM with more info if it comes up). At the end of the hall is the Grand Hall, where the voices of the Dawnmother’s faithful have long been raised in prayer and supplication to Sarenrae.
 
 Now, as the party approaches, it is *silent.*
 
@@ -209,7 +211,7 @@ Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|
 #### During the Fight
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him.
 
-# Statblock: Dolly Winslow (CR 19, MR 8, 204,800 XP)
+## Statblock: Dolly Winslow (CR 19, MR 8, 204,800 XP)
 NE Medium outsider (daemon, evil, extraplanar)  
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
@@ -241,10 +243,6 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge)
 **Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
-### Ecology
-**Environment** any (Abaddon or Astral Plane)  
-**Organization** Unique
-**Treasure** standard
 ### Special Abilities
 **Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).  
   
@@ -257,6 +255,7 @@ If the creature is killed, it returns to life 24 hours later, regardless of the 
 ### Tactics
 #### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
-
 #### During Combat
 Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Once the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners. Once the parishioners have been slaughtered, she will use _enthrall_ to monologue at Devros about the futility of his struggle against her, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp, she will _planeshift_ back to the Abyss.
+
+If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, ll spells and effects she was maintaining will immediately end.
