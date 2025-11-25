@@ -229,8 +229,10 @@ Constant—_deathwatch_, _displacement_, _true seeing_
 At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
 3/day—_locate creature_, _plane shift_ (DC 24)  
 1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
-**Cleric Spells Prepared**
-**Level 0** (at will) c
+**Cleric/Witch Spells Prepared** (CL 17th; Concentration +24)
+**Level 2**—_early judgement_ (DC 19), _enthrall_, _alter self_, _boneshaker_ (DC 19, 11d6, fortitude halves)
+**Level 1**—_aspect of the nightinggale_, _bane_ (DC 18), _command_ (DC 18), _curse water_, _false face_
+**Level 0** (at will)—_bleed_ (DC 17), _spoil food and drink_, _destroy water_
 ### Statistics
 **Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 19, **Cha** 24  
 **Base Atk** +17; **CMB** +23; **CMD** 41  
