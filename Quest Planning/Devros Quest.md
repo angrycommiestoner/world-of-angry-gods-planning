@@ -168,6 +168,14 @@ LG Medium humanoid (human)
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
 ## Statblock: Father Traric (CR 8, XP 4,800)
 Human Paladin of Sarenrae 9
-LG Medium Humanoid (human)
+LG Medium Humanoid (elf)
 **Init** +3; **Senses** Perception +10
-**Aura** Courage (10 ft.), Resolve
+**Aura** courage (10 ft.), resolve (10 ft.)
+### Defense
+**AC** 
+**HP**
+**Fort**  ; **Reflex**  ; **Will**  ;
+### Offense
+**Speed** 30 ft.
+**Melee** +1 Longsword, +1 Bane of Humankind Scorpion Whip
+**Ranged** mwk heavy crossbow
