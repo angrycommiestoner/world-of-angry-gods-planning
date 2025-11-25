@@ -1,0 +1,61 @@
+```table-of-contents
+```
+
+# The Rules as Written
+
+> [Cultivate Magic Plants (Item Creation)](https://www.d20pfsrd.com/feats/item-creation-feats/cultivate-magic-plants-item-creation/)
+You combine a natural green thumb and knowledge of magic in order to grow magic plants.
+Prerequisites: [Brew Potion](https://www.d20pfsrd.com/feats/item-creation-feats/brew-potion-item-creation), [Craft Wondrous Item](https://www.d20pfsrd.com/feats/item-creation-feats/craft-wondrous-item-item-creation); Knowledge (nature) 1 rank.
+Benefit: You can cultivate magic plants. Cultivating a magic plant takes 1 week per 1,000 gp in its base price. When you create a magic plant, you make the same choices that you would normally make when casting the spell. Whoever consumes the fruit of the magic plant is the target of the spell.
+
+Cultivate Magic Plants is a notoriously underwhelming Item Creation feat. Some readers may already be able to tell why. For those who didn’t, most magic items are crafted at a rate of 1 DAY per 1,000 GP in the price, whereas magic plants are cultivated at a rate of 1 WEEK per 1,000 GP in the cost.
+
+However, that still leaves a pretty significant question. What the hell even are magic plants?
+
+Well, my lovely and illustrious reader, as I’m sure you must be to have picked up this tome, I thank you for the question!
+
+[Magic Plants](https://www.d20pfsrd.com/magic-items/magic-plants/) are… Bad! Mostly. And expensive. Which only amplifies the amount of time you have to sink into creating them. 
+
+To cultivate a magic plant, you need a place to plant it. This usually requires a 30-foot-radius area of nutrient-rich soil and a constant supply of water and light for larger magic plants, and it requires a 10-foot-radius area and similar soil, water, and light requirements for smaller plants. Most magic plants bear fruit, seeds, or sprouts that, once mature, replicate the effects of a spell when eaten, thrown, or used in some other way. A magic plant’s price depends on the spell effect it replicates. The cultivation cost of a magic plant is half the plant’s price. Already we are off to an interesting start. In order to even begin the process of cultivating magic plants you need to have engaged with downtime systems enough that you have a plot of land to grow your plants on. 
+
+This is a fundamentally different requirement in a lot of ways from constructing a room, which can be adapted to fit several different forms and functions, from traveling merchant wagons to small storefronts, and often allow for significantly less direct oversight once you engage in the practice of hiring teams.
+
+Unfortunately for the would-be Magic Plant farmer, any hirelings you might engage to tend to this menial task for you require sufficient ranks in Knowledge (Nature):
+> In addition to paying the costs to cultivate a magic plant, the cultivator must have sufficient ranks in [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature). For most magic plants, the number of ranks required is tied directly to the strength of the plant’s aura—1 rank for a plant with a faint aura, 3 ranks for a plant with a moderate aura, and 6 ranks for a plant with a strong aura.
+
+Which is especially unfortunate because the only team you can hire with any ranks in Knowledge Nature are the Stewards, who only have 3 ranks. This means you have to also use Leadership (either the feat or the sphere) to get a cohort with enough ranks in Knowledge Nature to be able to tend your garden.
+## The Price of a Plant
+
+Let us now turn to the math behind cultivating a single magic plant.
+
+>Price = spell level × [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) × 2,000 × yield per day × growing season multiplier.
+
+Breaking this down piece by piece, Spell Level is, obviously, the level of the spell that will be cast by the Magic Plant’s fruit. A Goodberry Bush uses the spell Goodberry to, well, grow more Goodberries. Goodberry is a level 1 spell, so the Spell Level for the bush would be 1. Caster Level can vary depending on the subsystems used, but let’s assume a minimum CL of 1 for the Goodberry Bush. Multiply both of those numbers (1 and 1) by 2,000 and you have a base gold price for a Goodberry Bush of 2,000 gold pieces.
+
+But what are those last two variables? Thankfully, the rules explain for us:
+> The yield per day is the number of fruit, seeds, or effects the plant generates per day during its growing season. For instance, a goodberry bush yields six berries per day. The growing season multiplier is equal to the number of growing seasons the plant has in a single year. Growing seasons are continuous 13-week-long periods confined to one of the four seasons (spring, summer, fall, and winter). If a season is longer than 13 weeks, the growing season needs not be continuous. Magic plants cannot be in a growing season for longer than 52 weeks, and a plant that has four consecutive growing seasons produces fruit, seeds, or effects year round. A magic plant generates its effects only during a growing season. Outside of a growing season, some plants will still grow but remain barren (such as a fruit tree), while others may wither and regrow in the following year (such as vines).
+
+… Alright. Well, if that felt like a lot to take in to you, you’re certainly not alone. Breaking that down, a goodberry bush yields 6 berries per day, so 2,000 gold pieces multiplied by 6 is 12,000 gold pieces. Okay, well… That’s already looking pretty expensive for what amounts to 1 additional free cast of goodberry per day. But then, growing season… What is the deal with that! So you have to determine the time of year the plant bears fruit? Well, that’s certainly realistic, I suppose, but… Certainly *magical* plants can bloom and give fruit all year round, well, and I really hate to say it this way, because it does kinda sound like I’m mocking the author here, but… magically? And as if that weren’t ridiculous enough, you have invested… potentially now weeks or months of in-game downtime, and now have to actively keep track of when your fruits are ready on the in-game calendar, so that you don’t miss out on picking them.
+Because as we all know:
+> Once picked, the product of a magical plant stays potent for 24 hours. If not picked within 1 week, fruit or any other product of the plant rots into a useless (and often smelly) sludge—though rare fruits may have longer periods of potency. Harvested fruit can’t be kept magically potent for longer than 1 day, even by effects that preserve foodstuffs.
+
+Oh, I forgot to mention that part? How silly-slash-conveniently-timed of me to forget such an important detail! Not only is this magic item you’re sinking thousands of gold and weeks of downtime into only going to be available to you part of the in-game year, if you don’t pick the fruits within an in-game week, they spoil! And if you pick them, and don’t use them, THEY ALSO SPOIL! And you explicitly cannot preserve them, even with magic!
+## The Goodberry Bush Problem
+So! Returning to our hypothetical goodberry bush, which should now cost us 12,000 GP, we still need to figure out what the growing season for a goodberry bush is. Luckily, they provide us with a statblock for the goodberry bush!
+> **Goodberry Bush**
+Source PRG:UW
+Price 8,000 gp; Slot none; CL 1st; Weight 50 lbs.; Aura faint transmutation
+**DESCRIPTION**
+This vibrant red bush grows luscious, deep-red berries. These berries provide nourishment and healing as if the creature had consumed a berry affected by goodberry. A creature can gain the effects of goodberry up to eight berries consumed per day. A creature that eats more than this number must succeed at a DC 11 Fortitude save or become sickened for 10 minutes.
+A goodberry bush produces up to six berries per day, and it grows year round. A bush has no more than 50 berries at a time. It is resilient enough to grow in most environments, even occasionally found clinging to otherwise lifeless cliff faces.
+**CULTIVATION REQUIREMENTS**
+**Cost** 4,000 gp; **Feats** Cultivate Magic Plants; **Spells** goodberry; **Skills** cultivator must have 1 rank in Knowledge (nature)
+
+… Hey wait a minute… What’s that listed price, there?
+8,000 GP? How could that be possible! We still have a whole other variable still to solve for, and this bush should already cost more than that! What’s going on here?  And… When we solve for our final variable, we get a projected cost of… Iomedae Protects, 48,000 GOLD PIECES? This is an outrage! A scandal! A sham! I could spend 750 Gold Pieces on a level 1 wand of cure light wounds with 50 charges 64 times for that amount of money! That’s 3200d6 of healing! No wonder the actual listed price of the item is so much lower! And yet, I would argue that even the 8,000 GP listed price is exorbitantly out of whack with the actual benefit gained from this magic item!
+
+So, what is the aspiring magical horticulturalist to do? Read on to find out.
+# Botania Magia
+## Overhauling the Magic Plant system
+### 1) Downtime Room Update: Mystic Greenhouse
+The Mystic Greenhouse 
