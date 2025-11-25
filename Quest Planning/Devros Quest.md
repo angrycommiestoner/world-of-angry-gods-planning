@@ -173,9 +173,17 @@ LG Medium Humanoid (elf)
 **Aura** courage (10 ft.), resolve (10 ft.)
 ### Defense
 **AC** 
-**HP**
-**Fort**  ; **Reflex**  ; **Will**  ;
+**HP** 108 (9d10+9+9)
+**Fort** +9 ; **Reflex** +6 ; **Will** +9 ;
 ### Offense
 **Speed** 30 ft.
-**Melee** +1 Longsword, +1 Bane of Humankind Scorpion Whip
+**Melee** +1 longsword, +1 bane of humankind scorpion whip
 **Ranged** mwk heavy crossbow
+**Space** 5 ft., **Reach** 5 ft. (15 ft. with whip)
+**Special Attacks** channel positive energy (DC 10+4+x, 5d6), smite evil 3/day (+x attack and AC, +9 damage)
+**Spell-Like Abilities** (CL 9th; Concentration +x)
+At will—detect evil
+**Paladin Spells Prepared** (CL 6th; Concentration +x)
+### Statistics
+**Str** 20, **Dex** 10, **Con** 14, **Int** 13, **Wis** 8, **Cha** 16,
+**BAB** +9 ; **CMB** +14 ; **CMD** 24
