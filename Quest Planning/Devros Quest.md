@@ -167,26 +167,45 @@ LG Medium humanoid (human)
 **SQ** divine bond (mount), lay on hands 5/day (2d6), mercy (sickened) 
 **Treasure:** _wand of cure light wounds_ (9 charges), holy water (2), mwk full plate, mwk heavy steel shield, +1 cold iron longsword, everburning torch, silver holy symbol of Sarenrae, spell component pouch, 83 gp)
 ## Statblock: Father Traric (CR 8, XP 4,800)
-Human Paladin of Sarenrae 9
-LG Medium Humanoid (elf)
-**Init** +0; **Senses** low-light vision, perception +10
-**Aura** courage (10 ft.), resolve (10 ft.)
+Elf cleric 9  
+LN Medium humanoid (Elf)  
+**Init** +1; **Senses** Perception +8
+
 ### Defense
-**AC** 23
-**HP** 108 (9d10+9+9)
-**Fort** +9 ; **Reflex** +6 ; **Will** +9 ;
+
+**AC** 26, touch 11, flat-footed 25 (+11 armor, +1 Dex, +4 shield)  
+**hp** 70 (9d8+30)  
+**Fort** +9, **Ref** +5, **Will** +11
+
 ### Offense
-**Speed** 30 ft.
-**Melee** +1 longsword, +1 bane of humankind scorpion whip
-**Ranged** mwk heavy crossbow
-**Space** 5 ft., **Reach** 5 ft. (15 ft. with whip)
-**Special Attacks** channel positive energy (DC 10+4+x, 5d6), smite evil 3/day (+x attack and AC, +9 damage)
-**Spell-Like Abilities** (CL 9th; Concentration +12)
-At will—detect evil
-**Paladin Spells Prepared** (CL 6th; Concentration +9)
+
+**Speed** 20 ft.  
+**Melee** _+1 bane of humankind scorpion whip_ +9/+4 (1d4+4 plus 2d6 vs humans, +2 enhancement bonus vs humans) or dagger +8/+3 (1d4+2/19–20)  
+**Ranged** mwk light crossbow +8 (1d8/19–20) or dagger +7 (1d4+2/19–20)  
+**Special Attacks** channel positive energy 5/day (DC 14, 5d6), staff of order (4 rounds, 1/day)  
+**Spell-Like Abilities** (CL 9th, concentration +13)  
+7/day—rebuke death, touch of law  
+**Cleric Spells Prepared** (CL 9th, concentration +13)  
+5th—_breath of life_D, _righteous might_  
+4th—_air walk_, _freedom of movement_, _order’s wrath_D (DC 18), _spell immunity_  
+3rd—_daylight_, _dispel magic_, _magic circle against chaos_D, _prayer_, _searing light_  
+2nd—_aid_, _bull’s strength_, _cure moderate wounds_D, _delay poison_, _spiritual weapon_, _status_  
+1st—_bless_, _detect chaos_, _divine favor_ (2), _protection from chaos_D, _shield of faith_  
+0 (at will)—_create water_, _detect magic_, _detect poison_, _stabilize_  
+**D** domain spell; **Domains** Healing, Law
 
 ### Statistics
-**Str** 20, **Dex** 10, **Con** 14, **Int** 13, **Wis** 8, **Cha** 16,
-**BAB** +9 ; **CMB** +14 ; **CMD** 24
-**Feats** Armor Focus (Full Plate), Shield Focus, Vital Strike, Devastating Strike
-**Skills** Diplomacy +8, 
+
+**Str** 14, **Dex** 12, **Con** 14, **Int** 8, **Wis** 18, **Cha** 10  
+**Base Atk** +6; **CMB** +8; **CMD** 19  
+**Feats** Armor Proficiency (heavy), [Craft Magic Arms and Armor](https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor), [Extra Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Channel), [Shield Focus](https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Focus), [Toughness](https://aonprd.com/FeatDisplay.aspx?ItemName=Toughness), [Vital Strike](https://aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike)  
+**Skills** Diplomacy +5, Heal +10, Knowledge (religion) +10, Perception +8, Sense Motive +8, Spellcraft +11  
+**Languages** Common  
+**SQ** healer’s blessing  
+**Gear** _+2 full plate_, _+2 heavy wooden shield_, _+1 bane of humankind scorpion whip_, masterwork light crossbow with 10 bolts, dagger, _cloak of resistance +1_, healer’s kit
+
+## Tactics
+### Before Combat
+Traric will always delay his first turn until after [] s first turn. command the lesser clergy to die in service of 
+
+# Statblock: Dolly Winslow
