@@ -210,7 +210,7 @@ Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|
 ### During the Fight
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him.
 
-# Statblock: Dolly Winslow (CR 16, 76,800 XP)
+# Statblock: Dolly Winslow (CR 19, 204,800 XP)
 NE Medium outsider (daemon, evil, extraplanar)  
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
@@ -223,14 +223,16 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Speed** 90 ft., fly 90 ft. (good)  
 **Melee** bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
-**Special Attacks** devour soul, energy drain (1 level, DC 25)  
+**Special Attacks** devour soul, energy drain (1 level, DC 25), channel energy, 10/day (ECL 15, DC 24, 8d6 negative)  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
 Constant—_deathwatch_, _displacement_, _true seeing_  
 At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
 3/day—_locate creature_, _plane shift_ (DC 24)  
 1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
+**Cleric Spells Prepared**
+**Level 0** (at will) c
 ### Statistics
-**Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 15, **Cha** 24  
+**Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 19, **Cha** 24  
 **Base Atk** +17; **CMB** +23; **CMD** 41  
 **Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack), [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse)  
 **Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  
