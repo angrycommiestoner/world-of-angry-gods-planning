@@ -210,7 +210,7 @@ Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|
 ### During the Fight
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him.
 
-# Statblock: Dolly Winslow (CR 19, 204,800 XP)
+# Statblock: Dolly Winslow (CR 19, MR 8, 204,800 XP)
 NE Medium outsider (daemon, evil, extraplanar)  
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
@@ -230,7 +230,10 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 3/day—_locate creature_, _plane shift_ (DC 24)  
 1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
 **Cleric/Witch Spells Prepared** (CL 17th; Concentration +24)
-**Level 2**—_early judgement_ (DC 19), _enthrall_, _alter self_, _boneshaker_ (DC 19, 11d6, fortitude halves)
+**Level 5**— _dominate person_ (DC 22, will negates), _charm person, mass_ (DC 22, will negates)
+**Level 4**—_infernal healing, greater_ (DC 21, will negates), _hypnotism, greater_ (DC 21, will negates),
+**Level 3**—_create soul gem_ (DC 20, will negates), _detect desires_ (DC 20, will negates)
+**Level 2**—_early judgement_ (DC 19), _enthrall_, _alter self_, _boneshaker_ (DC 19, 11d6, fortitude halves),
 **Level 1**—_aspect of the nightinggale_, _bane_ (DC 18), _command_ (DC 18), _curse water_, _false face_
 **Level 0** (at will)—_bleed_ (DC 17), _spoil food and drink_, _destroy water_
 ### Statistics
@@ -244,10 +247,11 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Organization** solitary, pair, or pack (3–6)  
 **Treasure** standard
 ### Special Abilities
-
 **Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).  
   
 **Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using _astral projection_ or _magic jar_) take 1d8 points of damage each round within the daemon’s aura.
+
+**Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon who has, for reasons beyond mortal comprehension, broken free from the yoke of the Four Horsemen and aims to bring about the return of the original ruler of the Abyss, the being known as the Bound Prince. As a result, 
 ## Tactics
 ### Before Combat
 Dolly is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers 
