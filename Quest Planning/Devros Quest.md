@@ -9,7 +9,7 @@ Dungeon Run for PCs level 5-8
 
 Planning 5 fights, 3 small traps/non-combat encounters, 1 big trap/non-combat encounter, 1 boss fight.
 # Room 1: Temple Vestebule
-Here the party will be welcomed warmly by a dark-haired Priestess of Sarenrae with bright green eyes. A DC 50 Sense Motive or Spellcraft check reveals that this Priestess' mind is asleep and being actively controlled at a distance by something else. She will recognize Devros ("from Father Traric's description" if asked), approach the party, and offer to escort them to a private room where the Father would be "happy to meet them."
+Here the party will be welcomed warmly by a dark-haired Priestess of Sarenrae with bright green eyes. A DC 50 Sense Motive or Spellcraft check reveals that this Priestess' mind is asleep and being actively controlled at a distance by something else. She will recognize Devros ("from Father Traric's description" if asked), approach the party, and offer to escort them to a private room where the Father would be "happy to meet them." **(Does she run if the party engages her in combat for any number of reasons?)**
 # Room 2, Encounter 1: Secret Sanctuary
 
 The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 25 Perception roll is required to spot her secretly operate the mechanism in the floor.
@@ -21,7 +21,8 @@ If the party follows the Priestess without resistance, she will lock them in the
 _Essence of Blue Whinnis_
 **Type** poison, inhaled; **Save** Fortitude DC 14
 **Track** Constitution (Special, see text); **Frequency** 1/round for 2 rounds.
-**Effect** Healthy—Weakened—Unconscious; No End State
+**Effect** Healthy—Weakened—Unconscious; No End State **(Should be: Initial Effect: 1-2 Con damage**
+**Secondary Effect: Unconsciousness for 1d3 hours)**
 # Room 3, Encounter 2: The Long Hall
 After freeing themselves from the hidden room, the party is confronted by an obviously addled Paladin of Sarenrae, half-leading, half-led by 2 large bloodhounds. At the sight of the party, the Paladin and both beasts attack without hesitation. DC 15 Knowledge (Planes) check reveals the dogs for what they are, Abyss Hounds, more destructive and hungry Daemonic counterparts to Hellhounds. Upon finishing this fight, the party can continue further into the bowels of the church or return the way they came to the Vestibule in search of the Priestess.
 ## Statblock: Corrupted Crusader (CR 4 1200 XP)
@@ -38,7 +39,7 @@ LG Medium humanoid (human)
 ### Offense
 
 **Speed** 20 ft.  
-**Melee** +1 cold iron longsword +10 (1d8+4/19–20)
+**Melee** +1 cold iron longsword +10 (1d8+4/19–20) **(Ought to be closer to +15 To hit, and +10 to damage to prove any sort of challenge/cost to the party, if you're not keen on giving him magic gear you could say he had some buff spells cast on him or he drank some potions to juice him up.)**
 **Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+3 attack and AC, +5 damage)  
 **Paladin Spells Prepared** (CL 2nd; concentration +5)  
 1st—_bless weapon_, _lesser restoration_
@@ -65,7 +66,7 @@ NE Medium outsider (evil, extraplanar, chaotic)
 **SQ** *Aura of Distortion (Su)* - Abyss Hounds appear for all intents and purposes as a normal, if slightly oversized dog, until they attack a target. The target of the Abyss Hound's attack makes a DC 14 (10 + HD) Will Save to overcome the illusion and see the creature for what it truly is. Having the nature of the creature pointed out is enough to allow a creature to roll a Will Save as if they had been attacked. This is a mind-affecting effect.
 ### Offense
 **Speed** 40 ft.  
-**Melee** bite +5 (1d8+1) 
+**Melee** bite +5 (1d8+1) **(Make it +8-9 to hit, and d8+5 for dmg)**
 **Special Attacks** latching jaws (bite triggers attach UMA), blood loss (1d2+1 constitution damage)
 ### Statistics
 
@@ -133,7 +134,7 @@ As the party descends to the lower level, the staircase vanishes beneath them, f
 **Effect** 50-ft. fall (5d6, falling damage), Reflex DC 20 avoids
 
 # Room 6: The Tomb of the Dawnmother’s Faithful
-A winding and beautiful ancient catacomb twists for miles under the temple and several surrounding city blocks, with new construction occasionally breaking through unsanctimoniously into long-sealed or abandoned portions of the temple underway. A complex system of mirrors placed carefully within thin chutes in the wall allows The Everlight to keep eternal watch over her entombed faithful, and beautiful stained glass murals depicting beautiful natural vistas create grottoes of effervescence. There is _much_ that could be explored here, but a DC 16 Knowledge (Religion) check will quickly remind the players that it is rumored that the divinely appointed spirits of Sarenrae’s guardian saints, as well as angelic guardians wander these halls, protecting their charges from would-be graverobbers. Push for the party to not stay here long and instead press towards their real goal. If the party insists on exploring the catacombs for anything of value, roll a d100. On anything less than a 95, the party’s first encounter is with the spirit of the Sarenite Saint, Saint Luxor Il Vathos, who commands them to depart. If any members of the party identify themselves as Sarenites, Saint Luxor stands firm in his duty, insisting that the party must depart from this place. He will, however, inform them that the power of those who guard the catacombs is, unfortunately, *limited* to the catacombs, and charge the party with purging the evil that has come to infest the temple, before invoking a _miracle_ to return the party to the atrium from whence they descended to the catacombs. 
+A winding and beautiful ancient catacomb twists for miles under the temple and several surrounding city blocks, with new construction occasionally breaking through unsanctimoniously into long-sealed or abandoned portions of the temple underway. A complex system of mirrors placed carefully within thin chutes in the wall allows The Everlight to keep eternal watch over her entombed faithful, and beautiful stained glass murals depicting beautiful natural vistas create grottoes of effervescence. There is _much_ that could be explored here, but a DC 16 Knowledge (Religion) check will quickly remind the players that it is rumored that the divinely appointed spirits of Sarenrae’s guardian saints, as well as angelic guardians wander these halls, protecting their charges from would-be graverobbers. Push for the party to not stay here long and instead press towards their real goal. If the party insists on exploring the catacombs for anything of value, roll a d100. On anything less than a 95, the party’s first encounter is with the spirit of the Sarenite Saint, Saint Luxor Il Vathos, who commands them to depart. If any members of the party identify themselves as Sarenites, Saint Luxor stands firm in his duty, insisting that the party must depart from this place. He will, however, inform them that the power of those who guard the catacombs is, unfortunately, *limited* to the catacombs, and charge the party with purging the evil that has come to infest the temple, before invoking a _miracle_ to return the party to the atrium from whence they descended to the catacombs. **(Might be good idea to determine what they find if they do roll 96 and above)**
 # Room 7: Hall of Connection
 The so-called “Hall of Connection” — thus named in part because it connects the large atrium to the Grand Cathedral Hall and in part because of a long-established tradition of Sarenite couples who are married in the church to walk down the hall together in meditation on the nature of the shared connection they are forging — is a lengthy marble hall with stained glass walls that depict scenes from _”The Windsong Testaments”_. The hall is lined with many different statues, paintings, suits of armor, and various holy relics and artifacts left in the care of the church by wealthy nobles. A DC 35 Appraisal check reveals that the assembled wealth in the hall is worth approximately 960,000 GP if sold at wholesale market prices, and further investigation (DC 25 Perception and/or Detect Magic or similar) reveals some particularly significant (and/or potentially useful) items, including a Decanter of Endless Holy Water (12,500 GP), a Scroll of [Sacred Nimbus](https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus) (CL 15, 937 GP), a Scroll of [Banishment](https://www.d20pfsrd.com/magic/all-spells/b/banishment) (CL 20, DC 35 will save negates 1,500 GP) and a Scroll of [Holy Word](https://www.d20pfsrd.com/magic/all-spells/h/holy-word) (CL 25, DC 40, 2187.5 GP), as well as a book of Sarenite scriptures, _”The Windsong Testaments”_, whose white, velvet-wrapped cover is bound in gold thread and inlaid with gemstones (9,500 GP, contains several high-level Divine rituals, can DM with more info if it comes up). At the end of the hall is the Grand Hall, where the voices of the Dawnmother’s faithful have long been raised in prayer and supplication to Sarenrae.
 
@@ -155,7 +156,8 @@ LG Medium humanoid (human)
 ### Offense
 
 **Speed** 20 ft.  
-**Melee** +1 cold iron longsword +10 (1d8+4/19–20)
+**Melee** +1 cold iron longsword +10 (1d8+4/19–20)**(Same thing, +15 to hit, +10 damage These guys won't be able to use their big dick combat steroid, and if Dolly specifically set it up, she, the buffs are even more called for.)**
+
 **Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+3 attack and AC, +5 damage)  
 **Paladin Spells Prepared** (CL 2nd; concentration +5)  
 1st—_bless weapon_, _lesser restoration_
@@ -192,7 +194,7 @@ NG Medium humanoid
 ### Statistics
 **Str** 10, **Dex** 13, **Con** 12, **Int** 8, **Wis** 15, **Cha** 16  
 **Base Atk** +2; **CMB** +2; **CMD** 13  
-**Feats** [Alignment Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Alignment%20Channel), [Combat Casting](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Casting), [Selective Channeling](https://aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling)  
+**Feats** [Alignment Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Alignment%20Channel), [Combat Casting](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Casting), [Selective Channeling](https://aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling)  **(Give them spell focus perhaps, something to do damage, hold person won't do much to Dervos in particular, as he is an outsider)**
 **Skills** Knowledge (planes) +4, Knowledge (religion) +4, Linguistics +4, Perception +3, Sense Motive +6, Spellcraft +3  
 **Languages** Abyssal, Common, Infernal  
 **Combat Gear** bloodroot poison (1 dose), vials of unholy water (2); **Other Gear** chainmail, light steel shield, darts (4), masterwork sickle, silver unholy symbol
@@ -210,7 +212,7 @@ LN Medium humanoid (Elf)
 ### Offense
 
 **Speed** 20 ft.  
-**Melee** _+1 bane of humankind scorpion whip_ +9/+4 (1d4+4 plus 2d6 vs humans, +2 enhancement bonus vs humans) or dagger +8/+3 (1d4+2/19–20)  
+**Melee** _+1 bane of humankind scorpion whip_ +9/+4 (1d4+4 plus 2d6 vs humans, +2 enhancement bonus vs humans) or dagger +8/+3 (1d4+2/19–20)  **(Give him the Paladin treatment, +10 to hit, +15 dmg He also should have like a +1 flaming scimitar, he's a priest of dawnflower no?)**
 **Ranged** mwk light crossbow +8 (1d8/19–20) or dagger +7 (1d4+2/19–20)  
 **Special Attacks** channel positive energy 5/day (DC 14, 5d6), staff of order (4 rounds, 1/day)  
 **Spell-Like Abilities** (CL 9th, concentration +13)  
@@ -226,9 +228,9 @@ LN Medium humanoid (Elf)
 
 ### Statistics
 
-**Str** 14, **Dex** 12, **Con** 14, **Int** 8, **Wis** 18, **Cha** 10  
+**Str** 14(Make it 18), **Dex** 12, **Con** 14, **Int** 8, **Wis** 18(Make it 22), **Cha** 10(Make it 14)  
 **Base Atk** +6; **CMB** +8; **CMD** 19  
-**Feats** Armor Proficiency (heavy), [Craft Magic Arms and Armor](https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor), [Extra Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Channel), [Shield Focus](https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Focus), [Toughness](https://aonprd.com/FeatDisplay.aspx?ItemName=Toughness), [Vital Strike](https://aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike)  
+**Feats** Armor Proficiency (heavy), [Craft Magic Arms and Armor](https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor), [Extra Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Channel), [Shield Focus](https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Focus), [Toughness](https://aonprd.com/FeatDisplay.aspx?ItemName=Toughness), [Vital Strike](https://aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike)  (Remove the craft feat(it's part of our EIR) and Extra Channel, give him Selective and fast channel feats, to give the baddies decent way to extend the fight)
 **Skills** Diplomacy +5, Heal +10, Knowledge (religion) +10, Perception +8, Sense Motive +8, Spellcraft +11  
 **Languages** Common  
 **SQ** healer’s blessing  
@@ -237,7 +239,7 @@ LN Medium humanoid (Elf)
 #### Before Combat
 Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|Dolly Winslow’s]] first turn, at which point, he will command the lesser clergy to seize the “heretical interlopers”. He will not, however, join the fight until directly commanded to by Dolly, or unless the party beelines for him.
 #### During the Fight
-After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him.
+After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him. **(If he does Dolly should probably immediately smoke him)**
 
 ## Statblock: Dolly Winslow (CR 19, MR 8, 204,800 XP)
 NE Medium outsider (daemon, evil, extraplanar)  
@@ -245,7 +247,7 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Aura** soul siphon (10 ft.)
 ### Defense
 **AC** 31, touch 19, flat-footed 22 (+7 Dex, +2 dodge, +12 natural)  
-**hp** 212 (17d10+119)  
+**hp** 212 (17d10+119)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
 **Fort** +12, **Ref** +17, **Will** +14  
 **Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/good and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 27
 ### Offense
@@ -266,10 +268,10 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Level 1**—_aspect of the nightinggale_, _bane_ (DC 18), _command_ (DC 18), _curse water_, _false face_
 **Level 0** (at will)—_bleed_ (DC 17), _spoil food and drink_, _destroy water_
 ### Statistics
-**Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 19, **Cha** 24  
+**Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 19, **Cha** 24  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
 **Base Atk** +17; **CMB** +23; **CMD** 41  
-**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge)
-**Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  
+**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge) **Missing 5 mythic feats, all her mythic path abilities, and her mythic path, I assume it's because she is not really meant to fight the party, but sometimes weirdness happens)**
+**Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  **(No bluff?)**
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
 ### Special Abilities
 **Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).  
@@ -287,3 +289,4 @@ If the creature is killed, it returns to life 24 hours later, regardless of the 
 Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Dolly will never attack the PCs, but will instead spam Fear and Greater Teleport if targeted. Once the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners. Once the parishioners have been slaughtered, she will use _enthrall_ to attempt to monologue at Devros about the futility of his struggle against her, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp at any point, she will _planeshift_ back to the Abyss.
 
 If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, all spells and effects she was maintaining will immediately end.
+**(To add more, urgency to the quest I'd introduce a timer to the fight, if the group does not resolve the fight in a satisfactory fashion<ergo, kill the congregation> Dolly will threaten to Kill Sister Magdelon. Forcing Dervos to pick who dies seems very on point. I'd give the party five turns to resolve the encounter, if the fight drags on the Sister dies. If you want Dolly to be particularly cruel, she might trap her soul as a way to keep Dervos coming after her.)
