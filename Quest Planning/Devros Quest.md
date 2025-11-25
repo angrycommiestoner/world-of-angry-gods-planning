@@ -206,6 +206,44 @@ LN Medium humanoid (Elf)
 
 ## Tactics
 ### Before Combat
-Traric will always delay his first turn until after [] s first turn. command the lesser clergy to die in service of 
+Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|Dolly Winslow’s]] first turn, at which point, he will command the lesser clergy to seize the “heretical interlopers”. He will not, however, join the fight until directly commanded to by Dolly, or unless the party beelines for him.
+### During the Fight
+After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him.
 
-# Statblock: Dolly Winslow
+# Statblock: Dolly Winslow (CR 16, 76,800 XP)
+NE Medium outsider (daemon, evil, extraplanar)  
+**Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
+**Aura** soul siphon (10 ft.)
+### Defense
+**AC** 30, touch 18, flat-footed 22 (+7 Dex, +1 dodge, +12 natural)  
+**hp** 212 (17d10+119)  
+**Fort** +12, **Ref** +17, **Will** +14  
+**Defensive Abilities** _displacement_; **DR** 10/good and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 27
+### Offense
+**Speed** 90 ft., fly 90 ft. (good)  
+**Melee** bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)  
+**Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
+**Special Attacks** devour soul, energy drain (1 level, DC 25)  
+**Spell-Like Abilities** (CL 17th; concentration +24)  
+Constant—_deathwatch_, _displacement_, _true seeing_  
+At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
+3/day—_locate creature_, _plane shift_ (DC 24)  
+1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
+### Statistics
+**Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 15, **Cha** 24  
+**Base Atk** +17; **CMB** +23; **CMD** 41  
+**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack), [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse)  
+**Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  
+**Languages** Abyssal, Infernal; telepathy 100 ft.
+### Ecology
+**Environment** any (Abaddon or Astral Plane)  
+**Organization** solitary, pair, or pack (3–6)  
+**Treasure** standard
+### Special Abilities
+
+**Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).  
+  
+**Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using _astral projection_ or _magic jar_) take 1d8 points of damage each round within the daemon’s aura.
+## Tactics
+### Before Combat
+Dolly is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers 
