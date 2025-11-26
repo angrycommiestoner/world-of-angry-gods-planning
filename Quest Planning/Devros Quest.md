@@ -237,28 +237,32 @@ LN Medium humanoid (Elf)
 **AC** 26, touch 11, flat-footed 25 (+11 armor, +1 Dex, +4 shield)  
 **hp** 70 (9d8+30)  
 **Fort** +9, **Ref** +5, **Will** +11
+**
 
 ### Offense
 **Speed** 20 ft.  
-**Melee** _+1 bane of humankind scorpion whip_ +9/+4 (1d4+4 plus 2d6 vs humans, +2 enhancement bonus vs humans) or +1 flaming scimitar
+**Melee** _+1 bane of humankind scorpion whip_ +10/+5 (1d4+1 plus 2d6 vs humans, +2 enhancement bonus vs humans) or +1 flaming scimitar +10/+5(1d8 + 1d6 fire + 4)
 **Ranged** mwk light crossbow +8 (1d8/19–20) or dagger +7 (1d4+2/19–20)  
-**Special Attacks** channel positive energy 5/day (DC 14, 5d6), staff of order (4 rounds, 1/day)  
+**Special Attacks** fervor (11 charges/ day, 3d6 vs undead) channel positive energy (2 fervor charges, DC 20, 3d6 vs undead),
 **Spell-Like Abilities** (CL 9th, concentration +13)  
 7/day—cure light wounds  
-
-
+**Warpriest Spells Prepared**
+**3rd level**—
+**2nd level**—
+**1st level**—
+**0th level**—
 ### Statistics
 
-**Str** 14(Make it 18), **Dex** 12, **Con** 14, **Int** 8, **Wis** 18(Make it 22), **Cha** 10(Make it 14)  
+**Str** 12, **Dex** 18, **Con** 14, **Int** 8, **Wis** 22, **Cha** 14  
 **Base Atk** +6; **CMB** +8; **CMD** 19  
-**Feats** Armor Proficiency (heavy), [Craft Magic Arms and Armor](https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor), [Extra Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Channel), [Shield Focus](https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Focus), [Toughness](https://aonprd.com/FeatDisplay.aspx?ItemName=Toughness), [Vital Strike](https://aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike)  (Remove the craft feat(it's part of our EIR) and Extra Channel, give him Selective and fast channel feats, to give the baddies decent way to extend the fight)
-**Skills** Diplomacy +5, Heal +10, Knowledge (religion) +10, Perception +8, Sense Motive +8, Spellcraft +11  
-**Languages** Common  
-**SQ** powerful healer,   
-**Gear** _+2 full plate_, _+2 heavy wooden shield_, _+1 bane of humankind scorpion whip_, masterwork light crossbow with 10 bolts, dagger, _cloak of resistance +1_, healer’s kit
+**Feats** [Selective Channeling](https://www.d20pfsrd.com/feats/general-feats/selective-channeling/), [Quick Channel](https://www.d20pfsrd.com/feats/general-feats/quick-channel/), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat/), [Dervish Dance](https://www.d20pfsrd.com/feats/combat-feats/dervish-dance-combat/), [Toughness](https://aonprd.com/FeatDisplay.aspx?ItemName=Toughness), [Vital Strike](https://aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike)
+**Skills** Diplomacy +5, Heal +10, Knowledge (religion) +10, Perception +8, Perform (dance) +7, Sense Motive +8, Spellcraft +11  
+**Languages** Common, Elven  
+**SQ** powerful healer   
+**Gear** _+2 full plate_, _+1 flaming scimitar,_ _+1 bane of humankind scorpion whip_, masterwork light crossbow with 10 bolts, dagger, _cloak of resistance +1_, healer’s kit
 ### Tactics
 #### Before Combat
-Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|Dolly Winslow’s]] first turn, at which point, he will command the lesser clergy to seize the “heretical interlopers”. He will not, however, join the fight until directly commanded to by Dolly, or unless the party beelines for him.
+Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|Dolly Winslow’s]] first turn, at which point, he will command the lesser clergy to seize the “heretical interlopers”. He will not, however, join the fight until directly commanded to by Dolly, or unless the party beelines for him. Additionally, he will begin the fight using the _+1 bane of humankind scorpion whip_, but will switch to his preferred _+1 flaming scimitar_ after 3 rounds with the unfamiliar weapon.
 #### During the Fight
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him. **(If he does Dolly should probably immediately smoke him)**
 
