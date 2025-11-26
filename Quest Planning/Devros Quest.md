@@ -271,16 +271,17 @@ Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|
 #### During the Fight
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him. **(If he does Dolly should probably immediately smoke him)**
 
-## Statblock: Dolly Winslow (CR 19, MR 8, 204,800 XP)
-NE Medium outsider (daemon, evil, extraplanar)  
+## Statblock: Dolly Winslow (CR 19, MR 9, 204,800 XP)
+NE Medium outsider (daemon, evil, extraplanar, mythic)  
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
 ### Defense
-**AC** 31, touch 19, flat-footed 22 (+7 Dex, +2 dodge, +12 natural)  
-**hp** 212 (17d10+119)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
+**AC** 40, touch 19, flat-footed 31 (+7 Dex, +2 dodge, +21 natural)  
+**hp** 289 (17d10+119)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
 **Fort** +12, **Ref** +17, **Will** +14  
-**Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/good and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 27
-### Offense
+**Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/epic, good, and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 36
+### Offense```table-of-contents
+```
 **Speed** 90 ft., fly 90 ft. (good)  
 **Melee** bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
@@ -316,10 +317,8 @@ If the creature is killed, it returns to life 24 hours later, regardless of the 
 #### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
 #### During Combat
-Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Dolly will never attack the PCs, but will instead spam Fear and Greater Teleport if targeted. After 5 rounds of combat, or after all of the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners and any remaining priests. Once the parishioners have been slaughtered, she will use _enthrall_ to attempt to monologue at Devros about the futility of his struggle against his true nature, a mere pawn through which the Bound Prince shall be awoken from his aeons of slumber, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp at any point, she will _planeshift_ back to the Abyss. If Father Traric is successfully freed from her domination via a successful will save, Dolly will immediately kill him and then kill Sister Magdelon, and using _create soul gem_  before planeshifting back to the Abyss.
+Dolly’s whole goal in enacting this scheme was to bring Devros before her and force him to slaughter everyone he loves in the hope of breaking his mind and awakening the sleeping fragment of her God within his soul. She doesn’t have any real interest in any of the other adventurers, and will use her spells and abilities to redirect any aggro sent her way. Dolly will never attack the PCs, but will instead spam Fear and Greater Teleport if targeted. After 5 rounds of combat, or after all of the priests have been slain, she will begin using _enervation_ to slaughter the captive parishioners and any remaining priests. 
+
+Once the stragglers have been slaughtered, she will use _enthrall_ to attempt to monologue at Devros about the futility of his struggle against his true nature, a mere pawn through which the Bound Prince shall be awoken from his aeons of slumber, ending with her beckoning him to her side. If her tempting is unsuccessful, or if the adventurers manage to drop her below 100 hp at any point, she will _planeshift_ back to the Abyss. If Father Traric is successfully freed from her domination via a successful will save, Dolly will immediately kill him and then kill Sister Magdelon. She will use _create soul gem_ on both before _planeshifting_ back to the Abyss.
 
 If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]] at any point, she willingly fail the check and return to the Abyss. In that case, all spells and effects she was maintaining will immediately end, freeing any remaining Sarenite clergy from her control.
-
-**(To add more, urgency to the quest I'd introduce a timer to the fight, if the group does not resolve the fight in a satisfactory fashion<ergo, kill the congregation> Dolly will threaten to Kill Sister Magdelon. Forcing Dervos to pick who dies seems very on point. I'd give the party five turns to resolve the encounter, if the fight drags on the Sister dies. If you want Dolly to be particularly cruel, she might trap her soul as a way to keep Dervos coming after her.)
-=======
->>>>>>> origin/main  1
