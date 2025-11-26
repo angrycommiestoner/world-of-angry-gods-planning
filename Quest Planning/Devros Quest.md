@@ -272,7 +272,7 @@ Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him. **(If he does Dolly should probably immediately smoke him)**
 
 ## Statblock: Dolly Winslow (CR 24, MR 10, 204,800 XP)
-NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 10  
+NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 15  
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
 ### Defense
@@ -285,13 +285,14 @@ NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 10
 **Melee** bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
 **Special Attacks** devour soul, energy drain (1 level, DC 25), channel energy, 10/day (ECL 15, DC 24, 8d6 negative), mythic magic (3/day)  
-**Spell-Like Abilities** (CL 17th; concentration +24)  
+#### **Spell-Like Abilities** (CL 17th; concentration +24)  
 Constant—_deathwatch_, _displacement_, _true seeing_  
 At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
 3/day—_locate creature_, _plane shift_ (DC 24)  
 1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
-**Spherecasting**
-**Spell Pool**
+#### **Spherecasting**
+**Spell Pool** 19/19; 
+**Talents** (28) Summon (Conjuration, CL 17),
 ### Statistics
 **Str** 21, **Dex** 29, **Con** 28, **Int** 14, **Wis** 15, **Cha** 32  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
 **Base Atk** +17; **CMB** +23; **CMD** 41  
@@ -307,7 +308,22 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
   
 **Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using _astral projection_ or _magic jar_) take 1d8 points of damage each round within the daemon’s aura.
 
-**Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long broken free from the yoke of the Four Horsemen and aims to bring about the return of the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant divine power from it’s sleeping daemonic god. Morvath is treated as having a number of Incanter levels equal to it’s Mythic Rank.
+**Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long broken free from the yoke of the Four Horsemen and aims to bring about the return of the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant divine power from it’s sleeping daemonic god. Morvath is treated as an Incanter with a level equal to it’s racial HD (effective incanter level: 17).
+
+**Master of Mysteries (Su)**
+The incanter has training in the deep mysteries in magic, and his influence can be felt by all spell casters. As a standard action, he may tune himself to the environment, so that all magic flows through him. He must spend a standard action every round to maintain the attunement, and he can only be attuned for a maximum number of rounds per day equal to his class level + his casting ability modifier. These rounds do not need to be consecutive.
+
+When any enemy caster uses a sphere ability or casts a spell or spell-like ability, they must overcome the incanter’s influence if any part of their line of effect comes within 60 feet of him. If they succeed on a magical skill check against his magical skill defense, then their spell acts normally. If they fail, there are consequences.
+
+At 1st level, a failed magical skill check causes the spell to be weakened. The caster level of the spell is lowered by the amount the check was failed by. If this reduces the caster level to 0 or less, the spell is countered.
+
+At 6th level, a failed magical skill check causes the spell to be countered.
+
+At 11th level, if the incanter counters a spell, he may use an immediate action to redirect it to a different target as if they had been the original target of the spell. If an attack roll is required, he uses the same attack roll the original caster made.
+
+At 16th level, the incanter may store a countered effect for later use. He may only store one spell this way, and may continue to store it for up to 24 hours. Using the spell is a swift action, and uses the caster level and casting ability modifier of the original caster, but the incanter now controls the ability.
+
+At 20th level, the incanter may maintain this ability as a move action.
 
 **Mythic Immortality**
 If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that are restored with rest until it next rests. This ability doesn’t apply if the creature is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is 10th mythic rank, it can be killed only by a coup de grace or critical hit made with an artifact.
