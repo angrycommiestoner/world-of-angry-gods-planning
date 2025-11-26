@@ -277,7 +277,7 @@ CE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 17
 **Aura** soul siphon (10 ft.)
 ### Defense
 **AC** 53, touch 19, flat-footed 43 (+13 armor, +7 Dex, +2 dodge, +5 Deflect, +21 natural)  
-**hp** 441 (17d10+187+40+17+17+10) **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
+**hp** 441 (17d10+187+40+17+17+10)
 **Fort** +12, **Ref** +17, **Will** +14  
 **Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/epic, good, and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 36
 ### Offense
@@ -348,6 +348,16 @@ If the party uses the Scroll of Banishment found in [[#Room 7 Another Long Hall]
 
 ## Statblock: Summoned Creature: Soul Mass
 CE gargantuan Outsider (daemon, evil, outsider)
-**Init** +4
-**AC** 22, touch 14, flat-footed 18 (+4 dex, +8 natural)
-**HP** 130 (13d10+13
+**Init** +6,
+### Defense
+**AC** 16, touch 8, flat-footed 14 (+8 natural, +2 dex, -4 size)
+**HP** 156 (13d10+26)
+**Fort** 5; **Ref** 12; **Will** 12;
+### Offense
+**Speed** 15 ft. hover, 30 ft. (average);
+**Base Attack** +13
+**Melee**—**Slam**, +15/+10 (2d8+3 bludgeoning);
+**Special Attacks**—_[explosive companion](http://spheresofpower.wikidot.com/conjuration#toc44)_ (1d6 cold, 15 sq ft., DC 31 reflex save halves)
+### Statistics
+**Str** 15, **Dex** 14, **Con** 13, **Int** 10, **Wis** 12, **Cha** 11;
+**Feats** Toughness, Improved Initiative, Weapon Focus (Slam), Vital Strike,
