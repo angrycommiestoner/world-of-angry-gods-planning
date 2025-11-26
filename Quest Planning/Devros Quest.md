@@ -300,8 +300,10 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge)
 #### **Mythic**
 **Mythic Path** Spheremaster; **Mythic Power** 10; **Surge** 1d12;
-**Mythic Abilities** Mythic Sphere Mastery (Mythic Talent (Utter Domination)), True Magic
-**Mythic Path Abiliti**
+**Mythic Powers** Mythic Sphere Mastery (Mythic Talent (Utter Domination)), True Magic
+**Mythic Path Abilities** 
+**1st-tier**—Abundant Casting (Ex), Adamantine Mind (Ex), Enduring Armor (Su), Flexible Counterspell (Su), Implement Master (Su), 
+**6th-tier**—Mindthrall (Su),
 **Missing 5 mythic feats, all her mythic path abilities, and her mythic path, I assume it's because she is not really meant to fight the party, but sometimes weirdness happens)**
 **Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  **(No bluff?)**
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
