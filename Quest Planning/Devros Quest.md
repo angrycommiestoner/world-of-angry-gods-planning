@@ -276,13 +276,13 @@ NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 15
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
 ### Defense
-**AC** 53, touch 19, flat-footed 43 (+13 armor, +7 Dex, +2 dodge, +21 natural)  
+**AC** 53, touch 19, flat-footed 43 (+13 armor, +7 Dex, +2 dodge, +5 Deflect, +21 natural)  
 **hp** 441 (17d10+187+40+17+17+10) **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
 **Fort** +12, **Ref** +17, **Will** +14  
 **Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/epic, good, and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 36
 ### Offense
 **Speed** 90 ft., fly 90 ft. (good)  
-**Melee** bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)  
+**Melee** bite +26 (2d6+8 plus energy drain and grab), 2 claws +26 (1d8+8 plus energy drain), tail slap +19 (1d12+4 plus energy drain)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
 **Special Attacks** devour soul, energy drain (1 level, DC 25), channel energy, 10/day (ECL 15, DC 24, 8d6 negative), mythic magic (3/day)  
 #### **Spell-Like Abilities** (CL 17th; concentration +24)  
@@ -294,13 +294,13 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Spell Pool** 19/19; **Casting Ability Modifier** +9 
 **Talents** (5) Summon (Conjuration, CL 17), Call the Departed (Conjuration, CL 17), Extra Companion, x2 (Conjuration, CL 17), Mass Summon (Conjuration, CL 17), Altered Size (Conjuration, CL 17) Explosive Companion (Conjuration, CL 17, DC 27 reflex halves), Planar Creature (Conjuration, CL 17), Expendable Summons (Conjuration, CL 17), Greater Alter Form (Conjuration, CL 17) Suggestion (Mind, CL 22, DC 30 will save negates), Expanded Charm (Mind, CL 22), Mass Charm (Mind, CL 22), Mental Backdoor (Mind, CL 22, DC 30 will save negates), Powerful Charm (Mind, CL 22), Subtlety (Mind, CL 22, DC 30 will save), Amnesia (Mind, CL 22, DC 30 will save), Calm (Mind, CL 22, DC 30 will save negates), Enthrall (Mind, CL 22, DC 30 will save negates), Inception (Mind, CL 22, DC 30 will save negates), Mind Spy (Mind, CL 22, DC 30 will save negates), Project Thoughts (Mind, CL 22, DC 30 will save negates), Vision (Mind, CL 22, DC 30 will save negates), Wrack (Mind, CL 22, DC 30 will save negates),Mental Archives (Mind, CL 22), Terrifying Mind (Mind, CL 22, DC 30 will save negates) Mind Control (Mind, CL 22, DC 30 will save negates), Zeitgeist (Mind, CL 22, DC 30 will save negates)
 ### Statistics
-**Str** 21 (+5), **Dex** 29 (+9), **Con** 33 (+11), **Int** 14 (+2), **Wis** 15 (+2), **Cha** 37 (+13)  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
+**Str** 27 (+8), **Dex** 35 (+12), **Con** 39 (+15), **Int** 20 (+5), **Wis** 21 (+5), **Cha** 43 (+16)
 **Base Atk** +17; **CMB** +23; **CMD** 41  
 **Feats** [Endurance](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance) [Diehard](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diehard)[Toughness](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Skill Focus (Bluff)](https://www.d20pfsrd.com/feats/general-feats/skill-focus) [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Improved Initiative (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Toughness (Mythic)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Skill Focus (Bluff) (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/skill-focus-mythic)
 [Mythic Immortality (Mythic)](https://www.aonprd.com/UMR.aspx?ItemName=Mythic%20Immortality), [Extra Mythic Power (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/extra-mythic-power-mythic) x2, [[#^92fe70|Servant of the Bound Prince (Mythic)]] [Iron Will (Mythic)]
 **Skills** Acrobatics +24 (+48 jump), Bluff +32, Escape Artist +27, Fly +9, Intimidate +30, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
-**Equipment** 
+**Equipment** _ring of protection +5_, _belt of physical perfection +6_, _headband of mental superiority +6_,
 #### **Mythic**
 **Mythic Path** Spheremaster; **Mythic Power** 16; **Surge** 1d12;
 **Mythic Powers** Mythic Sphere Mastery (Mythic Talent (Utter Domination)), True Magic
@@ -314,9 +314,6 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using _astral projection_ or _magic jar_) take 1d8 points of damage each round within the daemon’s aura.
 
 **Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long since broken free from the yoke of the Four Horsemen and aims to bring about the return of it’s master, the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant arcane *and* divine power from it’s sleeping daemonic god. Morvath is treated as an Incanter with a level equal to it’s racial HD, and may spend it’s Incanter bonus feats on Mythic Feats (effective incanter level: 17). ^92fe70
-
-**Mythic Immortality**
-If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that are restored with rest until it next rests. This ability doesn’t apply if the creature is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is 10th mythic rank, it can be killed only by a coup de grace or critical hit made with an artifact.
 
 **Legendary Item**: [Crown Of Endless Chaos](http://spheresofpower.wikidot.com/radiances#toc5)
 Major Artifact; **Legendary Power** 8/8; **Legendary Surge** concentration checks and caster level checks; **Surge Die** 1d20
