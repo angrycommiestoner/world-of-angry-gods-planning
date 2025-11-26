@@ -271,8 +271,8 @@ Traric will always delay his first turn until after [[#Statblock: Dolly Winslow|
 #### During the Fight
 After joining the fight, Traric will spend a round buffing with Bull’s Strength before truly engaging the adventurers. If Traric is deafened or Dolly is silenced, he begins to shake off her control, making DC 32 Will saves with a consecutive +1 bonus each round to overcome her spellcraft. If successful, he will turn on the creature of darkness that had been manipulating him. **(If he does Dolly should probably immediately smoke him)**
 
-## Statblock: Dolly Winslow (CR 19, MR 9, 204,800 XP)
-NE Medium outsider (daemon, evil, extraplanar, mythic)  
+## Statblock: Dolly Winslow (CR 24, MR 10, 204,800 XP)
+NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 10  
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
 ### Defense
@@ -280,8 +280,7 @@ NE Medium outsider (daemon, evil, extraplanar, mythic)
 **hp** 289 (17d10+119)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
 **Fort** +12, **Ref** +17, **Will** +14  
 **Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/epic, good, and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 36
-### Offense```table-of-contents
-```
+### Offense
 **Speed** 90 ft., fly 90 ft. (good)  
 **Melee** bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
@@ -291,17 +290,16 @@ Constant—_deathwatch_, _displacement_, _true seeing_
 At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
 3/day—_locate creature_, _plane shift_ (DC 24)  
 1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
-**Cleric/Witch Spells Prepared** (CL 17th; Concentration +24)
-**Level 5**— _dominate person_ (DC 22, will negates), _charm person, mass_ (DC 22, will negates)
-**Level 4**—_infernal healing, greater_ (DC 21, will negates), _hypnotism, greater_ (DC 21, will negates),
-**Level 3**—_create soul gem_ (DC 20, will negates), _detect desires_ (DC 20, will negates)
-**Level 2**—_early judgement_ (DC 19), _enthrall_, _alter self_, _boneshaker_ (DC 19, 11d6, fortitude halves),
-**Level 1**—_aspect of the nightinggale_, _bane_ (DC 18), _command_ (DC 18), _curse water_, _false face_
-**Level 0** (at will)—_bleed_ (DC 17), _spoil food and drink_, _destroy water_
+**Spherecasting**
+**Spell Pool**
 ### Statistics
-**Str** 21, **Dex** 25, **Con** 24, **Int** 14, **Wis** 19, **Cha** 24  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
+**Str** 21, **Dex** 29, **Con** 28, **Int** 14, **Wis** 15, **Cha** 32  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
 **Base Atk** +17; **CMB** +23; **CMD** 41  
-**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge) **Missing 5 mythic feats, all her mythic path abilities, and her mythic path, I assume it's because she is not really meant to fight the party, but sometimes weirdness happens)**
+**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge)
+#### **Mythic**
+**Mythic Path** Spheremaster; **Mythic Power** 10; **Surge** 1d12;
+
+**Missing 5 mythic feats, all her mythic path abilities, and her mythic path, I assume it's because she is not really meant to fight the party, but sometimes weirdness happens)**
 **Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  **(No bluff?)**
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
 ### Special Abilities
@@ -309,7 +307,7 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
   
 **Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using _astral projection_ or _magic jar_) take 1d8 points of damage each round within the daemon’s aura.
 
-**Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long broken free from the yoke of the Four Horsemen and aims to bring about the return of the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant divine power from it’s sleeping daemonic god. Morvath has gained the Cleric template, and may cast a select number of Witch spells as though they were Cleric spells. 
+**Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long broken free from the yoke of the Four Horsemen and aims to bring about the return of the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant divine power from it’s sleeping daemonic god. Morvath is treated as having a number of Incanter levels equal to it’s Mythic Rank.
 
 **Mythic Immortality**
 If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that are restored with rest until it next rests. This ability doesn’t apply if the creature is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is 10th mythic rank, it can be killed only by a coup de grace or critical hit made with an artifact.
