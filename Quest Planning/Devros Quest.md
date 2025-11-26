@@ -355,9 +355,12 @@ CE gargantuan Outsider (daemon, evil, outsider)
 **Fort** 5; **Ref** 12; **Will** 12;
 ### Offense
 **Speed** 15 ft. hover, 30 ft. (average);
-**Base Attack** +13
 **Melee**—**Slam**, +15/+10 (2d8+3 bludgeoning);
 **Special Attacks**—_[explosive companion](http://spheresofpower.wikidot.com/conjuration#toc44)_ (1d6 cold, 15 sq ft., DC 31 reflex save halves)
 ### Statistics
 **Str** 15, **Dex** 14, **Con** 13, **Int** 10, **Wis** 12, **Cha** 11;
-**Feats** Toughness, Improved Initiative, Weapon Focus (Slam), Vital Strike,
+**Feats** Toughness, Improved Initiative, Weapon Focus (Slam), Vital Strike
+**Base Attack** +13; **CMB** +19; CMD 31
+**SQ** orb, distinct kin (daemon), 
+### Tactics
+These giant, shrieking balls of oddly flesh-like soul-matter are little more than a distraction that Dolly will summon if things actually somehow get dicey for her. It doesn’t hit very hard or very often, and will serve mostly to sponge damage, as she can re-summon it over and over again at the same SP cost.
