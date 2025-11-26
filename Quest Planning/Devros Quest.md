@@ -188,19 +188,19 @@ NG Medium humanoid
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 6/day—rebuke death (1d4+1), touch of evil (1 round)  
 **Cleric Spells Prepared** (CL 3rd; concentration +5)  
-2nd—_cure moderate wounds_D, _death knell_ (DC 14), _hold person_ (DC 14)  
+2nd—_cure moderate wounds_D, _death knell_ (DC 14), _instrument of agony_ (DC 14)  
 1st—_bane_ (DC 13), _cause fear_ (DC 13), _cure light wounds_D, _doom_ (DC 13)  
 0 (at will)—_bleed_ (DC 12), _guidance_, _light_, _resistance_  
 **D** domain spell; **Domains** Evil, Healing
 ### Statistics
 **Str** 10, **Dex** 13, **Con** 12, **Int** 8, **Wis** 15, **Cha** 16  
 **Base Atk** +2; **CMB** +2; **CMD** 13  
-**Feats** [Alignment Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Alignment%20Channel), [Combat Casting](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Casting), [Selective Channeling](https://aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling)  **(Give them spell focus perhaps, something to do damage, hold person won't do much to Dervos in particular, as he is an outsider)**
+**Feats** [Alignment Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Alignment%20Channel), [Combat Casting](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Casting), [Selective Channeling](https://aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling) [Spell Focus]()
 **Skills** Knowledge (planes) +4, Knowledge (religion) +4, Linguistics +4, Perception +3, Sense Motive +6, Spellcraft +3  
 **Languages** Abyssal, Common, Infernal  
 **Combat Gear** bloodroot poison (1 dose), vials of unholy water (2); **Other Gear** chainmail, light steel shield, darts (4), masterwork sickle, silver unholy symbol
 ## Statblock: [[Abyss Hound (CR 3, CR 9)|Abyss Hound x2 (CR 3, 800 XP)]]
-_Some legends tell of a deal between Szuriel and Asmodeus that resulted in these mongrelized, Daemonic cousins to the infernal Hellhound. Some scholars, however, suggest perhaps, that their appearance is merely a rare case of covergent evolution across the astral sea. Whatever the case, these horrifying persistence hunters can be found across the multiverse wherever there are battlefields. They often possess warhounds and weave minor enchantments about their "owners" to disregard the odd changes such beasts undergo_
+_Some legends tell of a deal between Szuriel and Asmodeus that resulted in these mongrelized, Daemonic cousins to the infernal Hellhound. Some scholars, however, suggest that perhaps their appearance is merely a rare case of covergent evolution across the astral sea. Whatever the case, these horrifying persistence hunters can be found across the multiverse wherever there are battlefields. They often possess warhounds and weave minor enchantments about their "owners" to disregard the odd changes such beasts undergo_
 **XP** 800  
 CE Medium outsider (evil, extraplanar, chaotic)  
 **Init** +5; **Senses** darkvision 60 ft., scent; Perception +7
@@ -244,11 +244,11 @@ LN Medium humanoid (Elf)
 **Melee** _+1 bane of humankind scorpion whip_ +10/+5 (1d4+1 plus 2d6 vs humans, +2 enhancement bonus vs humans) or +1 flaming scimitar +11/+6(1d10 + 1d6 fire + 4)
 **Ranged** mwk light crossbow +8 (1d8/19–20) or dagger +7 (1d4+2/19–20)  
 **Special Attacks** fervor (11 charges/ day, 3d6 vs undead) channel positive energy (2 fervor charges, DC 20, 3d6 vs undead),
-**Spell-Like Abilities** (CL 9th, concentration +13)  
+**Spell-Like Abilities** (CL 10th, concentration +14)  
 7/day—cure light wounds  
-**Warpriest Spells Prepared**
-**3rd level**—_3/day_ 
-**2nd level**—_4/day_ ironskin (+5 enhancement bonus to natural armor), spiritual weapon, weapon of awe, surmount affliction
+**Warpriest Spells Prepared** (CL 10th, concentration +14)
+**3rd level**—_3/day_ stunning barrier, greater (+2 bonus to AC & saving throws), searing light
+**2nd level**—_4/day_ ironskin (+5 enhancement bonus to natural armor), spiritual weapon, weapon of awe (+2 sacred bonus to weapon attacks and damage), surmount affliction
 **1st level**—_5/day_ abstemiousness, command (DC 17 will save negates), divine favor (+3 bonus to weapon attacks and damage), shield of faith (+3 deflection bonus to AC) stone shield (+4 bonus to ac & +2 bonus to reflex saves vs target opponent)
 **0th level**—_at will_ create water, detect poison, guidance, purify food and drink, stabilize
 ### Statistics
