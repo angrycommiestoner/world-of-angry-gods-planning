@@ -276,8 +276,8 @@ NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 15
 **Init** +7; **Senses** darkvision 60 ft., _deathwatch_, _true seeing_; Perception +22  
 **Aura** soul siphon (10 ft.)
 ### Defense
-**AC** 40, touch 19, flat-footed 31 (+7 Dex, +2 dodge, +21 natural)  
-**hp** 346 (17d10+119+40+17)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
+**AC** 53, touch 19, flat-footed 43 (+13 armor, +7 Dex, +2 dodge, +21 natural)  
+**hp** 373 (17d10+119+40+17+17+10)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
 **Fort** +12, **Ref** +17, **Will** +14  
 **Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/epic, good, and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 36
 ### Offense
@@ -296,16 +296,15 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 ### Statistics
 **Str** 21, **Dex** 29, **Con** 28, **Int** 14, **Wis** 15, **Cha** 32  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
 **Base Atk** +17; **CMB** +23; **CMD** 41  
-**Feats** [Endurance](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance) [Diehard](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diehard)[Toughness](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Skill Focus (Bluff) [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Improved Initiative (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Toughness (Mythic)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness)
-
-**Missing 5 mythic feats, all her mythic path abilities, and her mythic path, I assume it's because she is not really meant to fight the party, but sometimes weirdness happens)**
-**Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  **(No bluff?)**
+**Feats** [Endurance](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance) [Diehard](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diehard)[Toughness](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Skill Focus (Bluff)](https://www.d20pfsrd.com/feats/general-feats/skill-focus) [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Improved Initiative (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Toughness (Mythic)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Skill Focus (Bluff) (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/skill-focus-mythic)
+[Extra Path Ability (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/extra-path-ability-mythic)[Extra Mythic Power (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/extra-mythic-power-mythic) x2, [[#^92fe70|Servant of the Bound Prince (Mythic)]]
+**Skills** Acrobatics +24 (+48 jump), Bluff +10 Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  **(No bluff?)**
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
 #### **Mythic**
-**Mythic Path** Spheremaster; **Mythic Power** 10; **Surge** 1d12;
+**Mythic Path** Spheremaster; **Mythic Power** 16; **Surge** 1d12;
 **Mythic Powers** Mythic Sphere Mastery (Mythic Talent (Utter Domination)), True Magic
 ##### **Mythic Path Abilities** 
-**1st-tier**—Abundant Casting (Ex), Adamantine Mind (Ex), Enduring Armor (Su), Flexible Counterspell (Su), Legendary Item (Ex)
+**1st-tier**—Abundant Casting (Ex), Adamantine Mind (Ex), Enduring Armor (Su), Eldritch Breach (Su), Flexible Counterspell (Su), Legendary Item (Ex)
 **3rd-tier**—Magical Potency (Su) x2, Legendary Item (Ex)
 **6th-tier**—Mindthrall (Su), Legendary Item (Ex)
 ### Special Abilities
@@ -313,10 +312,24 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
   
 **Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using _astral projection_ or _magic jar_) take 1d8 points of damage each round within the daemon’s aura.
 
-**Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long since broken free from the yoke of the Four Horsemen and aims to bring about the return of it’s master, the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant arcane *and* divine power from it’s sleeping daemonic god. Morvath is treated as an Incanter with a level equal to it’s racial HD, and may spend it’s Incanter bonus feats on Mythic Feats (effective incanter level: 17).
+**Servant of the Bound Prince (Mythic) (Ex)** The ancient Astradaemon known as Morvath, who uses the convenience of the name and form of “Dolly Winslow” to enact it’s schemes upon the material plane, has long since broken free from the yoke of the Four Horsemen and aims to bring about the return of it’s master, the original ruler of the Abyss, the being known as the Bound Prince. As a result, Morvath draws significant arcane *and* divine power from it’s sleeping daemonic god. Morvath is treated as an Incanter with a level equal to it’s racial HD, and may spend it’s Incanter bonus feats on Mythic Feats (effective incanter level: 17). ^92fe70
 
 **Mythic Immortality**
 If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that are restored with rest until it next rests. This ability doesn’t apply if the creature is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is 10th mythic rank, it can be killed only by a coup de grace or critical hit made with an artifact.
+
+**Legendary Item**: [Radiance Of Chaos](http://spheresofpower.wikidot.com/radiances#toc5)
+Minor Artifact; **Legendary Power** 10/10; **Legendary Surge** Concentration C 
+**Aura** strong Fate (chaotic); **CL** 20th  
+**Slot** radiance; **Weight** -
+This radiance has a constantly-shifting appearance, never quite the same as when anyone last looked at it.
+- **Measure:** The radiance of chaos can be used safely by any non-lawful creature. Any non-chaotic creature who wears it becomes a chaotic creature (with corresponding changes to their behavior, although they retain their moral code) for as long as they wear the radiance. This is not a permanent effect, and ends as soon as the radiance of chaos is deactivated.
+- **Inherent Ability Score Bonuses:** +5 Constitution, +5 Charisma
+- **Aegis:** Ablating (50% chance against attacks; drops by 5% each time it successfully causes an attack to miss, and automatically recharges by 5% each round to a maximum of 50%)
+- **Aura:** Divine Pressure (Fate sphere talent; applies to lawful creatures)
+- **Sphere-Like Ability:** Fate sphere (Curse (word) talent)
+- **Radiant Boon:** Once per day, as a standard action, the user can create a field of wild magic 300 feet across (see the [Wild Magic](http://spheresofpower.wikidot.com/wild-magic) page for more information). All spells cast within this field gain a 100% chance of triggering wild magic. Abilities that can alter wild magic chance function normally. This field lasts for 6d10 minutes.
+**Legendary Item Abilities**
+
 ### Tactics
 #### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
