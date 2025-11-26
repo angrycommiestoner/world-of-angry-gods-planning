@@ -284,15 +284,15 @@ NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 15
 **Speed** 90 ft., fly 90 ft. (good)  
 **Melee** bite +26 (2d6+8 plus energy drain and grab), 2 claws +26 (1d8+8 plus energy drain), tail slap +19 (1d12+4 plus energy drain)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
-**Special Attacks** devour soul, energy drain (1 level, DC 25), channel energy, 10/day (ECL 15, DC 24, 8d6 negative), mythic magic (3/day)  
+**Special Attacks** devour soul, energy drain (1 level, DC 32), mythic magic (3/day)  
 #### **Spell-Like Abilities** (CL 17th; concentration +24)  
 Constant—_deathwatch_, _displacement_, _true seeing_  
-At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
-3/day—_locate creature_, _plane shift_ (DC 24)  
-1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
+At will—_enervation_, _fear_ (DC27), _greater teleport_ (self plus 50 lbs. of objects only), _vampiric touch_  
+3/day—_locate creature_, _plane shift_ (DC 30)  
+1/day—_energy drain_ (DC 32), _finger of death_ (DC 31), summon (level 6, 1d3 derghodaemons 50%)
 #### **Spherecasting**
 **Spell Pool** 19/19; **Casting Ability Modifier** +9 
-**Talents** (5) Summon (Conjuration, CL 17), Call the Departed (Conjuration, CL 17), Extra Companion, x2 (Conjuration, CL 17), Mass Summon (Conjuration, CL 17), Altered Size (Conjuration, CL 17) Explosive Companion (Conjuration, CL 17, DC 27 reflex halves), Planar Creature (Conjuration, CL 17), Expendable Summons (Conjuration, CL 17), Greater Alter Form (Conjuration, CL 17) Suggestion (Mind, CL 22, DC 30 will save negates), Expanded Charm (Mind, CL 22), Mass Charm (Mind, CL 22), Mental Backdoor (Mind, CL 22, DC 30 will save negates), Powerful Charm (Mind, CL 22), Subtlety (Mind, CL 22, DC 30 will save), Amnesia (Mind, CL 22, DC 30 will save), Calm (Mind, CL 22, DC 30 will save negates), Enthrall (Mind, CL 22, DC 30 will save negates), Inception (Mind, CL 22, DC 30 will save negates), Mind Spy (Mind, CL 22, DC 30 will save negates), Project Thoughts (Mind, CL 22, DC 30 will save negates), Vision (Mind, CL 22, DC 30 will save negates), Wrack (Mind, CL 22, DC 30 will save negates),Mental Archives (Mind, CL 22), Terrifying Mind (Mind, CL 22, DC 30 will save negates) Mind Control (Mind, CL 22, DC 30 will save negates), Zeitgeist (Mind, CL 22, DC 30 will save negates)
+**Talents** Summon (Conjuration, CL 17), Call the Departed (Conjuration, CL 17), Extra Companion, x2 (Conjuration, CL 17), Mass Summon (Conjuration, CL 17), Altered Size (Conjuration, CL 17) Explosive Companion (Conjuration, CL 17, DC 27 reflex halves), Planar Creature (Conjuration, CL 17), Expendable Summons (Conjuration, CL 17), Greater Alter Form (Conjuration, CL 17) Suggestion (Mind, CL 22, DC 30 will save negates), Expanded Charm (Mind, CL 22), Mass Charm (Mind, CL 22), Mental Backdoor (Mind, CL 22, DC 30 will save negates), Powerful Charm (Mind, CL 22), Subtlety (Mind, CL 22, DC 30 will save), Amnesia (Mind, CL 22, DC 30 will save), Calm (Mind, CL 22, DC 30 will save negates), Enthrall (Mind, CL 22, DC 30 will save negates), Inception (Mind, CL 22, DC 30 will save negates), Mind Spy (Mind, CL 22, DC 30 will save negates), Project Thoughts (Mind, CL 22, DC 30 will save negates), Vision (Mind, CL 22, DC 30 will save negates), Wrack (Mind, CL 22, DC 30 will save negates),Mental Archives (Mind, CL 22), Terrifying Mind (Mind, CL 22, DC 30 will save negates) Mind Control (Mind, CL 22, DC 30 will save negates), Zeitgeist (Mind, CL 22, DC 30 will save negates)
 ### Statistics
 **Str** 27 (+8), **Dex** 35 (+12), **Con** 39 (+15), **Int** 20 (+5), **Wis** 21 (+5), **Cha** 43 (+16)
 **Base Atk** +17; **CMB** +23; **CMD** 41  
@@ -331,6 +331,9 @@ This radiance has a constantly-shifting appearance, never quite the same as when
 - **Perfect Surge:** This item’s legendary surge can apply to any d20 roll. The surge adds a further +2 bonus when applied to one of the types of rolls initially chosen for it. A legendary item must be a major artifact to have this ability.
 - **Powerful (x3)**: An item with this ability has two additional uses of legendary power per day. This ability can be taken up to three times. The item must be a minor or major artifact to take this a second time, and a major artifact to take this a third time. This is a persistent ability.
 - **Rejuvenating:** The bearer of this item can expend uses of legendary power to rejuvenate her body. As a standard action, she can expend one use of legendary power to heal herself of 10 points of damage per mythic tier she possesses. Alternatively, as a standard action she can expend two uses of legendary power to remove a single condition affecting her. A legendary item must be a minor or major artifact to have this ability.
+**Mythic Talent: Utter Domination**
+_Under the moniker of Dolly Winslow, the being known as Morvath has become quite skilled at invading and breaking the minds and souls of it’s victims. A particularly cruel favorite is rewriting the most powerful core memories of a target to insert the completely fictitious “Granny Dolly” into their mind as an unquestionably trustworthy savior, guardian, and provider, often without the poor victim even realizing they’ve been manipulated.._
+**Talents Used**— [Mental Backdoor](http://spheresofpower.wikidot.com/mind#toc10), [Powerful Charm](http://spheresofpower.wikidot.com/mind#toc11), [Subtlety](http://spheresofpower.wikidot.com/mind#toc14), [Amnesia](http://spheresofpower.wikidot.com/mind#toc15), []
 ### Tactics
 #### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
