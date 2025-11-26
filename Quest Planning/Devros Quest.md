@@ -229,32 +229,23 @@ CE Medium outsider (evil, extraplanar, chaotic)
 
 An Abyssal Hound resembles a demented artist's vision of a greyhound, standing at between 4–5 feet tall at the shoulder and weighing 120 pounds on average. It is said that Abyss Hounds hunger endlessly and, once they have sunk their teeth into prey, they will hold on relentlessly until they drag their prey down from sheer exhaustion.
 ## Statblock: Father Traric (CR 8, XP 4,800)
-Elf cleric 9  
+Elf Warpriest of Sarenrae 9  
 LN Medium humanoid (Elf)  
 **Init** +1; **Senses** Perception +8
-
+**Aura** Good;
 ### Defense
-
 **AC** 26, touch 11, flat-footed 25 (+11 armor, +1 Dex, +4 shield)  
 **hp** 70 (9d8+30)  
 **Fort** +9, **Ref** +5, **Will** +11
 
 ### Offense
-
 **Speed** 20 ft.  
-**Melee** _+1 bane of humankind scorpion whip_ +9/+4 (1d4+4 plus 2d6 vs humans, +2 enhancement bonus vs humans) or dagger +8/+3 (1d4+2/19–20)  **(Give him the Paladin treatment, +10 to hit, +15 dmg He also should have like a +1 flaming scimitar, he's a priest of dawnflower no?)**
+**Melee** _+1 bane of humankind scorpion whip_ +9/+4 (1d4+4 plus 2d6 vs humans, +2 enhancement bonus vs humans) or +1 flaming scimitar
 **Ranged** mwk light crossbow +8 (1d8/19–20) or dagger +7 (1d4+2/19–20)  
 **Special Attacks** channel positive energy 5/day (DC 14, 5d6), staff of order (4 rounds, 1/day)  
 **Spell-Like Abilities** (CL 9th, concentration +13)  
-7/day—rebuke death, touch of law  
-**Cleric Spells Prepared** (CL 9th, concentration +13)  
-5th—_breath of life_D, _righteous might_  
-4th—_air walk_, _freedom of movement_, _order’s wrath_D (DC 18), _spell immunity_  
-3rd—_daylight_, _dispel magic_, _magic circle against chaos_D, _prayer_, _searing light_  
-2nd—_aid_, _bull’s strength_, _cure moderate wounds_D, _delay poison_, _spiritual weapon_, _status_  
-1st—_bless_, _detect chaos_, _divine favor_ (2), _protection from chaos_D, _shield of faith_  
-0 (at will)—_create water_, _detect magic_, _detect poison_, _stabilize_  
-**D** domain spell; **Domains** Healing, Law
+7/day—cure light wounds  
+
 
 ### Statistics
 
@@ -263,7 +254,7 @@ LN Medium humanoid (Elf)
 **Feats** Armor Proficiency (heavy), [Craft Magic Arms and Armor](https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor), [Extra Channel](https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Channel), [Shield Focus](https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Focus), [Toughness](https://aonprd.com/FeatDisplay.aspx?ItemName=Toughness), [Vital Strike](https://aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike)  (Remove the craft feat(it's part of our EIR) and Extra Channel, give him Selective and fast channel feats, to give the baddies decent way to extend the fight)
 **Skills** Diplomacy +5, Heal +10, Knowledge (religion) +10, Perception +8, Sense Motive +8, Spellcraft +11  
 **Languages** Common  
-**SQ** healer’s blessing  
+**SQ** powerful healer,   
 **Gear** _+2 full plate_, _+2 heavy wooden shield_, _+1 bane of humankind scorpion whip_, masterwork light crossbow with 10 bolts, dagger, _cloak of resistance +1_, healer’s kit
 ### Tactics
 #### Before Combat
@@ -300,7 +291,7 @@ At will—_enervation_, _fear_ (DC27), _greater teleport_ (self plus 50 lbs. of 
 [Mythic Immortality (Mythic)](https://www.aonprd.com/UMR.aspx?ItemName=Mythic%20Immortality), [Extra Mythic Power (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/extra-mythic-power-mythic) x2, [[#^92fe70|Servant of the Bound Prince (Mythic)]] [Iron Will (Mythic)]
 **Skills** Acrobatics +24 (+48 jump), Bluff +32, Escape Artist +27, Fly +9, Intimidate +30, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
-**Equipment** _ring of protection +5_, _belt of physical perfection +6_, _headband of mental superiority +6_,
+**Equipment** _ring of protection +5_, _belt of physical perfection +6_, _headband of mental superiority +6_, _staff of the soul tyrant +6_ (+5 Mind & Conjuration Sphere implement)
 #### **Mythic**
 **Mythic Path** Spheremaster; **Mythic Power** 16; **Surge** 1d12;
 **Mythic Powers** Mythic Sphere Mastery (Mythic Talent (Utter Domination)), True Magic
