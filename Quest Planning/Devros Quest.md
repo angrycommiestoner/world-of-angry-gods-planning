@@ -277,7 +277,7 @@ NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 15
 **Aura** soul siphon (10 ft.)
 ### Defense
 **AC** 53, touch 19, flat-footed 43 (+13 armor, +7 Dex, +2 dodge, +21 natural)  
-**hp** 373 (17d10+119+40+17+17+10)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
+**hp** 441 (17d10+187+40+17+17+10) **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
 **Fort** +12, **Ref** +17, **Will** +14  
 **Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/epic, good, and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 36
 ### Offense
@@ -294,19 +294,20 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Spell Pool** 19/19; **Casting Ability Modifier** +9 
 **Talents** (5) Summon (Conjuration, CL 17), Call the Departed (Conjuration, CL 17), Extra Companion, x2 (Conjuration, CL 17), Mass Summon (Conjuration, CL 17), Altered Size (Conjuration, CL 17) Explosive Companion (Conjuration, CL 17, DC 27 reflex halves), Planar Creature (Conjuration, CL 17), Expendable Summons (Conjuration, CL 17), Greater Alter Form (Conjuration, CL 17) Suggestion (Mind, CL 22, DC 30 will save negates), Expanded Charm (Mind, CL 22), Mass Charm (Mind, CL 22), Mental Backdoor (Mind, CL 22, DC 30 will save negates), Powerful Charm (Mind, CL 22), Subtlety (Mind, CL 22, DC 30 will save), Amnesia (Mind, CL 22, DC 30 will save), Calm (Mind, CL 22, DC 30 will save negates), Enthrall (Mind, CL 22, DC 30 will save negates), Inception (Mind, CL 22, DC 30 will save negates), Mind Spy (Mind, CL 22, DC 30 will save negates), Project Thoughts (Mind, CL 22, DC 30 will save negates), Vision (Mind, CL 22, DC 30 will save negates), Wrack (Mind, CL 22, DC 30 will save negates),Mental Archives (Mind, CL 22), Terrifying Mind (Mind, CL 22, DC 30 will save negates) Mind Control (Mind, CL 22, DC 30 will save negates), Zeitgeist (Mind, CL 22, DC 30 will save negates)
 ### Statistics
-**Str** 21, **Dex** 29, **Con** 28, **Int** 14, **Wis** 15, **Cha** 32  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
+**Str** 21 (+5), **Dex** 29 (+9), **Con** 33 (+11), **Int** 14 (+2), **Wis** 15 (+2), **Cha** 37 (+13)  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
 **Base Atk** +17; **CMB** +23; **CMD** 41  
 **Feats** [Endurance](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance) [Diehard](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diehard)[Toughness](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Skill Focus (Bluff)](https://www.d20pfsrd.com/feats/general-feats/skill-focus) [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Improved Initiative (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Toughness (Mythic)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Skill Focus (Bluff) (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/skill-focus-mythic)
-[Extra Path Ability (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/extra-path-ability-mythic)[Extra Mythic Power (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/extra-mythic-power-mythic) x2, [[#^92fe70|Servant of the Bound Prince (Mythic)]]
-**Skills** Acrobatics +24 (+48 jump), Bluff +10 Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  **(No bluff?)**
+[Mythic Immortality (Mythic)](https://www.aonprd.com/UMR.aspx?ItemName=Mythic%20Immortality), [Extra Mythic Power (Mythic)](https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/mythic/mythic-feats/extra-mythic-power-mythic) x2, [[#^92fe70|Servant of the Bound Prince (Mythic)]] [Iron Will (Mythic)]
+**Skills** Acrobatics +24 (+48 jump), Bluff +32, Escape Artist +27, Fly +9, Intimidate +30, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
+**Equipment** 
 #### **Mythic**
 **Mythic Path** Spheremaster; **Mythic Power** 16; **Surge** 1d12;
 **Mythic Powers** Mythic Sphere Mastery (Mythic Talent (Utter Domination)), True Magic
 ##### **Mythic Path Abilities** 
 **1st-tier**—Abundant Casting (Ex), Adamantine Mind (Ex), Enduring Armor (Su), Eldritch Breach (Su), Flexible Counterspell (Su), Legendary Item (Ex)
 **3rd-tier**—Magical Potency (Su) x2, Legendary Item (Ex)
-**6th-tier**—Mindthrall (Su), Legendary Item (Ex)
+**6th-tier**—Mindthrall (Su),
 ### Special Abilities
 **Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).  
   
@@ -317,8 +318,8 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 **Mythic Immortality**
 If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that are restored with rest until it next rests. This ability doesn’t apply if the creature is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is 10th mythic rank, it can be killed only by a coup de grace or critical hit made with an artifact.
 
-**Legendary Item**: [Radiance Of Chaos](http://spheresofpower.wikidot.com/radiances#toc5)
-Minor Artifact; **Legendary Power** 10/10; **Legendary Surge** Concentration C 
+**Legendary Item**: [Crown Of Endless Chaos](http://spheresofpower.wikidot.com/radiances#toc5)
+Major Artifact; **Legendary Power** 8/8; **Legendary Surge** concentration checks and caster level checks; **Surge Die** 1d20
 **Aura** strong Fate (chaotic); **CL** 20th  
 **Slot** radiance; **Weight** -
 This radiance has a constantly-shifting appearance, never quite the same as when anyone last looked at it.
@@ -329,7 +330,10 @@ This radiance has a constantly-shifting appearance, never quite the same as when
 - **Sphere-Like Ability:** Fate sphere (Curse (word) talent)
 - **Radiant Boon:** Once per day, as a standard action, the user can create a field of wild magic 300 feet across (see the [Wild Magic](http://spheresofpower.wikidot.com/wild-magic) page for more information). All spells cast within this field gain a 100% chance of triggering wild magic. Abilities that can alter wild magic chance function normally. This field lasts for 6d10 minutes.
 **Legendary Item Abilities**
-
+- **Legendary Fortification:** When a critical hit or sneak attack is scored against a creature wearing an item with this ability, the wearer can expend one use of legendary power to negate the critical hit or sneak attack and instead take normal damage. Only armor, shields, and worn items can have this ability.
+- **Perfect Surge:** This item’s legendary surge can apply to any d20 roll. The surge adds a further +2 bonus when applied to one of the types of rolls initially chosen for it. A legendary item must be a major artifact to have this ability.
+- **Powerful (x3)**: An item with this ability has two additional uses of legendary power per day. This ability can be taken up to three times. The item must be a minor or major artifact to take this a second time, and a major artifact to take this a third time. This is a persistent ability.
+- **Rejuvenating:** The bearer of this item can expend uses of legendary power to rejuvenate her body. As a standard action, she can expend one use of legendary power to heal herself of 10 points of damage per mythic tier she possesses. Alternatively, as a standard action she can expend two uses of legendary power to remove a single condition affecting her. A legendary item must be a minor or major artifact to have this ability.
 ### Tactics
 #### Before Combat
 “Dolly” is the true mastermind behind the corruption of the temple of Sarenrae. Her aim, however, was always to manipulate her “son” and magnum opus of tragedy and horror into seeing the scene before him. As the Adventurers fight her enthralled priests, she takes great glee in the senseless slaughter of corrupted innocents, but does not participate unless attacked.
