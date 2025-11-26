@@ -277,7 +277,7 @@ NE Medium outsider (daemon, evil, extraplanar, mythic), Incanter 15
 **Aura** soul siphon (10 ft.)
 ### Defense
 **AC** 40, touch 19, flat-footed 31 (+7 Dex, +2 dodge, +21 natural)  
-**hp** 289 (17d10+119)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
+**hp** 346 (17d10+119+40+17)  **(Okay, make it significantly higher, you'd be surprised what a level 8 party can do, if it doesn't have 500 hp they can kill it.)**
 **Fort** +12, **Ref** +17, **Will** +14  
 **Defensive Abilities** _displacement_, _unstoppable_; **DR** 10/epic, good, and silver; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 36
 ### Offense
@@ -293,17 +293,17 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 #### **Spherecasting**
 **Spell Pool** 19/19; **Casting Ability Modifier** +9 
 **Talents** (5) Summon (Conjuration, CL 17), Call the Departed (Conjuration, CL 17), Extra Companion, x2 (Conjuration, CL 17), Mass Summon (Conjuration, CL 17), Altered Size (Conjuration, CL 17) Explosive Companion (Conjuration, CL 17, DC 27 reflex halves), Planar Creature (Conjuration, CL 17), Expendable Summons (Conjuration, CL 17), Greater Alter Form (Conjuration, CL 17) Suggestion (Mind, CL 22, DC 30 will save negates), Expanded Charm (Mind, CL 22), Mass Charm (Mind, CL 22), Mental Backdoor (Mind, CL 22, DC 30 will save negates), Powerful Charm (Mind, CL 22), Subtlety (Mind, CL 22, DC 30 will save), Amnesia (Mind, CL 22, DC 30 will save), Calm (Mind, CL 22, DC 30 will save negates), Enthrall (Mind, CL 22, DC 30 will save negates), Inception (Mind, CL 22, DC 30 will save negates), Mind Spy (Mind, CL 22, DC 30 will save negates), Project Thoughts (Mind, CL 22, DC 30 will save negates), Vision (Mind, CL 22, DC 30 will save negates), Wrack (Mind, CL 22, DC 30 will save negates),Mental Archives (Mind, CL 22), Terrifying Mind (Mind, CL 22, DC 30 will save negates) Mind Control (Mind, CL 22, DC 30 will save negates), Zeitgeist (Mind, CL 22, DC 30 will save negates)
-
 ### Statistics
 **Str** 21, **Dex** 29, **Con** 28, **Int** 14, **Wis** 15, **Cha** 32  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
 **Base Atk** +17; **CMB** +23; **CMD** 41  
-**Feats** [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge)
+**Feats** [Endurance](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance) [Diehard](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diehard)[Toughness](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness) [Combat Reflexes](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Dodge](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Deceitful](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful) [Flyby Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Flyby%20Attack) [Iron Will](https://aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will), [Mobility](https://aonprd.com/FeatDisplay.aspx?ItemName=Mobility), [Nimble Moves](https://aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves), [Power Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack), [Spring Attack](https://aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack), [Weapon Finesse](https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse) [Improved Initiative](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Combat Reflexes (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes), [Deceitful (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful), [Dodge (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Dodge), [Improved Initiative (Mythic)](https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative) [Toughness (Mythic)](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness)
 #### **Mythic**
 **Mythic Path** Spheremaster; **Mythic Power** 10; **Surge** 1d12;
 **Mythic Powers** Mythic Sphere Mastery (Mythic Talent (Utter Domination)), True Magic
-**Mythic Path Abilities** 
-**1st-tier**—Abundant Casting (Ex), Adamantine Mind (Ex), Enduring Armor (Su), Flexible Counterspell (Su), Implement Master (Su), 
-**6th-tier**—Mindthrall (Su),
+##### **Mythic Path Abilities** 
+**1st-tier**—Abundant Casting (Ex), Adamantine Mind (Ex), Enduring Armor (Su), Flexible Counterspell (Su), Legendary Item (Ex)
+**3rd-tier**—Magical Potency (Su) x2, Legendary Item (Ex)
+**6th-tier**—Mindthrall (Su), Legendary Item (Ex)
 **Missing 5 mythic feats, all her mythic path abilities, and her mythic path, I assume it's because she is not really meant to fight the party, but sometimes weirdness happens)**
 **Skills** Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22  **(No bluff?)**
 **Languages** Abyssal, Infernal, Common; telepathy 100 ft.
