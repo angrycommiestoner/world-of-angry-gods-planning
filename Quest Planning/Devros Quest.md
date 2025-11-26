@@ -291,8 +291,9 @@ At will—_enervation_, _fear_ (DC21), _greater teleport_ (self plus 50 lbs. of 
 3/day—_locate creature_, _plane shift_ (DC 24)  
 1/day—_energy drain_ (DC 24), _finger of death_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
 #### **Spherecasting**
-**Spell Pool** 19/19; 
-**Talents** (28) Summon (Conjuration, CL 17),
+**Spell Pool** 19/19; **Casting Ability Modifier** +9 
+**Talents** (18) Summon (Conjuration, CL 17), Call the Departed (Conjuration, CL 17), Extra Companion, x2 (Conjuration, CL 17), Mass Summon (Conjuration, CL 17), Altered Size (Conjuration, CL 17) Explosive Companion (Conjuration, CL 17, DC 27 reflex halves), Planar Creature (Conjuration, CL 17), Expendable Summons (Conjuration, CL 17), Greater Alter Form (Conjuration, CL 17) Suggestion (Mind, CL 22, DC 30 will save negates), Expanded Charm (Mind, CL 22), Mass Charm (Mind, CL 22), Powerful Charm (Mind, CL 22)
+
 ### Statistics
 **Str** 21, **Dex** 29, **Con** 28, **Int** 14, **Wis** 15, **Cha** 32  **???(Thse are way to low, her charisma should be somewhere around 40-50, she is a 19 hd mythic creature(mythic alone at this rank would give her +16 to a her stats, pit fiend 1cr more, and no mythic has Str** 37, **Dex** 29, **Con** 35, **Int** 26, **Wis** 30, **Cha** 26))**
 **Base Atk** +17; **CMB** +23; **CMD** 41  
