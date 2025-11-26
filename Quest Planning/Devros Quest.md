@@ -241,15 +241,15 @@ LN Medium humanoid (Elf)
 
 ### Offense
 **Speed** 20 ft.  
-**Melee** _+1 bane of humankind scorpion whip_ +10/+5 (1d4+1 plus 2d6 vs humans, +2 enhancement bonus vs humans) or +1 flaming scimitar +10/+5(1d10 + 1d6 fire + 4)
+**Melee** _+1 bane of humankind scorpion whip_ +10/+5 (1d4+1 plus 2d6 vs humans, +2 enhancement bonus vs humans) or +1 flaming scimitar +11/+6(1d10 + 1d6 fire + 4)
 **Ranged** mwk light crossbow +8 (1d8/19–20) or dagger +7 (1d4+2/19–20)  
 **Special Attacks** fervor (11 charges/ day, 3d6 vs undead) channel positive energy (2 fervor charges, DC 20, 3d6 vs undead),
 **Spell-Like Abilities** (CL 9th, concentration +13)  
 7/day—cure light wounds  
 **Warpriest Spells Prepared**
-**3rd level**—_3/day_
-**2nd level**—_4/day_
-**1st level**—_5/day_ command (DC 17 will save negates),
+**3rd level**—_3/day_ 
+**2nd level**—_4/day_ ironskin (+5 enhancement bonus to natural armor), spiritual weapon, weapon of awe, surmount affliction
+**1st level**—_5/day_ abstemiousness, command (DC 17 will save negates), divine favor (+3 bonus to weapon attacks and damage), shield of faith (+3 deflection bonus to AC) stone shield (+4 bonus to ac & +2 bonus to reflex saves vs target opponent)
 **0th level**—_at will_ create water, detect poison, guidance, purify food and drink, stabilize
 ### Statistics
 
