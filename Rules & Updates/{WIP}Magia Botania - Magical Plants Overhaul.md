@@ -107,4 +107,4 @@ Magic plants can be destroyed like other magic items. A tree has a [hardness](ht
 >
 A magic plant can be uprooted and moved, but it dies within a day unless it is magically treated with an effect such as [gentle repose](https://www.d20pfsrd.com/magic/all-spells/g/gentle-repose) or [temporal stasis](https://www.d20pfsrd.com/magic/all-spells/t/temporal-stasis). Uprooting a magic plant requires [Strength](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-) sufficient to move it, 4 hours of work, and a successful DC 20 [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) check. An average magic tree weighs 500 pounds, while smaller plants, such as bushes or vines, average 50 pounds.
 
-And like that, we’ve suddenly solved 90% of our established problems with 
+And like that, we’ve suddenly solved 90% of our established problems with the system! In addition to removing the pesky and unnecessary Knowledge (Nature) re
