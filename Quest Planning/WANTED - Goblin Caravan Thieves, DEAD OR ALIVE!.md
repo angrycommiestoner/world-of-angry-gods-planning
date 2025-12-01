@@ -38,4 +38,19 @@ Animal waste and half-rotting food strews the floor of this room, where a pack o
 
 ## Encounter 3: The Village of the Tooth-N-Nail Clan
 
-Hovels and tents populate this cavern. A communal cookfire sits in the center, though it is probable that nothing that could be reasonably described as “food” has ever been made there, and goblins armed for war gather around it.
+Hovels and tents populate this cavern. A communal cookfire sits in the center, though odds are high that nothing which could be reasonably described as “food” has ever been made there, and a dozen goblins armed for war are gathered around it. In addition, seated in a shabby throne made of carefully arranged stone, is the Chief of the Tooth-N-Nail Clan, Tark-Tark the Sniffer, a half-goblin half-ogre hybrid that combines the worst traits of both creatures. His most prominent feature is his nose, which is somehow both large and thin, narrowing down to an almost triangular point while also flaring at the base to accommodate almost cartoonishly large nostrils. He has the beady eyes and pointed teeth of a goblin, but the creature’s gangly, uneven limbs, disproportionately powerful to his size, suggest that Tark-Tark clearly came to rule the Tooth-N-Nail Goblins through brute force, and he will gladly attack his own goblin warriors if he believes they are not fighting hard enough.
+
+### Statblock: Tark-Tark the Sniffer (CR 5, 1,600 XP)
+Goblin-ogre Fighter, 4
+NE medium Humanoid ([goblinoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#goblinoid_subtype),[giant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#goblinoid_subtype))
+#### Defensive Traits
+**AC** 19, touch 12, flat-footed 17
+**HP** 70 (5d10 + 15 + 5)
+**Fort** +8, **Reflex** +8, Will +4
+#### Offensive Traits
+**Speed** 20 ft.
+**Melee** 
+#### Statistics
+
+#### Ecology
+
