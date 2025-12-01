@@ -18,9 +18,17 @@ If the party chooses to investigate, they find an emaciated, dripping wet goblin
 
 As this encounter is rolled, a member of the party, determined at random, is scooped up by a [Giant Eagle](https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/giant-eagle/). If the PC is capable of speaking Auran or communicating with animals, they are able to explain the mistake to the eagle, with a DC 18 Handle Animal check allowing the player to convince them that they are not food and a DC 14 Diplomacy check to convince the creature that they are, in fact, a friend.
 
-If the PCs have already encountered Sasche, and manage to convince her to accompany them, the Eagle will *always* target her with it’s initial swooping attack. If the party decides to pursue her, a DC 22 Survival check allows them to track the giant eagle to it’s cliffside nest, though to their likely surprise, Sasche will have already befriended the eagle and it’s mate, and will intercede on the party’s behalf, using her spell-like ability *speak with animals* to talk the territorial birds down from attacking the intruders.
+If the PCs have already encountered Sasche, and manage to convince her to accompany them, the Eagle will *always* target her with it’s initial swooping attack. If the party decides to pursue her, a DC 22 Survival check allows them to track the giant eagle to it’s cliffside nest, though to their likely surprise, Sasche will have already befriended the eagle, it’s mate, and even their young, who she is play-wrestling with, the two downy chicks being exceptionally careful not to use their beaks or claws against her. If the party is aggressive, Sasche will intercede on the party’s behalf, using her newly discovered spell-like ability to *speak with animals* to talk the territorial birds down from attacking the intruders. On a successful DC 23 diplomacy check, the eagles will teach the party a whistled tune that can be used to summon them once while they are within these mountains.
 
 # The Caves of the Tooth-n-Nail Clan
 4 room dungeon, 1 trap, 2 encounters, 1 treasure room
+The Caves of the Tooth-n-Nail Clan are a simple dungeon encounter for PCs level 2-5. While the PCs are not on a strict time limit, per se, it was implied that their reward could include a bonus if they finish quickly and return with the head of Tark-Tark the Sniffer
+# Encounter 1: Fireburst Statues 2x (CR 3, 800 XP)
 
-# Encounter 1: 
+As the party enters the cavern, two modified Fireburst Statues, each carved in the rough likeness of a red dragon, emit jets of flame at the party, before letting loose a loud, echoing roar that is quickly responded to by chittering goblin voices.
+### Statblock: Dragonfire Statues (CR 3, XP 800)
+**Type** magic; **Perception** DC 26; **Disable Device** DC 26
+EFFECTS
+**Trigger** touch; **Reset** automatic
+**Effect** spell effect ([burning hands](https://www.d20pfsrd.com/magic/all-spells/b/burning-hands), 5d4 fire damage; DC 11 [Reflex](https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex) save for half damage); spell effect ([ghost sound](https://www.d20pfsrd.com/magic/all-spells/g/ghost-sound/); DC 18 Will save negates, the sound of a roaring dragon);
+
