@@ -51,6 +51,8 @@ A goodberry bush produces up to six berries per day, and it grows year round. A 
 **CULTIVATION REQUIREMENTS**
 **Cost** 4,000 gp; **Feats** Cultivate Magic Plants; **Spells** goodberry; **Skills** cultivator must have 1 rank in Knowledge (nature)
 
+^2619e2
+
 … Hey wait a minute… What’s that listed price, there?
 8,000 GP? How could that be possible! We still have a whole other variable still to solve for, and this bush should already cost more than that! What’s going on here?  And… When we solve for our final variable, we get a projected cost of… Iomedae Protects, 48,000 GOLD PIECES? This is an outrage! A scandal! A sham! I could spend 750 Gold Pieces on a level 1 wand of cure light wounds with 50 charges 64 times for that amount of money! That’s 3200d6 of healing! No wonder the actual listed price of the item is so much lower! And yet, I would argue that even the 8,000 GP listed price is exorbitantly out of whack with the actual benefit gained from this magic item!
 
@@ -93,9 +95,11 @@ Magic plants are a type of magic item that are cultivated rather than constructe
 >
 To cultivate a magic plant, you need a place to plant it. ~~This usually requires a 30-foot-radius area of nutrient-rich soil and a constant supply of water and light for larger magic plants, and it requires a 10-foot-radius area and similar soil, water, and light requirements for smaller plants.~~ ==This requires a square of space per spell level in a Mystic Greenhouse, Farmland, or similarly appropriate downtime room.== Most magic plants bear fruit, seeds, or sprouts that, once mature, replicate the effects of a spell when eaten, thrown, or used in some other way. A magic plant’s price depends on the spell effect it replicates. The cultivation cost of a magic plant is half the plant’s price.
 >
->**Price** = spell level × [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) × ~~2,000~~==1,000== × yield per ~~day~~==season== × growing season multiplier.
+>**Price** = spell level × [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) × ~~2,000~~==500== × yield per ~~day~~==season== × growing season multiplier.
 >
 The yield per ~~day~~==season== is the number of fruit, seeds, or effects the plant generates per day during its growing season. ==Magical plants that produce more than one effect each day are "High” yield and have a yield per season score of 3. Magical Plants that produce one effect per day are “Medium” yield and have a yield per season score of 2. Plants that only produce one effect per week are “Low” yield and have a yield per season score of 1.== ~~For instance, a goodberry bush yields six berries per day.~~ The growing season multiplier is equal to the number of growing seasons the plant ==naturally== has in a single year. Growing seasons are continuous 13-week-long periods confined to one of the four seasons (spring, summer, fall, and winter). If a season is longer than 13 weeks, the growing season needs not be continuous. Magic plants cannot be in a growing season for longer than 52 weeks, and a plant that has four consecutive growing seasons produces fruit, seeds, or effects year round. A magic plant generates its effects only during a growing season. Outside of a growing season, some plants will still grow but remain barren (such as a fruit tree), while others may wither and regrow in the following year (such as vines).
+> 
+==“High” yield magic plants produce 1d6 magical effects per growing day. This die may be increased by one stage (1d6→1d8→1d10, etc.) or decreased by one stage (1d6→1d4→1d3, etc.). Doing so increases the plant’s yield per season value by 1 per stage or decreases the plants yield per season value by 0.5, as appropriate.==
 >
 The initial planting and care of a magic plant requires 1 week per 10,000 gp of the plant’s cultivation cost. At the end of this period, the plant reaches maturity and its benefits are fully realized, assuming that the maturity culminates within the growing season. Once picked, the product of a magical plant stays potent for ~~24 hours~~==1 week==. ~~If not picked within 1 week, fruit or any other product of the plant rots into a useless (and often smelly) sludge—though rare fruits may have longer periods of potency. Harvested fruit can’t be kept magically potent for longer than 1 day, even by effects that preserve foodstuffs.~~==Magical Plants can be [Preserved](https://www.d20pfsrd.com/magic/all-spells/p/preserve/) with any suitable magical effect, subject to DM approval.==
 >
@@ -107,4 +111,17 @@ Magic plants can be destroyed like other magic items. A tree has a [hardness](ht
 >
 A magic plant can be uprooted and moved, but it dies within a day unless it is magically treated with an effect such as [gentle repose](https://www.d20pfsrd.com/magic/all-spells/g/gentle-repose) or [temporal stasis](https://www.d20pfsrd.com/magic/all-spells/t/temporal-stasis). Uprooting a magic plant requires [Strength](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-) sufficient to move it, 4 hours of work, and a successful DC 20 [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) check. An average magic tree weighs 500 pounds, while smaller plants, such as bushes or vines, average 50 pounds.
 
-And like that, we’ve suddenly solved 90% of our established problems with the system! In addition to removing the pesky and unnecessary Knowledge (Nature) re
+And like that, we’ve suddenly solved 90% of our established problems with the system! In addition to removing the pesky and unnecessary Knowledge (Nature) requirements for cultivating magic plants, allowed for the magical preservation of the fruits and produce of your magical plants, and defined the production value of “high yield” plants.
+
+Let’s go back to our Goodberry Bush calculation, using our new formula:
+
+> **Price** = spell level × [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) × 500 × yield per season × growing season multiplier
+
+Using our [[#^2619e2|Gooodberry Bush]] from before, we can see that the price for one magical plant results in a *far* more reasonable
+
+> **Price** = 1 x 1 x 500 x 3 x 4 = **6,000 GP**
+
+Still, perhaps, a little expensive for what amounts to 1 free cast of Goodberry each day, but far more reasonable than before. In fact, that actually comes out to slightly less than the established Goodberry Bush statblock!
+
+## Final Notes
+The aspiring magical horticulturalist should always get in touch with a DM to confirm the pricing and final effect of *any* magical plant they wish to create, and may do so via ticket the same as they would for any other magical item.
