@@ -58,3 +58,6 @@ NE medium Humanoid ([goblinoid](https://www.d20pfsrd.com/bestiary/rules-for-mons
 **Skills** Intimidate +12, Stealth +16; **Racial Modifiers** +4 Stealth, +4 Intimidate
 **Languages** Goblin, Common
 **Equipment** *+1 keen horsechopper*, mwk dagger, +1 mithral full plate
+
+## Encounter 4: The Treasure Room
+Upon searching the body of Tark-Tark, the party will find a key and a map to a secret tunnel beneath Tark-Tark’s stone throne. Upon entering, they will find much of the stolen treasure they were sent to find, however, upon doing a final count and comparing to the list of stolen goods they were given by the Aspis Consortium, one book is missing. Since the party was not given a list of specific books, they have no way to determine which one, but upon reporting this news to their Aspis Consortium benefactor, the merchant will show obvious consternation, with a DC 22 Sense Motive check revealing that the consortium member was *expecting* that outcome. The party will be thanked and rewarded with 5% of the gold value of the recovered goods (1,000 GP to be split among the party), plus ten fame with the Aspis Consortium (i.e. local Cheliax fame).
