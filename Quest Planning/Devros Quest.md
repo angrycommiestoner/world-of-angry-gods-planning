@@ -5,18 +5,18 @@ Devros was born as a result of the meddling of an Astradaemon in the affairs of 
 
 Now, rumors of dark heresies committed by Father Traric reek of similar Daemonic meddling. The young Devros, unknowing host to a sliver of the abhorrent daemonic being known as The Bound Prince, seeks a way to avert the tragedy he has forseen. The Dawnflower whispers in his dreams, prompting him to take up her light to sear away the darkness that occupies her temple.
 
-Dungeon Run for PCs level 5-8
+Dungeon Run for PCs level 7-11
 
-Planning 5 fights, 3 small traps/non-combat encounters, 1 big trap/non-combat encounter, 1 boss fight.
-# Room 1: Temple Vestebule
-Here the party will be welcomed warmly by a dark-haired Priestess of Sarenrae with bright green eyes. A DC 50 Sense Motive or Spellcraft check reveals that this Priestess' mind is asleep and being actively controlled at a distance by something else. She will recognize Devros ("from Father Traric's description" if asked), approach the party, and offer to escort them to a private room where the Father would be "happy to meet them." **(Does she run if the party engages her in combat for any number of reasons?)**
+Planning 6 fights, 4 small traps/non-combat encounters, 1 big trap/non-combat encounter, 1 boss fight.
+# Room 1: Temple Vestibule
+As the party enters, the party will be welcomed warmly by a dark-haired Priestess of Sarenrae with bright green eyes. A DC 50 Sense Motive or Spellcraft check reveals that this Priestess' mind is asleep and being actively controlled at a distance by something else. She will recognize Devros ("from Father Traric's description" if asked), approach the party, and offer to escort them to a private room where the Father would be "happy to meet them." **(Does she run if the party engages her in combat for any number of reasons?)**
 # Room 2, Encounter 1: Secret Sanctuary
 
-The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 25 Perception roll is required to spot her secretly operate the mechanism in the floor.
+The hidden room the party is escorted to is well hidden, and the Priestess takes deliberate pains not to reveal the mechanism by which the door is opened to the party. A DC 35 Perception roll is required to spot her secretly operate the mechanism in the floor.
 
-If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. Once they realize they are trapped, the party may make a DC 40 Athletics check to try and force the door or a DC 25 Perception check followed by a DC 30 Disable Device or Knowledge (Engineering) check to discover and use the hidden mechanism inside the room to unlock and open the door. If the party unlocks or forces the door before disarming the gas trap, they only gain 1/2 the XP for the encounter.
-## Statblock: Poisoned Gas Trap (CR 4, 1200 XP)
-**Type** Mechanical; **Notice** Perception DC 22; **Remove** Disable Device DC 20; **Trigger** touch; **Reset** manual; **Bypass** hidden switch (DC 25 Perception to locate)
+If the party follows the Priestess without resistance, she will lock them in the room, and release a poisonous gas into the room via a hidden mechanism. Once they realize they are trapped, the party may make a DC 45 Athletics check to try and force the door or a DC 35 Perception check followed by a DC 30 Disable Device or Knowledge (Engineering) check to discover and use the hidden mechanism inside the room to unlock and open the door. If the party unlocks or forces the door before disarming the gas trap, they only gain 1/2 the XP for the encounter.
+## Statblock: Poisoned Gas Trap (CR 5, 1200 XP)
+**Type** Mechanical; **Notice** Perception DC 27; **Remove** Disable Device DC 27; **Trigger** touch; **Reset** manual; **Bypass** hidden switch (DC 25 Perception to locate)
 **Effect** Poison gas (Essence of Blue Whinnis); **Save** Fortitude DC 18 (Concentrated, +1 CR); **Special** This trap continues spewing poison until it is manually disabled. The primary activation method is a switch on the outside of the room the trap affects.
 _Essence of Blue Whinnis_
 **Type** poison, inhaled; **Save** Fortitude DC 14
