@@ -44,13 +44,17 @@ Hovels and tents populate this cavern. A communal cookfire sits in the center, t
 Goblin-ogre Fighter, 4
 NE medium Humanoid ([goblinoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#goblinoid_subtype),[giant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#goblinoid_subtype))
 #### Defensive Traits
-**AC** 19, touch 12, flat-footed 17
+**AC** 21, touch 12, flat-footed 21 (Armor +11, Dex +2,)
 **HP** 70 (5d10 + 15 + 5)
 **Fort** +8, **Reflex** +8, Will +4
 #### Offensive Traits
 **Speed** 20 ft.
-**Melee** 
+**Melee** *+1 [keen](https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/keen/) horsechopper* (+11/+6, 19-20, x3, 1d10+4) or mwk dagger (+10/+5, 1d4+4)
+**Ranged** mwk dagger (+8/+3, 1d4+4)
+**Feats** Improved Initiative, Toughness, Weapon Focus (Horsechopper), Armor Focus (Full Plate), Extra Martial Talent (Berserk Sphere)
 #### Statistics
-
-#### Ecology
-
+**Str** 18; **Dex** 14; **Con** 16; **Int** 12; **Wis** 8 **Cha** 6
+**Base Attack** +5; **CMB** +9; **CMD** 21
+**Skills** Intimidate +12, Stealth +16; **Racial Modifiers** +4 Stealth, +4 Intimidate
+**Languages** Goblin, Common
+**Equipment** *+1 keen horsechopper*, mwk dagger, +1 mithral full plate
