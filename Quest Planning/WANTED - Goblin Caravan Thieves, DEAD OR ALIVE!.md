@@ -32,3 +32,10 @@ EFFECTS
 **Trigger** touch; **Reset** automatic
 **Effect** spell effect ([burning hands](https://www.d20pfsrd.com/magic/all-spells/b/burning-hands), 5d4 fire damage; DC 11 [Reflex](https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex) save for half damage); spell effect ([ghost sound](https://www.d20pfsrd.com/magic/all-spells/g/ghost-sound/); DC 18 Will save negates, the sound of a roaring dragon);
 
+## Encounter 2: The Den
+
+Animal waste and half-rotting food strews the floor of this room, where a pack of 2d4+1 (minimum 3) [Goblin Dogs](https://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/dog/goblin-dog/) snarl at the party from the confines of their rusted cages as a pair of [Goblin](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin/) handlers hurriedly try to open the beast’s cages without having any fingers taken off. If there are fewer than 5 total Goblin Dogs, and the Goblin handlers are still up after releasing all the Goblin Dogs, they will take the opportunity to summon a [Bat Swarm](https://www.d20pfsrd.com/bestiary/monster-listings/animals/bat/bat-swarm/) via a *flute of [summon nature’s ally III](https://www.d20pfsrd.com/magic/all-spells/s/summon-natures-ally/)*, which crumbles in their hands after use. If the party manages to down the goblins before using the flute, they may claim it as treasure for themselves.
+
+## Encounter 3: The Village of the Tooth-N-Nail Clan
+
+Hovels and tents populate this cavern. A communal cookfire sits in the center, though it is probable that nothing that could be reasonably described as “food” has ever been made there, and goblins armed for war gather around it.
