@@ -137,7 +137,7 @@ A winding and beautiful ancient catacomb twists for miles under the temple and s
 LG Medium Outsider (good, law, incorporeal)
 **Init** +0, **Senses** true sight, Perception +32
 ### Defense
-
+**AC**
 ### Offense
 
 ### Statistics
