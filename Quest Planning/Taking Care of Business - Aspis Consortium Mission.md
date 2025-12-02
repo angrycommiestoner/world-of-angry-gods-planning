@@ -1,20 +1,22 @@
+```table-of-contents
+```
 The Aspis Consortium has long dealt with attacks on their caravans by hiring mercenaries and guards for their goods, and accounting for some amount of successful highway robbery besides. Recently, however, a pack of particularly pesky goblins, the self-proclaimed “Tooth-n-Nail Tribe”, managed to get away with a significant sum of wealth in gemstones, books, and other trade goods of an uncommon enough variety that the Aspis Consortium has summoned a party of adventurers to seek their den in the southern foothills of the Aspodell Mountain and either slay or capture their leader, an oddly mutated goblin-ogre known as “Tark-Tark the Sniffer”
 
 Quest w/ some exploration elements + dungeon run for adventurers level 2-6
 
 Designing 3 encounters for the party to potentially encounter prior to discovering the goblin camp. Takes 3 days of IC travel to the cavern, assuming no faster mode of transportation available. Roll d% at the beginning of each day (75% chance for no encounter), allow for some in-character travel chatter, then move on to next day.
 
-## Encounter 1: The Faerie Springs
+# Encounter 1: The Faerie Springs
 
 In the foothills of the Aspodell mountains are rumors of a fog-shrouded spring which functions as a portal to the First World under the right conditions. Though the conditions today are not right, the spring is still full of the revitalizing natural energies of the first world. Water drawn from the spring is treated as Holy Water, and taking a bath in the spring grants a Sacred bonus to AC and Saving Throws equal to 1/2 of the subject’s level for the next 1d4 days. Construct and undead creatures do not gain any benefit from the springs. A DC 24 Knowledge (Planes) check reveals this information.
 
-## Encounter 2: A Lost Child?
+# Encounter 2: A Lost Child?
 
 Upon the night that this encounter is rolled, as the party settles in to rest, they hear the far-away sound of a child weeping.
 
 If the party chooses to investigate, they find an emaciated, dripping wet goblin child adjacent to a nearby river. The child will accept any aid that they offer, and will introduce herself as “Sasche” (pronounced like “Sash”) but is reluctant to speak of her origin, home, or family. If the party mentions that they are sent there to kill the leader of the Tooth-n-Nail Tribe, she will seem obviously disturbed at that, and a DC 23 Diplomacy check will get her to reveal that she is an “outcast, wicked child” of the Tooth-n-Nail tribe, and was sent away by Tark-Tark the Sniffer when he recently came to power within the tribe for being “too pretty to be a goblin”. A DC 23 Knowledge (Planes) check will reveal the goblin girl for what she is, a Changeling, born likely to a Hag and a Goblin father. This revelation, if divulged to the girl, will cause her to break down into helpless sobs and flee from the adventurers, while a DC 14 survival check will reveal that she has returned to the river where the party first found her. If pursued, she will reveal that she tried to drown herself, but couldn’t, which is why she was soaking wet when they met. She will divulge that she heard the voice of her “momma” in the waters of the river, and that she’s *scared* because of what little she knows about hags.
 
-## Encounter 3: The Eagle’s Nest
+# Encounter 3: The Eagle’s Nest
 
 As this encounter is rolled, a member of the party, determined at random, is scooped up by a [Giant Eagle](https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/giant-eagle/). If the PC is capable of speaking Auran or communicating with animals, they are able to explain the mistake to the eagle, with a DC 18 Handle Animal check allowing the player to convince them that they are not food and a DC 14 Diplomacy check to convince the creature that they are, in fact, a friend.
 
@@ -23,7 +25,7 @@ If the PCs have already encountered Sasche, and manage to convince her to accomp
 # The Caves of the Tooth-n-Nail Clan
 4 room dungeon, 1 trap, 2 encounters, 1 treasure room
 The Caves of the Tooth-n-Nail Clan are a simple dungeon encounter for PCs level 2-5. While the PCs are not on a strict time limit, per se, it was implied that their reward could include a bonus if they finish quickly and return with the head of Tark-Tark the Sniffer
-# Encounter 1: Fireburst Statues 2x (CR 3, 800 XP)
+## Encounter 1: Fireburst Statues 2x (CR 3, 800 XP)
 
 As the party enters the cavern, two modified Fireburst Statues, each carved in the rough likeness of a red dragon, emit jets of flame at the party, before letting loose a loud, echoing roar that is quickly responded to by chittering goblin voices.
 ### Statblock: Dragonfire Statues (CR 3, XP 800)
@@ -39,7 +41,6 @@ Animal waste and half-rotting food strews the floor of this room, where a pack o
 ## Encounter 3: The Village of the Tooth-N-Nail Clan
 
 Hovels and tents populate this cavern. A communal cookfire sits in the center, though odds are high that nothing which could be reasonably described as “food” has ever been made there, and a dozen goblins armed for war are gathered around it. In addition, seated in a shabby throne made of carefully arranged stone, is the Chief of the Tooth-N-Nail Clan, Tark-Tark the Sniffer, a half-goblin half-ogre hybrid that combines the worst traits of both creatures. His most prominent feature is his nose, which is somehow both large and thin, narrowing down to an almost triangular point while also flaring at the base to accommodate almost cartoonishly large nostrils. He has the beady eyes and pointed teeth of a goblin, but the creature’s gangly, uneven limbs, disproportionately powerful to his size, suggest that Tark-Tark clearly came to rule the Tooth-N-Nail Goblins through brute force, and he will gladly attack his own goblin warriors if he believes they are not fighting hard enough.
-
 ### Statblock: Tark-Tark the Sniffer (CR 5, 1,600 XP)
 Goblin-ogre Fighter, 4
 NE medium Humanoid ([goblinoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#goblinoid_subtype),[giant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#goblinoid_subtype))
@@ -58,11 +59,14 @@ NE medium Humanoid ([goblinoid](https://www.d20pfsrd.com/bestiary/rules-for-mons
 **Skills** Intimidate +12, Stealth +16; **Racial Modifiers** +4 Stealth, +4 Intimidate
 **Languages** Goblin, Common
 **Equipment** *+1 keen horsechopper*, mwk dagger, +1 mithral full plate
-
 ## Encounter 4: The Treasure Room
 Upon searching the body of Tark-Tark, the party will find a key and a map to a secret tunnel beneath Tark-Tark’s stone throne. Upon entering, they will find much of the stolen treasure they were sent to find, however, upon doing a final count and comparing to the list of stolen goods they were given by the Aspis Consortium, one book is missing. Since the party was not given a list of specific books, they have no way to determine which one, but upon reporting this news to their Aspis Consortium benefactor, the merchant will show obvious consternation, with a DC 22 Sense Motive check revealing that the consortium member was *expecting* that outcome. The party will be thanked and rewarded with 5% of the gold value of the recovered goods (1,000 GP to be split among the party), plus ten fame with the Aspis Consortium (i.e. local Cheliax fame).
 
 ## Narrative & Future Connections
 The book that is missing is a spellbook known as *“The Rites of Phantasmagorios”*, which was being secretly transported by this caravan to a Conference Z Agent in Egorian. The Adrius family’s knowledge of Conference Z is precisely why Marcille LaFey Adrius is the party’s benefactor, and the reason why this operation is being kept so quiet. One of the rituals contained within *”The Rites”* could be used, in conjunction with the blood of Her Infernal Majestrix, Queen Abrogail II of the Thrice-Damned House of Thrune, to bind or even utterly unmake Asmodeus. 
 
-That at the conclusion of this clandestine quest, such a book is *missing* is, by the Aspis Consortium’s reckoning, an *unrivaled problem*. All Conference Z Agents will be reassigned immediately to the retrieval of *”The Rites”* and though House Adrius and the Consortium won’t reveal their secrets to *outside help*, they *will* begin hiring more and more of said outside help as their desperation to find the stolen spellbook grows. Future plans for quests revolving around the Aspis Consortium currently include: Investigating and destroying a necromancer’s cult in rural cheliax, as Consortium agents hear rumors that the necromancer is making scandalous claims about Her Majestrix, Abrogail II, and that his unholy power from secret Infernal texts “revealed to him by Asmodeus Himself”, and demonstrating power consistent with the lesser rituals of *”The Rites of Phantasmagorios”*; serving as Marcille LaFey Adrius’ personal bodyguards as she investigates leads in Egorian; and, eventually, stopping a plot by a Mephistophelean anti-paladin to kidnap and assassinate Her Infernal Majestrix.
+That at the conclusion of this clandestine quest, such a book is *missing* is, by the Aspis Consortium’s reckoning, an *unrivaled problem*. All Conference Z Agents will be reassigned immediately to the retrieval of *”The Rites”* and though House Adrius and the Consortium won’t reveal their secrets to *outside help*, they *will* begin hiring more and more of said outside help as their desperation to find the stolen spellbook grows. 
+
+Future plans for quests revolving around the Aspis Consortium currently include: Investigating and destroying a necromancer’s cult in rural cheliax, as Consortium agents hear rumors that the necromancer is making scandalous claims about Her Majestrix, Abrogail II, and that his unholy power from secret Infernal texts “revealed to him by Asmodeus Himself”, and demonstrating power consistent with the lesser rituals of *”The Rites of Phantasmagorios”*; serving as Marcille LaFey Adrius’ personal bodyguards as she investigates leads in Egorian; and, eventually, stopping a plot by a Mephistophelean anti-paladin to kidnap and assassinate Her Infernal Majestrix, attempting to unmake Asmodeus as a penultimate gift to his god, the archdevil Mephistopheles.
+
+If the players discover [[#Encounter 2 A Lost Child?|Sasche]] in their travels, she will implore them not to simply slaughter her tribe, but even if the party manages only to kill Tark-Tark, they will not welcome her back. Regardless of the outcome, Sasche will follow the party back to Ostenso without saying a word, and they will be able to hear her quietly crying at night. If the party is successfully able to kill less than half of the goblins in the final encounter, upon reaching Ostenso, she will begin trying to talk with the party and act as if everything is fine. A DC 16 Diplomacy check will allow her to break down at last, expressing her grief and gratitude to the players. If any players offer to take her in, she will accept, effectively becoming a RP-only NPC follower under their limited control. Sasche will also have future questlines attached to her emotional and personal development and how that reflects the PC that takes her in, as well as around finding her “real” (hag) mother and defining her own place in the world.
