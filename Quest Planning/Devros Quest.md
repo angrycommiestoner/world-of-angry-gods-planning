@@ -136,7 +136,8 @@ A winding and beautiful ancient catacomb twists for miles under the temple and s
 
 LG Medium Outsider (good, law, incorporeal)
 **Init** +0, **Senses** true sight, Perception +32
-
+### Defense
+###
 # Room 7: Hall of Connection
 The so-called “Hall of Connection” — thus named in part because it connects the large atrium to the Grand Cathedral Hall and in part because of a long-established tradition of Sarenite couples who are married in the church to walk down the hall together in meditation on the nature of the shared connection they are forging — is a lengthy marble hall with stained glass walls that depict scenes from _”The Windsong Testaments”_. The hall is lined with many different statues, paintings, suits of armor, and various holy relics and artifacts left in the care of the church by wealthy nobles. A DC 35 Appraisal check reveals that the assembled wealth in the hall is worth approximately 960,000 GP if sold at wholesale market prices, and further investigation (DC 25 Perception and/or Detect Magic or similar) reveals some particularly significant (and/or potentially useful) items, including a Decanter of Endless Holy Water (12,500 GP), a Scroll of [Sacred Nimbus](https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus) (CL 15, 937 GP), a Scroll of [Banishment](https://www.d20pfsrd.com/magic/all-spells/b/banishment) (CL 20, DC 35 will save negates 1,500 GP) and a Scroll of [Holy Word](https://www.d20pfsrd.com/magic/all-spells/h/holy-word) (CL 25, DC 40, 2187.5 GP), as well as a book of Sarenite scriptures, _”The Windsong Testaments”_, whose white, velvet-wrapped cover is bound in gold thread and inlaid with gemstones (9,500 GP, contains several high-level Divine rituals, can DM with more info if it comes up). At the end of the hall is the Grand Hall, where the voices of the Dawnmother’s faithful have long been raised in prayer and supplication to Sarenrae.
 
