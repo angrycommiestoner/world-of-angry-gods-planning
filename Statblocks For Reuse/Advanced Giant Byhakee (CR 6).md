@@ -11,7 +11,7 @@ CE Medium [aberration](https://www.d20pfsrd.com/bestiary/rules-for-monsters/crea
 **Immune** cold, [confusion](https://www.d20pfsrd.com/magic/all-spells/c/confusion) and [insanity](https://www.d20pfsrd.com/magic/all-spells/i/insanity) effects, critical hits, hunger, [sneak attacks](https://www.d20pfsrd.com/classes/core-classes/rogue#TOC-Sneak-Attack), thirst
 ### OFFENSE
 **Speed** 30 ft., fly 50 ft. (good)  
-**Melee** 2 claws + (1d6+3), bite +6 (1d8+3 plus [grab](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Grab-Ex-))  
+**Melee** 2 claws +10 (1d6+3), bite +10 (1d8+3 plus [grab](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Grab-Ex-))  
 **Special Attacks** [blood drain](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Blood-Drain-Ex-) (1d2 [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-)), bloodlust
 ### STATISTICS
 **Str** 25 (+7), **Dex** 18 (+4), **Con** 26 (+8), **Int** 14 (+2), **Wis** 21 (+5), **Cha** 19 (+4)  
