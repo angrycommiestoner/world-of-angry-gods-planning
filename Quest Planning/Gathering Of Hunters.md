@@ -16,13 +16,11 @@ Wild Hunt Scout CR 15
 **XP 51,200**  
 CN Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey) (wild hunt)  
 **Init** +13; **Senses** [greensight](https://www.d20pfsrd.com/magic/all-spells/g/greensight) 60 ft., [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision), [scent](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Scent), [see in darkness](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-See-in-Darkness-Su-); [Perception](https://www.d20pfsrd.com/skills/perception) +34
-
 ### DEFENSE
 **AC** 31, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 25, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 21 (+5 [deflection](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-), +9 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +1 [dodge](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus), +6 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus))  
 **hp** 228 (24d6+144)  
 **Fort** +16, **Ref** +23, **Will** +21  
 **Defensive Abilities** instinctive cooperation, wild grace; **DR** 15/[cold iron](https://www.d20pfsrd.com/equipment/special-materials#TOC-Iron-Cold); **Immune** cold, blindness; **Resist** electricity 10, fire 10
-
 ### OFFENSE
 **Speed** 50 ft.  
 **Melee** force [scimitar](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/scimitar) +18/+13/+8 [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) (1d6+5 force/15–20)  
@@ -32,9 +30,7 @@ CN Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-ty
 **Constant**—[know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace), [speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)  
 **3/day**—[clairaudience/clairvoyance](https://www.d20pfsrd.com/magic/all-spells/c/clairaudience-clairvoyance), [dimension door](https://www.d20pfsrd.com/magic/all-spells/d/dimension-door), [stone tell](https://www.d20pfsrd.com/magic/all-spells/s/stone-tell)  
 **1/day**—[true seeing](https://www.d20pfsrd.com/magic/all-spells/t/true-seeing)
-
 ### STATISTICS
-
 **Str** 20, **Dex** 29, **Con** 22, **Int** 17, **Wis** 24, **Cha** 21  
 **Base Atk** +12; **CMB** +17; **CMD** 42  
 **Feats** [Combat Expertise](https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat), [Combat Reflexes](https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat/), [Great Fortitude](https://www.d20pfsrd.com/feats/general-feats/great-fortitude), [Greater Feint](https://www.d20pfsrd.com/feats/combat-feats/greater-feint/), [Improved Critical](https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-) ([scimitar](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/scimitar)), [Improved Feint](https://www.d20pfsrd.com/feats/combat-feats/improved-feint/), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility/), [Skill Focus](https://www.d20pfsrd.com/feats/general-feats/skill-focus) ([Bluff](https://www.d20pfsrd.com/skills/bluff)), [Spring Attack](https://www.d20pfsrd.com/feats/combat-feats/spring-attack/), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus/) ([scimitar](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/scimitar))  
@@ -53,6 +49,8 @@ All creatures in a wild hunt scout’s wild hunt link share each other’s sense
 **Organization** solitary, invasion (2–6), or wild hunt  
 **Treasure** standard
 Wild hunt scouts relish the chance to seek revenge upon those who have wronged or insulted the wild hunt. They grow bored quickly when the stakes are not lethal, yet they rarely let their bloodlust cloud their tactical choices.
+### META-NARRATIVE INFORMATION
+This statblock is meant to be a point of comparison and reference for named NPC statblocks, who will be filling the role of the typical Wild Hunt Scouts in a Wild Hunt. Refer to the [[#Wild Hunt Archer]] statblock for basic Wild Hunt unit.
 
 ## Atropos
 [Norn](https://www.d20pfsrd.com/bestiary/monster-listings/fey/norn/) CR 18
@@ -95,5 +93,5 @@ As a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standar
 **Treasure** double (+3 hide [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), shears, golden thread worth 500 gp, other treasure)
 Ancient beyond imagining, the norns are a race of powerful women who hold in their hands the physical manifestation of fate and destiny in the form of golden thread. They watch over all life, intervening with reluctance when called upon or with a vengeance when the strands of fate are twisted and abused by lesser beings. Worshiped as gods by some, the norns do little to discourage this veneration.
 A norn stands 14 feet tall and weighs 800 pounds.
-### Biography & Meta-Narrative notes 
-Atropos uses an unaltered Norn statblock and will probably be by far the strongest of Niya’s cohorts unless and until Theras and Chamion become Horae Queens of their respective seasons. Ta
+### META-NARRATIVE INFORMATION 
+Atropos uses an unaltered Norn statblock and will probably be by far the strongest of Niya’s cohorts unless and until Theras and Chamion become Horae Queens of their respective seasons. Chosen directly by Magdh for this role, rather than volunteers as 
