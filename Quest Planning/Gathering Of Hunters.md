@@ -97,15 +97,16 @@ A norn stands 14 feet tall and weighs 800 pounds.
 Atropos uses an unaltered Norn statblock and will probably be by far the strongest of Niya’s cohorts unless and until Theras and Chamion become Horae Queens of their respective seasons. Chosen directly by Magdh for this role, rather than volunteers, as Theras and Chamion, or volunteered by a liege in lieu of performing the role themselves, as Twig-And-Branch was, Atropos is a trusted advisor to She-Of-Three-Faces. As such, she is also the one who comes bearing news of the changes to Niya’s plans.
 
 ## Twig-And-Branch
-An odd First World Treant, Twig-And-Branch is far more sly than he prefers to let on. A strategic and planning mastermind, he claims a predominantly advisory role to Magdh’s chosen Monarch, as he says he never wanted to be involved in this endeavor in the first place.
+An odd First World Treant, Twig-And-Branch is far more sly than he prefers to let on. A strategic and planning mastermind, he claims a predominantly advisory role to Magdh’s chosen Monarch. He also regularly complains that he never wanted to be involved in this endeavor in the first place, despite being 
+
 [Fey Creature](https://www.d20pfsrd.com/bestiary/monster-listings/templates/fey-creature-cr-1-or-2/) Elder [Treant](https://www.d20pfsrd.com/bestiary/monster-listings/plants/treant/) 
 CR 15
 **XP 4,800**  
 NG Gargantuan [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant)  
 **Init** +1; **Senses** low-light vision; [Perception](https://www.d20pfsrd.com/skills/perception) +12
 ### DEFENSE
-**AC** 20, touch 6, flat-footed 20 (+1 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +13 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Natural-Armor-), –4 size)  
-**hp** 390 (30d8+60)  
+**AC** 29, touch 6, flat-footed 29 (+1 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +22 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Natural-Armor-), –4 size)  
+**hp** 420 (30d8+240)  
 **Fort** +13, **Ref** +3, **Will** +9  
 **Defensive Abilities** [plant traits](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant); **DR** 10/cold iron  
 **Weaknesses** vulnerability to fire
@@ -114,12 +115,12 @@ NG Gargantuan [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creat
 **Melee** 2 slams +15 (2d8+10/19–20)  
 **Ranged** rock +7 (2d6+13)  
 **Space** 20 ft.; **Reach** 20 ft.  
-**Special Attacks** [rock throwing](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Rock-Throwing-Ex-) (180 ft.), [trample](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Trample-Ex-) (2d6+13, DC 25)
+**Special Attacks** [rock throwing](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Rock-Throwing-Ex-) (180 ft.), [trample](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Trample-Ex-) (2d6+13, DC 27)
 ### STATISTICS
-**Str** 26, **Dex** 12, **Con** 24, **Int** 14, **Wis** 18, **Cha** 16  
+**Str** 26, **Dex** 12, **Con** 26, **Int** 14, **Wis** 18, **Cha** 16  
 **Base** **Atk** +9; **CMB** +20; **CMD** 29  
-**Feats** [Alertness](https://www.d20pfsrd.com/feats/general-feats/alertness), [Improved Critical](https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-) (slam), [Improved Sunder](https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat), [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will), [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat) (slam)  
-**Skills** [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +9, [Intimidate](https://www.d20pfsrd.com/skills/intimidate) +9, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +9, [Perception](https://www.d20pfsrd.com/skills/perception) +12, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +9, [Stealth](https://www.d20pfsrd.com/skills/stealth) –11 (+7 in forests); **Racial Modifiers** +16 [Stealth](https://www.d20pfsrd.com/skills/stealth) in forests  
+**Feats** [Alertness](https://www.d20pfsrd.com/feats/general-feats/alertness), [Improved Critical](https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-) (slam), [Improved Sunder](https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat), [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will), [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat) (slam), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/), [Vital Strike](https://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat), [Lightning Reflexes](https://www.d20pfsrd.com/feats/general-feats/lightning-reflexes/), [Ability Focus](https://www.d20pfsrd.com/feats/monster-feats/ability-focus) (trample)
+**Skills** [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +19, [Intimidate](https://www.d20pfsrd.com/skills/intimidate) +29, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +24, [Perception](https://www.d20pfsrd.com/skills/perception) +29, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +24, [Stealth](https://www.d20pfsrd.com/skills/stealth) +8 (+24 in forests); **Racial Modifiers** +16 [Stealth](https://www.d20pfsrd.com/skills/stealth) in forests  
 **Languages** Common, Sylvan, Treant  
 **SQ** animate trees, double damage against objects, treespeech
 ### SPECIAL ABILITIES
