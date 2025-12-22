@@ -96,4 +96,4 @@ As a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standar
 Ancient beyond imagining, the norns are a race of powerful women who hold in their hands the physical manifestation of fate and destiny in the form of golden thread. They watch over all life, intervening with reluctance when called upon or with a vengeance when the strands of fate are twisted and abused by lesser beings. Worshiped as gods by some, the norns do little to discourage this veneration.
 A norn stands 14 feet tall and weighs 800 pounds.
 ### Biography & Meta-Narrative notes 
-Atropos is a
+Atropos uses an unaltered Norn statblock and will probably be by far the strongest of Niya’s cohorts unless and until Theras and Chamion become Horae Queens of their respective seasons. Ta
