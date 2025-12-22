@@ -98,13 +98,15 @@ Atropos uses an unaltered Norn statblock and will probably be by far the stronge
 
 ## Twig-And-Branch
 An odd First World Treant, Twig-And-Branch is far more sly than he prefers to let on. A strategic and planning mastermind, he claims a predominantly advisory role to Magdh’s chosen Monarch, as he says he never wanted to be involved in this endeavor in the first place.
+[Fey Creature](https://www.d20pfsrd.com/bestiary/monster-listings/templates/fey-creature-cr-1-or-2/) Elder Treant 
+CR 15
 **XP 4,800**  
-NG Huge [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant)  
-**Init** –1; **Senses** low-light vision; [Perception](https://www.d20pfsrd.com/skills/perception) +12
+NG Gargantuan [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant)  
+**Init** +1; **Senses** low-light vision; [Perception](https://www.d20pfsrd.com/skills/perception) +12
 
 DEFENSE
 
-**AC** 21, touch 7, flat-footed 21 (–1 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +14 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Natural-Armor-), –2 size)  
+**AC** 20, touch 6, flat-footed 20 (+1 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +13 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Natural-Armor-), –4 size)  
 **hp** 114 (12d8+60)  
 **Fort** +13, **Ref** +3, **Will** +9  
 **Defensive Abilities** [plant traits](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant); **DR** 10/slashing  
@@ -120,7 +122,7 @@ OFFENSE
 
 STATISTICS
 
-**Str** 29, **Dex** 8, **Con** 21, **Int** 12, **Wis** 16, **Cha** 13  
+**Str** 25, **Dex** 12, **Con** 21, **Int** 14, **Wis** 16, **Cha** 15  
 **Base** **Atk** +9; **CMB** +20; **CMD** 29  
 **Feats** [Alertness](https://www.d20pfsrd.com/feats/general-feats/alertness), [Improved Critical](https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-) (slam), [Improved Sunder](https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat), [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will), [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat) (slam)  
 **Skills** [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +9, [Intimidate](https://www.d20pfsrd.com/skills/intimidate) +9, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +9, [Perception](https://www.d20pfsrd.com/skills/perception) +12, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +9, [Stealth](https://www.d20pfsrd.com/skills/stealth) –9 (+7 in forests); **Racial Modifiers** +16 [Stealth](https://www.d20pfsrd.com/skills/stealth) in forests  
