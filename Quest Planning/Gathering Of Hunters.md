@@ -67,7 +67,7 @@ LN Large [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-typ
 **Melee** shears +21/+21/+16 (1d8+12/15-20 plus [energy drain](https://www.d20pfsrd.com/magic/all-spells/e/energy-drain)), touch +11 ([energy drain](https://www.d20pfsrd.com/magic/all-spells/e/energy-drain))  
 **Space** 10 ft.; **Reach** 10 ft.  
 **Special Attacks** [energy drain](https://www.d20pfsrd.com/magic/all-spells/e/energy-drain) (2 levels, DC 30), shift fate, snip thread  
-**Spell-Like Abilities** (CL 18th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +28)
+#### **Spell-Like Abilities** (CL 18th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +28)
 **Constant**—[death ward](https://www.d20pfsrd.com/magic/all-spells/d/death-ward), [foresight](https://www.d20pfsrd.com/magic/all-spells/f/foresight), [greater arcane sight](https://www.d20pfsrd.com/magic/all-spells/a/arcane-sight), [mind blank](https://www.d20pfsrd.com/magic/all-spells/m/mind-blank), [tongues](https://www.d20pfsrd.com/magic/all-spells/t/tongues), [true seeing](https://www.d20pfsrd.com/magic/all-spells/t/true-seeing)  
 **At will**—[bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) (DC 23), [divination](https://www.d20pfsrd.com/magic/all-spells/d/divination), [greater dispel magic](https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic), [geas/quest](https://www.d20pfsrd.com/magic/all-spells/g/geas-quest), [vision](https://www.d20pfsrd.com/magic/all-spells/v/vision), [wind walk](https://www.d20pfsrd.com/magic/all-spells/w/wind-walk) (self only)  
 **1/day**—[maze](https://www.d20pfsrd.com/magic/all-spells/m/maze), [moment of prescience](https://www.d20pfsrd.com/magic/all-spells/m/moment-of-prescience), [quickened](https://www.d20pfsrd.com/feats/monster-feats/quicken-spell-like-ability) [phantasmal killer](https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-killer) (DC 24), [power word kill](https://www.d20pfsrd.com/magic/all-spells/p/power-word-kill), [time stop](https://www.d20pfsrd.com/magic/all-spells/t/time-stop), [weird](https://www.d20pfsrd.com/magic/all-spells/w/weird) (DC 29)
@@ -97,7 +97,7 @@ A norn stands 14 feet tall and weighs 800 pounds.
 Atropos uses an unaltered Norn statblock and will probably be by far the strongest of Niya’s cohorts unless and until Theras and Chamion become Horae Queens of their respective seasons. Chosen directly by Magdh for this role, rather than volunteers, as Theras and Chamion, or volunteered by a liege in lieu of performing the role themselves, as Twig-And-Branch was, Atropos is a trusted advisor to She-Of-Three-Faces. As such, she is also the one who comes bearing news of the changes to Niya’s plans.
 
 ## Twig-And-Branch
-An odd First World Treant, Twig-And-Branch is far more sly than he prefers to let on. A strategic and planning mastermind, he claims a predominantly advisory role to Magdh’s chosen Monarch. He also regularly complains that he never wanted to be involved in this endeavor in the first place, despite being 
+An odd First World Treant, Twig-And-Branch is far more sly than he prefers to let on. A strategic and planning mastermind, he claims a predominantly advisory role to Magdh’s chosen Monarch. He also regularly complains that he never wanted to be involved in this endeavor in the first place.
 
 [Fey Creature](https://www.d20pfsrd.com/bestiary/monster-listings/templates/fey-creature-cr-1-or-2/) Elder [Treant](https://www.d20pfsrd.com/bestiary/monster-listings/plants/treant/) 
 CR 15
@@ -112,14 +112,18 @@ NG Gargantuan [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creat
 **Weaknesses** vulnerability to fire
 ### OFFENSE
 **Speed** 30 ft., 45 ft. flight (good)  
-**Melee** 2 slams +15 (2d8+10/19–20)  
-**Ranged** rock +7 (2d6+13)  
+**Melee** 2 slams +15 (4d8+8/19–20)  
+**Ranged** rock +7 (2d8+13)  
 **Space** 20 ft.; **Reach** 20 ft.  
-**Special Attacks** [rock throwing](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Rock-Throwing-Ex-) (180 ft.), [trample](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Trample-Ex-) (2d6+13, DC 27)
+**Special Attacks** [rock throwing](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Rock-Throwing-Ex-) (180 ft.), [trample](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Trample-Ex-) (3d8+12, DC 35)
+#### Spell-Like Abilities (CL 20th, [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +24 )
+**3/day** [dancing lights](https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights)
+**1/day** [faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire), 
+
 ### STATISTICS
 **Str** 26, **Dex** 12, **Con** 26, **Int** 14, **Wis** 18, **Cha** 16  
 **Base** **Atk** +9; **CMB** +20; **CMD** 29  
-**Feats** [Alertness](https://www.d20pfsrd.com/feats/general-feats/alertness), [Improved Critical](https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-) (slam), [Improved Sunder](https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat), [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will), [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat) (slam), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/), [Vital Strike](https://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat), [Lightning Reflexes](https://www.d20pfsrd.com/feats/general-feats/lightning-reflexes/), [Ability Focus](https://www.d20pfsrd.com/feats/monster-feats/ability-focus) (trample)
+**Feats** [Alertness](https://www.d20pfsrd.com/feats/general-feats/alertness), [Improved Critical](https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-) (slam), [Improved Sunder](https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat), [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will), [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat) (slam), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat/), [Vital Strike](https://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat), [Lightning Reflexes](https://www.d20pfsrd.com/feats/general-feats/lightning-reflexes/), [Ability Focus](https://www.d20pfsrd.com/feats/monster-feats/ability-focus) (trample), [Improved Natural Attack](https://www.d20pfsrd.com/feats/monster-feats/improved-natural-attack) (slam), [Improved Natural Attack](https://www.d20pfsrd.com/feats/monster-feats/improved-natural-attack) (slam), [Multiattack](https://www.d20pfsrd.com/feats/monster-feats/multiattack-combat) 
 **Skills** [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +19, [Intimidate](https://www.d20pfsrd.com/skills/intimidate) +29, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +24, [Perception](https://www.d20pfsrd.com/skills/perception) +29, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +24, [Stealth](https://www.d20pfsrd.com/skills/stealth) +8 (+24 in forests); **Racial Modifiers** +16 [Stealth](https://www.d20pfsrd.com/skills/stealth) in forests  
 **Languages** Common, Sylvan, Treant  
 **SQ** animate trees, double damage against objects, treespeech
