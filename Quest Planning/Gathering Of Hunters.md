@@ -145,8 +145,8 @@ Twig-And-Branch is a first world treant who was once a creature of the mortal wo
 
 ## Theras & Chamion
 ### Theras
-Summer Hora
-**XP 2,400**  
+Summer Hora CR 6
+**XP 2,400**
 CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey)  
 **Init** +8; **Senses** [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +16  
 **Aura** blinding beauty (30 ft., DC 19)
@@ -190,14 +190,9 @@ CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-ty
 ##### Blinding Beauty (Su)
 
 This ability affects all [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) within 30 feet of the summer hora. Those who look directly at the hora must succeed on a DC 19 [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) save or be [blinded](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Blinded) for 1 minute and [dazzled](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Dazzled) for 1 hour. The hora can suppress or resume this ability as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions). The save DC is [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)-based.
-
 ##### Summer Bound (Su)
-
 During winter months, the summer hora gains the [sickened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Sickened) condition.
-
 ##### Summer’s Salvation (Su)
 As an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) after a summer hora or an ally within 30 feet of the hora that it can see fails a saving throw, the hora grants an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the saving throw based on the time of year. The bonus is +4 during the month of the summer solstice, +2 during the month before or after the summer solstice, and +1 during any time other than the winter solstice month, during which this ability doesn’t function. The summer hora can’t use this ability again for 1d4 rounds.
-
-ABOUT
-
+#### ABOUT
 While most nymphs bond with a natural feature, such as a tree, pool, or cave, horai are rare nymphs associated with a specific time—the summer or winter solstice—rather than a location. Horai erect simple astronomical calendars near their home, which they use to mark the moment when the sun reaches its highest or lowest point in the sky. An hora tied to the summer solstice grows more powerful as the sun reaches its height, while an hora tied to the winter solstice is sickly and weak. The opposite holds true for winter horai, who are weak in summer and strong in winter. Meanwhile, autumn and spring horai draw power near the autumnal and vernal equinoxes, becoming weaker around the opposite equinox.
