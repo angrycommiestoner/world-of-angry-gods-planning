@@ -200,15 +200,17 @@ CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-ty
 **Weaknesses** winter bound
 #### OFFENSE
 **Speed** 30 ft.  
-**Melee** rime blade +9 (3d6+3 piercing +1d6 cold)
+**Melee** rime blade +13 (3d6+3 piercing +1d6 cold)
 **Ranged** [ray of frost](https://www.d20pfsrd.com/magic/all-spells/r/ray-of-frost) +9 (4d8 cold)
 **Spell-Like Abilities** (CL 10th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +14)
 - **Constant**—[speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
 - **At will**—[know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction), [light](https://www.d20pfsrd.com/magic/all-spells/l/light), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace)
 - **1/day**—[alarm](https://www.d20pfsrd.com/magic/all-spells/a/alarm), [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) (DC 18), [commune with nature](https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature), [faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire), snowball (DC 15)
+**Spellcasting** (CL 6th; Concentration +10)
+- **Cantrips (At Will) - 
 #### STATISTICS
 **Str** 10, **Dex** 21, **Con** 20, **Int** 19, **Wis** 17, **Cha** 20  
-**Base Atk** +5; **CMB** +6, **CMD** 21  
+**Base Atk** +8; **CMB** +6, **CMD** 21  
 **Feats** [Combat Casting](https://www.d20pfsrd.com/feats/general-feats/combat-casting), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility-combat), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat)  
 **Skills** [Acrobatics](https://www.d20pfsrd.com/skills/acrobatics) +17, [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +17, [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) +17, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +15, [Perception](https://www.d20pfsrd.com/skills/perception) +16, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +16, [Stealth](https://www.d20pfsrd.com/skills/stealth) +17, [Survival](https://www.d20pfsrd.com/skills/survival) +13  
 **Languages** Common, Elven, Sylvan; [speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
