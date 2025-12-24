@@ -145,7 +145,7 @@ Twig-And-Branch is a first world treant who was once a creature of the mortal wo
 
 ## Theras & Chamion
 ### Theras
-Summer Hora CR 6
+Summer Hora Kinetic Knight Kineticist 6, CR 13
 **XP 2,400**
 CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey)  
 **Init** +8; **Senses** [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +16  
@@ -160,15 +160,16 @@ CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-ty
 **Speed** 30 ft.  
 **Melee** solar blade +9 (3d6+3 slashing plus 1d6 fire)  
 **Ranged** solar ray +9 (4d8 fire)  
-**Spell-Like Abilities** (CL 10th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +14)
-
+**Spell-Like Abilities** (CL 10th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +16)
 - **Constant**—[speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
 - **At will**—[know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction), [light](https://www.d20pfsrd.com/magic/all-spells/l/light), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace)
 - **1/day**—[alarm](https://www.d20pfsrd.com/magic/all-spells/a/alarm), [animal messenger](https://www.d20pfsrd.com/magic/all-spells/a/animal-messenger), [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) (DC 18), [commune with nature](https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature), [faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire)
+Wild Talents (CL 3; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +8)
+- **1st level**—[kinetic blade](https://www.d20pfsrd.com/ALTERNATIVE-RULE-SYSTEMS/PAIZO-RULES-SYSTEMS/OCCULT-ADVENTURES/OCCULT-CLASSES/KINETICIST/INFUSION-WILD-TALENTS/#kinetic_blade), [fire’s fury](https://www.d20pfsrd.com/ALTERNATIVE-RULE-SYSTEMS/PAIZO-RULES-SYSTEMS/OCCULT-ADVENTURES/OCCULT-CLASSES/KINETICIST/UTILITY-WILD-TALENTS/#fire8217s_fury), 
 #### STATISTICS
-**Str** 12, **Dex** 19, **Con** 16, **Int** 15, **Wis** 17, **Cha** 18  
-**Base Atk** +5; **CMB** +6; **CMD** 21  
-**Feats** [Combat Casting](https://www.d20pfsrd.com/feats/general-feats/combat-casting), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility-combat), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat)  
+**Str** 14, **Dex** 21, **Con** 20, **Int** 13, **Wis** 19, **Cha** 22  
+**Base Atk** +5; **CMB** +7; **CMD** 22  
+**Feats** [Combat Casting](https://www.d20pfsrd.com/feats/general-feats/combat-casting), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility-combat), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat),   
 **Skills** [Acrobatics](https://www.d20pfsrd.com/skills/acrobatics) +17, [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +17, [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) +17, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +15, [Perception](https://www.d20pfsrd.com/skills/perception) +16, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +16, [Stealth](https://www.d20pfsrd.com/skills/stealth) +17, [Survival](https://www.d20pfsrd.com/skills/survival) +13  
 **Languages** Common, Elven, Sylvan; [speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
 **SQ** summer’s salvation
@@ -185,10 +186,10 @@ Theras and Chamion are an interesting pair. While within 30 feet of one another,
 Theras and Chamion are twins born of Magdh and a mysterious Eldest known as Ng the Hooded. When Magdh first gazed upon the faces of her twin daughters, she felt a deep and unyielding motherly love for them, and the twins have been raised in utmost luxury for the last hundred years. They believe this to be a test, and were the only ones to volunteer their service to Niya’s hunt.
 
 Theras is a tall, beautiful and regal woman, whose crimson armor burns like living flame, and whose blade is as hot as it is sharp. Despite her serious appearance, her attitude is quite jovial, and she struggles to keep her attention in one place for long, her utter fascination with discovering more about the world around her often causing her to barge ahead.
-### Chamion, CR 13
+### Chamion
 This beautiful woman appears enveloped in a cold, crystalline aura; her skin and hair are pale, her eyes and clothes as blue as deep ice.
+Winter Hora Winter Witch Witch 6, CR 13
 **XP 2,400**
-[Winter](https://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo-witch-archetypes/winter-witch)[Witch](https://www.d20pfsrd.com/classes/base-classes/witch/) 6
 CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey)
 **Init** +8; **Senses** [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +16
 **Aura** paralyzing beauty (30 ft., DC 19)
