@@ -106,7 +106,7 @@ NG Gargantuan [plant](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creat
 **Init** +1; **Senses** low-light vision; [Perception](https://www.d20pfsrd.com/skills/perception) +12
 ### DEFENSE
 **AC** 29, touch 6, flat-footed 29 (+1 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +22 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Natural-Armor-), –4 size)  
-**hp** 450 (30d8+240+30); Fast Healing 2  
+**hp** 450 (30d8+240+30); Fast Healing 5  
 **Fort** +13, **Ref** +3, **Will** +9  
 **Defensive Abilities** [plant traits](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant), [spell resistance](https://www.d20pfsrd.com/bestiary/monster-listings/templates/fey-creature-cr-1-or-2/#spell_resistance_ex) 26; **DR** 10/cold iron; **SR** 26 
 **Weaknesses** vulnerability to fire
@@ -141,4 +141,63 @@ Treants are guardians of the forest and speakers for the trees. As long-lived as
 Treants are primarily solitary creatures, with a given individual sometimes responsible for an entire forest, but they occasionally come together in small groups called groves to share news and reproduce. In times of grave danger, all of the groves in a region may gather for a great months-long meeting called a moot, but such events are exceedingly rare, and millennia may go by between them.
 The typical treant is 30 feet tall, with a trunk 2 feet in diameter, and weighs 4,500 pounds. Treants tend to resemble the species of trees most common in their woodland territories.
 ### META-NARRATIVE INFORMATION
-~~wip~~
+Twig-And-Branch is a first world treant who was once a creature of the mortal world. His immensity 
+
+## Theras & Chamion
+### Theras
+Summer Hora
+**XP 2,400**  
+CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey)  
+**Init** +8; **Senses** [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +16  
+**Aura** blinding beauty (30 ft., DC 19)
+
+#### DEFENSE
+
+**AC** 19, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 15, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 14 (+4 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +1 [dodge](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus), +4 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus))  
+**hp** 65 (10d6+30)  
+**Fort** +6, **Ref** +11, **Will** +10  
+**DR** 5/[cold iron](https://www.d20pfsrd.com/equipment/special-materials#TOC-Iron-Cold); **Resist** fire 10  
+**Weaknesses** summer bound
+
+#### OFFENSE
+
+**Speed** 30 ft.  
+**Melee** [solar](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/solar) blade +9 (3d6+3 slashing plus 1d6 fire)  
+**Ranged** [solar](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/solar) ray +9 (4d8 fire)  
+**Spell-Like Abilities** (CL 10th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +14)
+
+- **Constant**—[speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
+- **At will**—[know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction), [light](https://www.d20pfsrd.com/magic/all-spells/l/light), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace)
+- **1/day**—[alarm](https://www.d20pfsrd.com/magic/all-spells/a/alarm), [animal messenger](https://www.d20pfsrd.com/magic/all-spells/a/animal-messenger), [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) (DC 18), [commune with nature](https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature), [faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire)
+
+#### TACTICS
+
+**During Combat** The summer hora attacks from range, if possible. It reserves [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) for a particularly nasty opponent.
+
+**Morale** If reduced to fewer than 6 [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points), the summer hora flees.
+
+#### STATISTICS
+
+**Str** 12, **Dex** 19, **Con** 16, **Int** 15, **Wis** 17, **Cha** 18  
+**Base Atk** +5; **CMB** +6; **CMD** 21  
+**Feats** [Combat Casting](https://www.d20pfsrd.com/feats/general-feats/combat-casting), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility-combat), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat)  
+**Skills** [Acrobatics](https://www.d20pfsrd.com/skills/acrobatics) +17, [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +17, [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) +17, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +15, [Perception](https://www.d20pfsrd.com/skills/perception) +16, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +16, [Stealth](https://www.d20pfsrd.com/skills/stealth) +17, [Survival](https://www.d20pfsrd.com/skills/survival) +13  
+**Languages** Common, Elven, Sylvan; [speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)  
+**SQ** summer’s salvation
+
+#### SPECIAL ABILITIES
+
+##### Blinding Beauty (Su)
+
+This ability affects all [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) within 30 feet of the summer hora. Those who look directly at the hora must succeed on a DC 19 [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) save or be [blinded](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Blinded) for 1 minute and [dazzled](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Dazzled) for 1 hour. The hora can suppress or resume this ability as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions). The save DC is [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)-based.
+
+##### Summer Bound (Su)
+
+During winter months, the summer hora gains the [sickened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Sickened) condition.
+
+##### Summer’s Salvation (Su)
+As an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) after a summer hora or an ally within 30 feet of the hora that it can see fails a saving throw, the hora grants an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the saving throw based on the time of year. The bonus is +4 during the month of the summer solstice, +2 during the month before or after the summer solstice, and +1 during any time other than the winter solstice month, during which this ability doesn’t function. The summer hora can’t use this ability again for 1d4 rounds.
+
+ABOUT
+
+While most nymphs bond with a natural feature, such as a tree, pool, or cave, horai are rare nymphs associated with a specific time—the summer or winter solstice—rather than a location. Horai erect simple astronomical calendars near their home, which they use to mark the moment when the sun reaches its highest or lowest point in the sky. An hora tied to the summer solstice grows more powerful as the sun reaches its height, while an hora tied to the winter solstice is sickly and weak. The opposite holds true for winter horai, who are weak in summer and strong in winter. Meanwhile, autumn and spring horai draw power near the autumnal and vernal equinoxes, becoming weaker around the opposite equinox.
