@@ -184,16 +184,16 @@ Theras and Chamion are an interesting pair. While within 30 feet of one another,
 #### ABOUT
 While most nymphs bond with a natural feature, such as a tree, pool, or cave, horai are rare nymphs associated with a specific time—the summer or winter solstice—rather than a location. Horai erect simple astronomical calendars near their home, which they use to mark the moment when the sun reaches its highest or lowest point in the sky. An hora tied to the summer solstice grows more powerful as the sun reaches its height, while an hora tied to the winter solstice is sickly and weak. The opposite holds true for winter horai, who are weak in summer and strong in winter. Meanwhile, autumn and spring horai draw power near the autumnal and vernal equinoxes, becoming weaker around the opposite equinox.
 
-### Chamion
-Winter Hora CR 6
+### Chamion, CR 13
 This beautiful woman appears enveloped in a cold, crystalline aura; her skin and hair are pale, her eyes and clothes as blue as deep ice.
 **XP 2,400**
+[Winter](https://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo-witch-archetypes/winter-witch)[Witch](https://www.d20pfsrd.com/classes/base-classes/witch/) 6
 CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey)
 **Init** +8; **Senses** [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +16
 **Aura** paralyzing beauty (30 ft., DC 19)
 #### DEFENSE
 **AC** 19, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 15, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 14 (+4 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +1 [dodge](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus), +4 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus))  
-**hp** 65 (10d6+30)  
+**hp** 120 (16d6+30)  
 **Fort** +6, **Ref** +11, **Will** +10  
 **DR** 5/[cold iron](https://www.d20pfsrd.com/equipment/special-materials#TOC-Iron-Cold); **Resist** cold 10  
 **Weaknesses** winter bound
@@ -206,7 +206,7 @@ CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-ty
 - **At will**—[know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction), [light](https://www.d20pfsrd.com/magic/all-spells/l/light), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace)
 - **1/day**—[alarm](https://www.d20pfsrd.com/magic/all-spells/a/alarm), [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) (DC 18), [commune with nature](https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature), [faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire), snowball (DC 15)
 #### STATISTICS
-**Str** 12, **Dex** 19, **Con** 16, **Int** 15, **Wis** 17, **Cha** 18  
+**Str** 10, **Dex** 21, **Con** 20, **Int** 19, **Wis** 17, **Cha** 20  
 **Base Atk** +5; **CMB** +6, **CMD** 21  
 **Feats** [Combat Casting](https://www.d20pfsrd.com/feats/general-feats/combat-casting), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility-combat), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat)  
 **Skills** [Acrobatics](https://www.d20pfsrd.com/skills/acrobatics) +17, [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +17, [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) +17, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +15, [Perception](https://www.d20pfsrd.com/skills/perception) +16, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +16, [Stealth](https://www.d20pfsrd.com/skills/stealth) +17, [Survival](https://www.d20pfsrd.com/skills/survival) +13  
@@ -221,3 +221,5 @@ During summer months, Chamion gains the [sickened](https://www.d20pfsrd.com/game
 As an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) after Chamion or an ally within 30 feet of her that she can see fails a saving throw, the hora grants an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the saving throw based on the time of year. The bonus is +4 during the month of the winter solstice, +2 during the month before or after the winter solstice, and +1 during any time other than the summer solstice month, during which this ability doesn’t function. Chamion can only use this ability once every 1d4 rounds.
 ##### Twin-Bound
 Chamion and Theras are an interesting pair. While within 30 feet of one another, they lessen the typical impacts of being out of season. Chamion may use Winter’s Wellness once per day during the month of the summer solstice, and is unaffected by the sickened condition while within 30 feet of her sister.
+#### META-NARRATIVE INFORMATION
+Theras and Chamion are twins born of Magdh and a mysterious Eldest known as Ng, the Hooded. When Magdh first gazed upon the faces of her twin daughters, she felt a deep and unyielding motherly love for them, and the twins have been raised in utmost luxury for the last hundred years. They believe this to be a test, and were the only ones to volunteer their service to Niya’s hunt.
