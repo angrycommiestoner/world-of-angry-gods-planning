@@ -150,49 +150,73 @@ Summer Hora CR 6
 CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey)  
 **Init** +8; **Senses** [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +16  
 **Aura** blinding beauty (30 ft., DC 19)
-
 #### DEFENSE
-
 **AC** 19, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 15, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 14 (+4 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +1 [dodge](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus), +4 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus))  
 **hp** 65 (10d6+30)  
 **Fort** +6, **Ref** +11, **Will** +10  
 **DR** 5/[cold iron](https://www.d20pfsrd.com/equipment/special-materials#TOC-Iron-Cold); **Resist** fire 10  
 **Weaknesses** summer bound
-
 #### OFFENSE
-
 **Speed** 30 ft.  
-**Melee** [solar](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/solar) blade +9 (3d6+3 slashing plus 1d6 fire)  
-**Ranged** [solar](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/solar) ray +9 (4d8 fire)  
+**Melee** solar blade +9 (3d6+3 slashing plus 1d6 fire)  
+**Ranged** solar ray +9 (4d8 fire)  
 **Spell-Like Abilities** (CL 10th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +14)
 
 - **Constant**—[speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
 - **At will**—[know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction), [light](https://www.d20pfsrd.com/magic/all-spells/l/light), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace)
 - **1/day**—[alarm](https://www.d20pfsrd.com/magic/all-spells/a/alarm), [animal messenger](https://www.d20pfsrd.com/magic/all-spells/a/animal-messenger), [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) (DC 18), [commune with nature](https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature), [faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire)
-
-#### TACTICS
-
-**During Combat** The summer hora attacks from range, if possible. It reserves [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) for a particularly nasty opponent.
-
-**Morale** If reduced to fewer than 6 [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points), the summer hora flees.
-
 #### STATISTICS
-
 **Str** 12, **Dex** 19, **Con** 16, **Int** 15, **Wis** 17, **Cha** 18  
 **Base Atk** +5; **CMB** +6; **CMD** 21  
 **Feats** [Combat Casting](https://www.d20pfsrd.com/feats/general-feats/combat-casting), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility-combat), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat)  
 **Skills** [Acrobatics](https://www.d20pfsrd.com/skills/acrobatics) +17, [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +17, [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) +17, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +15, [Perception](https://www.d20pfsrd.com/skills/perception) +16, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +16, [Stealth](https://www.d20pfsrd.com/skills/stealth) +17, [Survival](https://www.d20pfsrd.com/skills/survival) +13  
-**Languages** Common, Elven, Sylvan; [speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)  
+**Languages** Common, Elven, Sylvan; [speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
 **SQ** summer’s salvation
-
 #### SPECIAL ABILITIES
-
 ##### Blinding Beauty (Su)
-
-This ability affects all [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) within 30 feet of the summer hora. Those who look directly at the hora must succeed on a DC 19 [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) save or be [blinded](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Blinded) for 1 minute and [dazzled](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Dazzled) for 1 hour. The hora can suppress or resume this ability as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions). The save DC is [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)-based.
+This ability affects all [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) within 30 feet of Theras. Those who look directly at her must succeed on a DC 19 [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) save or be [blinded](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Blinded) for 1 minute and [dazzled](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Dazzled) for 1 hour. Theras can suppress or resume this ability as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions). The save DC is [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)-based.
 ##### Summer Bound (Su)
-During winter months, the summer hora gains the [sickened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Sickened) condition.
+During winter months, Theras gains the [sickened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Sickened) condition.
 ##### Summer’s Salvation (Su)
-As an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) after a summer hora or an ally within 30 feet of the hora that it can see fails a saving throw, the hora grants an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the saving throw based on the time of year. The bonus is +4 during the month of the summer solstice, +2 during the month before or after the summer solstice, and +1 during any time other than the winter solstice month, during which this ability doesn’t function. The summer hora can’t use this ability again for 1d4 rounds.
+As an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) after Theras or an ally within 30 feet of her that she can see fails a saving throw, Theras grants an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the saving throw based on the time of year. The bonus is +4 during the month of the summer solstice, +2 during the month before or after the summer solstice, and +1 during any time other than the winter solstice month, during which this ability doesn’t function. The summer hora can’t use this ability again for 1d4 rounds.
+##### Twin-Bound
+Theras and Chamion are an interesting pair. While within 30 feet of one another, they lessen the typical impacts of being out of season. Theras may use Summer’s Salvation once per day during the month of the winter solstice, and 
 #### ABOUT
 While most nymphs bond with a natural feature, such as a tree, pool, or cave, horai are rare nymphs associated with a specific time—the summer or winter solstice—rather than a location. Horai erect simple astronomical calendars near their home, which they use to mark the moment when the sun reaches its highest or lowest point in the sky. An hora tied to the summer solstice grows more powerful as the sun reaches its height, while an hora tied to the winter solstice is sickly and weak. The opposite holds true for winter horai, who are weak in summer and strong in winter. Meanwhile, autumn and spring horai draw power near the autumnal and vernal equinoxes, becoming weaker around the opposite equinox.
+
+### Chamion
+Winter Hora CR 6
+This beautiful woman appears enveloped in a cold, crystalline aura; her skin and hair are pale, her eyes and clothes as blue as deep ice.
+**XP 2,400**
+CG Medium [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey)
+**Init** +8; **Senses** [low-light vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision); [Perception](https://www.d20pfsrd.com/skills/perception) +16
+**Aura** paralyzing beauty (30 ft., DC 19)
+#### DEFENSE
+**AC** 19, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 15, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 14 (+4 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +1 [dodge](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus), +4 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus))  
+**hp** 65 (10d6+30)  
+**Fort** +6, **Ref** +11, **Will** +10  
+**DR** 5/[cold iron](https://www.d20pfsrd.com/equipment/special-materials#TOC-Iron-Cold); **Resist** cold 10  
+**Weaknesses** winter bound
+#### OFFENSE
+**Speed** 30 ft.  
+**Melee** rime blade +9 (3d6+3 piercing +1d6 cold)
+**Ranged** [ray of frost](https://www.d20pfsrd.com/magic/all-spells/r/ray-of-frost) +9 (4d8 cold)
+**Spell-Like Abilities** (CL 10th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +14)
+- **Constant**—[speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
+- **At will**—[know direction](https://www.d20pfsrd.com/magic/all-spells/k/know-direction), [light](https://www.d20pfsrd.com/magic/all-spells/l/light), [pass without trace](https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace)
+- **1/day**—[alarm](https://www.d20pfsrd.com/magic/all-spells/a/alarm), [bestow curse](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse) (DC 18), [commune with nature](https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature), [faerie fire](https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire), snowball (DC 15)
+#### STATISTICS
+**Str** 12, **Dex** 19, **Con** 16, **Int** 15, **Wis** 17, **Cha** 18  
+**Base Atk** +5; **CMB** +6, **CMD** 21  
+**Feats** [Combat Casting](https://www.d20pfsrd.com/feats/general-feats/combat-casting), [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Mobility](https://www.d20pfsrd.com/feats/combat-feats/mobility-combat), [Weapon Finesse](https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat)  
+**Skills** [Acrobatics](https://www.d20pfsrd.com/skills/acrobatics) +17, [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +17, [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) +17, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (nature) +15, [Perception](https://www.d20pfsrd.com/skills/perception) +16, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +16, [Stealth](https://www.d20pfsrd.com/skills/stealth) +17, [Survival](https://www.d20pfsrd.com/skills/survival) +13  
+**Languages** Common, Elven, Sylvan; [speak with animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals), [speak with plants](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)
+**SQ** winter’s wellness
+#### SPECIAL ABILITIES
+##### Paralyzing Beauty (Su)
+This ability affects all [humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) within 30 feet of Chamion. Those who look directly at the hora must succeed on a DC 19 [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) save or be [exhausted](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Exhausted) for 1 minute and [fatigued](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Fatigued) for 1 hour. The hora can suppress or resume this ability as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions). The save DC is [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-)-based.
+##### Winter Bound (Su)
+During summer months, Chamion gains the [sickened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Sickened) condition.
+##### Winter’s Wellness (Su)
+As an [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) after Chamion or an ally within 30 feet of her that she can see fails a saving throw, the hora grants an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the saving throw based on the time of year. The bonus is +4 during the month of the winter solstice, +2 during the month before or after the winter solstice, and +1 during any time other than the summer solstice month, during which this ability doesn’t function. Chamion can only use this ability once every 1d4 rounds.
+####
