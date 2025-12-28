@@ -141,8 +141,7 @@ Treants are guardians of the forest and speakers for the trees. As long-lived as
 Treants are primarily solitary creatures, with a given individual sometimes responsible for an entire forest, but they occasionally come together in small groups called groves to share news and reproduce. In times of grave danger, all of the groves in a region may gather for a great months-long meeting called a moot, but such events are exceedingly rare, and millennia may go by between them.
 The typical treant is 30 feet tall, with a trunk 2 feet in diameter, and weighs 4,500 pounds. Treants tend to resemble the species of trees most common in their woodland territories.
 ### META-NARRATIVE INFORMATION
-Twig-And-Branch is a first world treant who was once a creature of the mortal world. His immensity 
-
+Twig-And-Branch is a first world treant who was once a creature of the mortal world. His immensity is a result of his many years spent absorbing the raw natural energies of the first world, and his leaves give off a soft, emerald glow.
 ## Theras & Chamion
 ### Theras
 Summer Hora Kinetic Knight Kineticist 6, CR 13
