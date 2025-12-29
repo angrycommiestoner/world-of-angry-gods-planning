@@ -1,0 +1,8 @@
+```table-of-contents
+```
+## **Queen’s Blast**
+*Associated Sphere:* Destruction; *Prerequisites:* Energy Bomb (blast shape); *Talent Range:* see text 
+**Talent Description:** A brief, flavorful description of the talent
+**Talent Effect:** With a touch, you spend a spell point may imbue a creature, or object (Solid) with a Destructive Blast. You may add an additional blast shape to the imbued blast by spending an additional spell point; you must pay all other associated costs when doing this. The Created Explosive lasts for a number of hours equal to your caster level. You may spend an additional spell point when placing the explosive to instead have the effect last for one day per caster level. You are aware of the presence of your Explosive as if detecting its square using detect magic as long as it remains in your line of sight and is not otherwise obscured. As a standard action, you may Detonate the Explosive. You may only detonate a single explosive at a time, and must be within Long range of the explosive to detonate it. 
+
+This deals damage equal to the imbued destructive blast damage to the object it was placed on, as well as to any adjacent creatures or objects. If there are any additional blast shapes applied to the imbued blast, they also apply here. If those shapes require touch attacks, ranged touch attacks, selected squares, or other such choices, you must have line of sight to the explosive in order to be able to choose the targets. If you do not have line of sight, those targets are chosen randomly from those eligible for the blast. Use the caster of the blast’s bonuses for all relevant rolls.
