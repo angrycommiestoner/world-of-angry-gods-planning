@@ -47,9 +47,8 @@ A vestigial companion gains all the granted abilities of its patron spirit, whic
 
 ---
 # **Approved Custom Spirit Bonds**
-[[Lady Hisako, the Betrayer]]
-[[Sirrush, The Cloud Dragon]]
-
+- [[Lady Hisako, the Betrayer]]
+- [[Sirrush, The Cloud Dragon]]
 ---
 
 
