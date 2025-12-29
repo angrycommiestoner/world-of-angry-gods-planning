@@ -13,14 +13,44 @@
 Lady Hisako began her career as a spy while working as a young courtesan. She quickly mastered seduction and manipulation, weaving her way through noble courts and captivating influential figures. Her talents caught the attention of the Imperial Court’s spymaster, who took her under his wing. Yet unbeknownst to him, Lady Hisako had long been working for a rival empire. Rising through the shadows, she dismantled the Empire from within—turning allies against one another and toppling power structures with poisoned words and blades. Her final act was the assassination of the Emperor himself, a silent and deadly end to a reign undone by deception.
 ### Summoning Rules
 The following describes the requirements and rituals for sealing pacts with Lady Hisako
+
 **Spirit Level:** 4th 
+
 **Alignment:** Neutral Evil (NE)  
+
 **Constellation:** Starless
+
 **Binding DC:** 23 
+
 **Totems:** You gain a +2 totem bonus on binding checks made with Lady Hisako if one of the following requirements is met, or a +4 bonus if all requirements are met.  
+
   - You pour a vial of poison (worth at least 100 gp) into the summoning circle as part of the ritual.  
   - You wear a ring or necklace containing a secret compartment with a hidden blade or poison 
   - You summon Lady Hisako during a new moon or in complete darkness, requiring 7 ranks in Knowledge (nature) or Knowledge (planes) to confirm the lunar phase or create suitable conditions.  
+
 **Ceremony:** You whisper a secret you have sworn to keep (for example, a betrayal or hidden truth) 
 **Manifestation:** The circle remains empty, but a cold touch of a blade grazes your neck, and a whisper hisses, “I am here.” The air grows heavy with menace, and unseen blades shimmer in the darkness, casting fleeting shadows of a veiled, ethereal woman with pale skin and blood-red lips.
 ### Major Granted Abilities
+**Companionable Greeting:** You gain the sneak attack ability as a rogue of effective level equal to your binder level. This sneak attack only functions in areas of dim light or darkness. After using this ability to deal sneak attack damage, it becomes expended for 5 rounds.
+
+**Capstone Empowerment:** When you successfully deal sneak attack damage with this ability, you may force the target to make a Will save (DC 10 + 1/2 your binder level + your Charisma modifier) or be dazed for 1 round.
+
+### Minor Granted Abilities
+**The Face of Friendship:** You gain an insight bonus on Bluff and Disguise checks equal to 1/2 your binder level (minimum +1). This bonus increases to your full binder level when used against members of the opposite sex.
+
+**Lover’s Visage:** As a standard action, you can alter your appearance as per the spell disguise self at will. At level 10, this upgrades to alter self as the spell at will.
+
+**The Sweetest Words:** You can cast *suggestion* as a spell-like ability a number of times per day equal to 3 + your Charisma modifier. The DC is 10 + 1/2 your binder level + your Charisma modifier.
+
+**The Betraying Kiss:** As a full-round action during a non-combat social interaction, you may attempt a surprise attack against a neutral or friendly opponent. Make a Bluff check opposed by the target’s Sense Motive check. If you succeed, the target is flat-footed, and your attack deals sneak attack damage (as per Companionable Greeting). If you fail, the attack still deals sneak attack damage on your first hit, but the target is not flat-footed. This ability can only be used once a round. Once used against a target, this ability cannot be attempted again on them for 24 hours.
+### Signs and Influence
+*Lady Hisako affects you in the following ways*  
+
+- Physical Sign: Your hands are stained with dried blood, impossible to wash away while bound. When you activate one of Lady Hisako’s granted abilities, faint illusory shadows of blades dance around your fingers.
+
+- Personality Influence: You are consumed by a compulsion to lie, betray, or deceive a neutral or friendly being at least once per day while bound, reflecting Lady Hisako’s ruthless nature. You must prioritize subtle manipulation over direct confrontation and cannot openly reveal your true intentions to those you deceive.  
+
+- Favored Allies: Humanoid (spies, assassins, courtesans)  
+
+- Favored Enemies: Humanoid (nobles, rulers)
+
