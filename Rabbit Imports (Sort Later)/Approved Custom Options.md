@@ -1,4 +1,13 @@
 ```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+include: 
+exclude: 
+includeLinks: true # Make headings clickable
+hideWhenEmpty: false # Hide TOC if no headings are found
+debugInConsole: false # Print debug info in Obsidian console
 ```
 # Custom Pact Binds
 ## Custom Pact Bind Template
@@ -7,7 +16,9 @@
 Information about your spirit
 ### Summoning Rules
 How do you bind your spirit? Include the following information:
-
+- **Spirit Level:** What level is the spirit?
+- **Alignment:** The Spirit’s Alignment
+- **Constellation:**
 ## Lady Hisako, the Betrayer
 *The Whisper Behind the Blade*
 

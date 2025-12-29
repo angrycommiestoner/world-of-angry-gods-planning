@@ -3,11 +3,11 @@
 # Welcome to the Arena! 
 Players may choose to participate in Player Vs Player battles here in the arena for gold and glory!   
 ## Seasons
-Each year will contain four seasons of Arena, each lasting three months. 
-Spring Season: 3/1 - 5/31
-Summer Season: 6/1 - 8/31
-Fall Season: 9/1 - 11/30
-Winter Season: 12/1 - 2/28 / 29
+Each year will contain four seasons of Arena, each lasting three months: 
+- Spring Season: 3/1 - 5/31
+- Summer Season: 6/1 - 8/31
+- Fall Season: 9/1 - 11/30
+- Winter Season: 12/1 - 2/28 / 29
 ## Rules
 Players may enter into battles against varying numbers of other players, but typically these battles will be structured as 1v1, 2v2, or 3v3 battles. Each week, a player will gold according to their level as per the Gold Rewards for Victory chart below. They may participate in as many additional battles beyond that as they would like, but they will not earn additional gold or Fame. The arena does not contain level brackets, and players of all levels are free to challenge other players of any level! 
 
