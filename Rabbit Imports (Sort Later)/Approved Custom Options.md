@@ -46,7 +46,7 @@ For all spirits, a binder can surrender a minor granted ability to gain a helpfu
 A vestigial companion gains all the granted abilities of its patron spirit, which is the same spirit that aids the binder. The binder and companion share these granted abilities. If a major granted ability is expended for one, it is expended for both of them. Furthermore, the binder and companion count as the same creature when determining if a granted ability affects a creature (that is, some granted abilities cannot affect a creature that successfully saves, and a save against master or familiar makes the creature immune to the ability regardless of whether the binder or companion use it).
 
 ---
-# **Approved Custom Spirit Bonds**
+# **Approved Custom Pact Binds**
 - [[Lady Hisako, the Betrayer]]
 - [[Sirrush, The Cloud Dragon]]
 ---
