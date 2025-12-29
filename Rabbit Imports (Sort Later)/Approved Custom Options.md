@@ -18,7 +18,9 @@ Information about your spirit
 How do you bind your spirit? Include the following information:
 - **Spirit Level:** What level is the spirit?
 - **Alignment:** The Spirit’s Alignment
-- **Constellation:**
+- **Constellation:** What Constellation, if any, does your spirit fall under?
+- **Binding DC:** How difficult is your spirit to bind?
+
 ## Lady Hisako, the Betrayer
 *The Whisper Behind the Blade*
 
