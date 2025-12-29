@@ -80,3 +80,6 @@ Custom Spheres of Power & Might Talents should always be formatted as follows:
 **Talent Description:** A brief, flavorful description of the talent
 **Talent Effect:** A detailed description of the talent’s mechanical effects
 ```
+
+---
+# Approved Spheres of Power Talents
