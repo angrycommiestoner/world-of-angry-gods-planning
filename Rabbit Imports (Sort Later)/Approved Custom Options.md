@@ -1,15 +1,10 @@
 ```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
 ```
 # Custom Pact Binds
+Custom Pact Binds should always be formatted as follows
+
+
+```
 ## Custom Pact Bind Template
 *Title or Epithet Goes Here*
 ### Legend
@@ -44,6 +39,7 @@ For all spirits, a binder can surrender a minor granted ability to gain a helpfu
 
 ##### Share Granted Abilities (Su)
 A vestigial companion gains all the granted abilities of its patron spirit, which is the same spirit that aids the binder. The binder and companion share these granted abilities. If a major granted ability is expended for one, it is expended for both of them. Furthermore, the binder and companion count as the same creature when determining if a granted ability affects a creature (that is, some granted abilities cannot affect a creature that successfully saves, and a save against master or familiar makes the creature immune to the ability regardless of whether the binder or companion use it).
+```
 
 ---
 # **Approved Custom Pact Binds**
@@ -83,3 +79,5 @@ Custom Spheres of Power & Might Talents should always be formatted as follows:
 
 ---
 # Approved Spheres of Power Talents
+[[Custom Spheres of Power Talents]]
+[[Custom Spheres of Might Talents]]
