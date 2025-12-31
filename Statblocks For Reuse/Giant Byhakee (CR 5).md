@@ -6,7 +6,7 @@ CE Medium [aberration](https://www.d20pfsrd.com/bestiary/rules-for-monsters/crea
 **Init** +7; **Senses** [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) 60 ft., [see in darkness](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-See-in-Darkness-Su-); [Perception](https://www.d20pfsrd.com/skills/perception) +11
 ### DEFENSE
 **AC** 19, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 12, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 17 (+2 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +7 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus))  
-**hp** 70 (5d8+30)  
+**hp** 70 (5d8+30) 44/70 lethal, 27/70 nl  
 **Fort** +10, **Ref** +5, **Will** +9  
 **Immune** cold, [confusion](https://www.d20pfsrd.com/magic/all-spells/c/confusion) and [insanity](https://www.d20pfsrd.com/magic/all-spells/i/insanity) effects, critical hits, hunger, [sneak attacks](https://www.d20pfsrd.com/classes/core-classes/rogue#TOC-Sneak-Attack), thirst
 ### OFFENSE
