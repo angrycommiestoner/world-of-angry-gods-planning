@@ -29,7 +29,7 @@ Some of those qualities might be obvious, but others might be less so, so let’
 
 **Consequences of Failure:** Any consequences for failing a downtime quest will be listed here. A player may fail a downtime quest either by rolling the percentage rate of failure chance on a d100 when they complete the quest or by failing on their associated skill check by 10 or more than the DC for the difficulty they chose.
 
-**Easy, Medium, and Hard Associated Skill Check DCs:** Each downtime quest has 3 difficulties by default, “Easy”, “Medium”, and “Hard”. Easy DCs should be able to be beaten by a level 2-3 character taking 10 on the associated skill check. Medium DCs should be able to be beaten by a level 8-10 character taking 10 on the associated skill check. Hard DCs should be able to be beaten by a level 14-15 character taking 10 on the skill check.
+**Easy, Medium, and Hard Associated Skill Check DCs:** Each downtime quest has 3 difficulties by default, “Easy”, “Medium”, and “Hard”. Easy DCs should be able to be beaten by a level 2-3 character taking 10 on the associated skill check. Medium DCs should be able to be beaten by a level 7-9 character taking 10 on the associated skill check. Hard DCs should be able to be beaten by a level 14-15 character taking 10 on the skill check.
 
 **Quest Repeatability/Associated Skill Check DC Increase per Repeat:** Not all downtime quests will be designed to be repeated. For those that are, however, each repetition will increase the associated skill check DC by a certain amount. This can be expressed as a series of incremental values (i.e. +2/+4/+6) to express different increases across difficulty levels, but it should be assumed that a single value means the increase is the same at each difficulty level. The DC increase for downtime quests with no explicit expiration date resets with downtime at the beginning of every week.
 
@@ -38,9 +38,18 @@ Downtime Quests should *always* have slightly better rewards than what a charact
 
 # Sample Downtime Quest: Bolster Local Guard
 “Do YOU wanna make a difference in your community?” The faded poster reads “Then volunteer for the town guard TODAY!”
-**Length of Quest:** 1 Day
-**Associated Skills:** Craft (Alchemy, Firearms, Leatherworking, Metalworking), Handle Animal, Heal, Intimidate, Knowledge (Engineering), Profession (Soldier, Mercenary, etc.), Ride
-**Rate of Failure:** 0%
-**Consequences of Failure:** Your performance is particularly unsatisfactory.  progress towards this downtime quest and 1 day of downtime for the week. You may not repeat this quest until you pay a fee for your behavior equal to 20 GP x character level squared
-**Associated Skill Check DCs:** DC 14 Easy; DC 27 Medium; DC 32 Hard
 
+**Length of Quest:** 1 Day
+
+**Associated Skills:** Craft (Alchemy, Firearms, Leatherworking, Metalworking), Handle Animal, Heal, Intimidate, Knowledge (Engineering), Profession (Soldier, Mercenary, etc.), Ride
+
+**Rate of Failure:** 0%
+
+**Consequences of Failure:** Your performance is particularly unsatisfactory. You may not repeat this quest until you pay a fee for your behavior equal to 20 GP x character level squared.
+
+**Associated Skill Check DCs:** DC 14 Easy; DC 22 Medium; DC 30 Hard
+
+**Quest Repeatability:** Yes; **Skill Check DC Increase:** +2
+
+**Rewards** +1/+2/+3* Fame in the region you completed this quest in; Potion of Shield of Faith +1/+3/+5*; 200 GP x Character Level; 
+(* : Easy/Medium/Hard Reward)
