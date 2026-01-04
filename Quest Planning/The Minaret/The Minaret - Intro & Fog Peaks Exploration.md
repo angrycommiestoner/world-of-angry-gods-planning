@@ -7,7 +7,7 @@ While in these mountains, the group will be more than sufficiently strong enough
 
 Additionally, legends whisper of an ancient silver dragon, a being who is known by many names to the peoples that live in the foothills and surrounding areas of the Fog Peaks, and whose freezing breath is, at least in part, believed to be the reason for the foggy nature of the peaks. Finding the Minaret is no easy task, but finding this ancient monster would almost certainly be even more difficult (Multiple natural 1s on the Survival check across several days).
 
-If the party *does* encounter the dragon of the fog peaks, it will take the form of a wisened man
+If the party *does* encounter the dragon of the fog peaks, it will take the form of a wisened man with a silvery beard, and will not engage the party in combat unless they attempt to fight him.
 ## Statblock: Dragon of the Fog Peaks (Auros)
 **XP 153,600**  
 CN Gargantuan [dragon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon) ([air](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Air), [extraplanar](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Extraplanar))  
