@@ -2,3 +2,9 @@ The Minaret is an ancient tower thought to be connected in some way to the ancie
 
 Gormrik Stoneshaker, foremost geomancer of the Cassomir Pathfinder Lodge claims he has developed a ritual that will track the misaligned planar energies of the Minaret, allowing a group of determined adventurers to actually recover the secrets hidden within the ancient, fog-shrouded spire. This will, however, take several days of dangerous trek through the Fog Peaks, a notoriously impassible region in Southern Galt. The party must make a DC 30 survival check at the beginning of every day they spend in the mountains to avoid losing their bearings, and will only find the spire after 5 consecutively rolled survival checks.
 
+# Threats & Encounters
+While in these mountains, the group will be more than sufficiently strong enough to scare off any wild animals that they would encounter, though they should still be on the lookout for humanoids, magical beasts and other supernatural occurrences. The mountains are considered largely impassable, mostly due to the mists, but also because of various dangers, from stumbling over a sheer cliff in the blinding fog to small tribes of various monstrous humanoids that inhabit the mountain. Most are content to stay within their lands, but will hunt and punish intruders most violently.
+
+Additionally, legends whisper of an ancient silver dragon, a being who is known by many names to the peoples that live in the foothills and surrounding areas of the Fog Peaks, and whose freezing breath is, at least in part, believed to be the reason for the foggy nature of the peaks. Finding the Minaret is no easy task, but finding this ancient monster would almost certainly be even more difficult (Multiple natural 1s on the Survival check across several days)
+
+## Statblock: Dragon of the Fog Peaks
