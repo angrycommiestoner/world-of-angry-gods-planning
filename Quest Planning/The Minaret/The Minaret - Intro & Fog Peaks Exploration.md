@@ -8,3 +8,64 @@ While in these mountains, the group will be more than sufficiently strong enough
 Additionally, legends whisper of an ancient silver dragon, a being who is known by many names to the peoples that live in the foothills and surrounding areas of the Fog Peaks, and whose freezing breath is, at least in part, believed to be the reason for the foggy nature of the peaks. Finding the Minaret is no easy task, but finding this ancient monster would almost certainly be even more difficult (Multiple natural 1s on the Survival check across several days)
 
 ## Statblock: Dragon of the Fog Peaks
+**XP 153,600**  
+CN Gargantuan [dragon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon) ([air](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Air), [extraplanar](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Extraplanar))  
+**Init** +2; **Senses** [dragon senses](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon#TOC-Additional-Dragon-Rules), mist vision; [Perception](https://www.d20pfsrd.com/skills/perception) +34; **Aura** [frightful presence](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Frightful-Presence-Ex-) (300 ft., DC 28)
+### DEFENSE
+**AC** 36, [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) 4, [flat-footed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed) 36 (–2 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +32 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus), –4 [size](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus))  
+**hp** 324 (24d12+168)  
+**Fort** +21, **Ref** +12, **Will** +21  
+**DR** 15/magic; **Immune** electricity, [paralysis](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Paralysis), sleep; **SR** 29
+### OFFENSE
+**Speed** 40 ft., fly 250 ft. (clumsy), swim 40 ft.  
+**Melee** bite +32 (4d6+16/19–20 plus 2d6 sonic), 2 claws +32 (2d8+11), tail slap +29 (2d8+16), 2 wings +29 (2d6+5)  
+**Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)  
+**Special Attacks** [breath weapon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Breath-Weapon-Su-) (60-ft. cone, 20d8 electricity, DC 29), [crush](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon#crush), [tail sweep](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon#tail-sweep)  
+**Spell-Like Abilities** (CL 24th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +30)
+**At will**—[_fog cloud_](https://www.d20pfsrd.com/magic/all-spells/f/fog-cloud), [_obscuring mist_](https://www.d20pfsrd.com/magic/all-spells/o/obscuring-mist), [_solid fog_](https://www.d20pfsrd.com/magic/all-spells/s/solid-fog), [_wind walk  
+_](https://www.d20pfsrd.com/magic/all-spells/w/wind-walk)**3/day**—[_cloudkill_](https://www.d20pfsrd.com/magic/all-spells/c/cloudkill) (DC 21)
+
+**Spells Known** (CL 13th; [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) +19)
+
+**6th (5/day)**—[_chain lightning_](https://www.d20pfsrd.com/magic/all-spells/c/chain-lightning) (DC 22), [_greater dispel magic_](https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic)  
+**5th (7/day)**—[_cone of cold_](https://www.d20pfsrd.com/magic/all-spells/c/cone-of-cold) (DC 21), [_dismissal_](https://www.d20pfsrd.com/magic/all-spells/d/dismissal) (DC 21), [_teleport_](https://www.d20pfsrd.com/magic/all-spells/t/teleport)  
+**4th (7/day)**—[_elemental body I_](https://www.d20pfsrd.com/magic/all-spells/e/elemental-body), [_ice storm_](https://www.d20pfsrd.com/magic/all-spells/i/ice-storm), [_lesser geas_](https://www.d20pfsrd.com/magic/all-spells/g/geas-quest#lesser) (DC 20), [_river of wind_](https://www.d20pfsrd.com/magic/all-spells/r/river-of-wind)  
+**3rd (7/day)**—[_arcane sight_](https://www.d20pfsrd.com/magic/all-spells/a/arcane-sight), [_cloak of winds_](https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-winds), [_stinking cloud_](https://www.d20pfsrd.com/magic/all-spells/s/stinking-cloud) (DC 19), [_suggestion_](https://www.d20pfsrd.com/magic/all-spells/s/suggestion) (DC 19)  
+**2nd (8/day)**—[_eagle’s splendor_](https://www.d20pfsrd.com/magic/all-spells/e/eagle-s-splendor), [_glitterdust_](https://www.d20pfsrd.com/magic/all-spells/g/glitterdust) (DC 18), [_gust of wind_](https://www.d20pfsrd.com/magic/all-spells/g/gust-of-wind), [_locate object_](https://www.d20pfsrd.com/magic/all-spells/l/locate-object), [_see invisibility_](https://www.d20pfsrd.com/magic/all-spells/s/see-invisibility)  
+**1st (8/day)**—[_alter winds_](https://www.d20pfsrd.com/magic/all-spells/a/alter-winds), [_charm person_](https://www.d20pfsrd.com/magic/all-spells/c/charm-person) (DC 17), [_detect secret doors_](https://www.d20pfsrd.com/magic/all-spells/d/detect-secret-doors), [_erase_](https://www.d20pfsrd.com/magic/all-spells/e/erase), [_true strike_](https://www.d20pfsrd.com/magic/all-spells/t/true-strike)  
+**0 (at will)**—[_dancing lights_](https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights), [_detect poison_](https://www.d20pfsrd.com/magic/all-spells/d/detect-poison), [_light_](https://www.d20pfsrd.com/magic/all-spells/l/light), [_mage hand_](https://www.d20pfsrd.com/magic/all-spells/m/mage-hand), [_message_](https://www.d20pfsrd.com/magic/all-spells/m/message), [_prestidigitation_](https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation), [_read magic_](https://www.d20pfsrd.com/magic/all-spells/r/read-magic), [_resistance_](https://www.d20pfsrd.com/magic/all-spells/r/resistance), [_touch of fatigue_](https://www.d20pfsrd.com/magic/all-spells/t/touch-of-fatigue)
+
+STATISTICS
+
+**Str** 32, **Dex** 7, **Con** 25, **Int** 20, **Wis** 24, **Cha** 23  
+**Base Atk** +24; **CMB** +39; **CMD** 47 (51 vs. [trip](https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip))  
+**Feats** [Critical Focus](https://www.d20pfsrd.com/feats/combat-feats/critical-focus-combat), [Dazzling Display](https://www.d20pfsrd.com/feats/combat-feats/dazzling-display-combat), [Flyby Attack](https://www.d20pfsrd.com/feats/monster-feats/flyby-attack), [Improved Critical](https://www.d20pfsrd.com/feats/combat-feats/improved-critical-combat-) (bite), [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat), [Multiattack](https://www.d20pfsrd.com/feats/monster-feats/multiattack-combat), [Power Attack](https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat), [Skill Focus](https://www.d20pfsrd.com/feats/general-feats/skill-focus) ([Diplomacy](https://www.d20pfsrd.com/skills/diplomacy)), [Snatch](https://www.d20pfsrd.com/feats/monster-feats/snatch), [Staggering Critical](https://www.d20pfsrd.com/feats/combat-feats/staggering-critical-combat-critical), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat) (bite, claws)  
+**Skills** [Appraise](https://www.d20pfsrd.com/skills/appraise) +32, [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) +39, [Fly](https://www.d20pfsrd.com/skills/fly) +11, [Intimidate](https://www.d20pfsrd.com/skills/intimidate) +33, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (local) +32, [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (planes) +32, [Perception](https://www.d20pfsrd.com/skills/perception) +34, [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) +34, [Stealth](https://www.d20pfsrd.com/skills/stealth) +13, [Survival](https://www.d20pfsrd.com/skills/survival) +34, [Swim](https://www.d20pfsrd.com/skills/swim) +46  
+**Languages** Auran, Common, Draconic, Elven  
+**SQ** cloud form (24 rounds/day)
+
+SPECIAL ABILITIES
+
+#### Cloudform (Su)
+
+An adult or older cloud dragon can change itself into a cloudy vapor as a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions) for a number of rounds per day equal to its [Hit Dice](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-). This ability functions as [_gaseous form_](https://www.d20pfsrd.com/magic/all-spells/g/gaseous-form) but the dragon’s fly speed is unchanged.
+
+#### Mist Vision (Su)
+
+A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.
+
+#### Thundering Bite (Su)
+
+An ancient or older cloud dragon’s bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm’s thundering bite deals an additional 4d6 sonic damage.
+
+  
+
+  
+
+ECOLOGY
+
+**Environment** any sky (Plane of Air)  
+**Organization** solitary  
+**Treasure** triple
+
+Cloud dragons stay out of the complicated political schemes and obsessions of other dragons (especially the chromatic dragons), preferring to live their lives freely and as the whim to travel strikes them. Exploration and viewing new lands from far above are the cloud dragon’s greatest joy, rivaled only by speaking with new creatures and gaining exotic treasures from them. They keep lairs on high mountain peaks, but are often away on journeys of discovery, returning home only when they’ve claimed a new treasure that needs to be placed in safekeeping back home.
