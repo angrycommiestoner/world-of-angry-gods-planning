@@ -13,16 +13,41 @@ Additionally, legends whisper of an ancient silver dragon, a being who is known 
 2) On a 33 or lower on any d100 roll, the party has a random encounter. Roll a d10 on [[#Table: Random Encounters|Table: Random Encounters]] to determine what the party has encountered.
 ## Table: Random Encounters
 
-| D20 Result | Encounter                         |
-| ---------- | --------------------------------- |
-| 1-3        | Local Wildlife (Dire Wolf Pack, ) |
-| 4-8        |                                   |
-| 8-18       |                                   |
-| 19         |                                   |
-| 20         |                                   |
+| D20 Result | Encounter                                                                  |
+| ---------- | -------------------------------------------------------------------------- |
+| 1-3        | Local Wildlife (Dire Wolf Pack, Roc, )                                     |
+| 4-8        |                                                                            |
+| 8-18       |                                                                            |
+| 19         | Silver Sleipnir                                                            |
+| 20         | Roll Again. If the party rolls a 2nd natural 20, they will encounter Auros |
+## Encounter: Dire Wolf Pack
+The Party encounters a large pack (8) of Dire Wolves
+### Statblock: Dire Wolf
+**XP 800**  
+N Large [animal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal)  
+**Init** +2; **Senses** low-light vision, [scent](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Scent-Ex-); [Perception](https://www.d20pfsrd.com/skills/perception) +10
+#### DEFENSE
+**AC** 14, touch 11, flat-footed 12 (+2 [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), +3 [natural](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Natural-Armor-), –1 size)  
+**hp** 37 (5d8+15)  
+**Fort** +7, **Ref** +6, **Will** +2
+#### OFFENSE
+**Speed** 50 ft.  
+**Melee** bite +7 (1d8+6 plus [trip](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Trip-Ex-))  
+**Space** 10 ft.; **Reach** 5 ft.
+#### STATISTICS
+**Str** 19, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 10  
+**Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)  
+**Feats** [Run](https://www.d20pfsrd.com/feats/general-feats/run), [Skill Focus](https://www.d20pfsrd.com/feats/general-feats/skill-focus) ([Perception](https://www.d20pfsrd.com/skills/perception)), [Weapon Focus](https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat) (bite)  
+**Skills** [Perception](https://www.d20pfsrd.com/skills/perception) +10, [Stealth](https://www.d20pfsrd.com/skills/stealth) +3, [Survival](https://www.d20pfsrd.com/skills/survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](https://www.d20pfsrd.com/skills/survival) when tracking by scent
+#### ECOLOGY
+**Environment** cold or temperate forests  
+**Organization** solitary, pair, or pack (3–8)  
+**Treasure** none
+An enormous version of a normal wolf, dire wolves represent the wolf in its most primal form. These creatures follow the same basic behaviors of regular wolves, but are much more aggressive. Dire wolves often serve giants as hunting companions and vicious guard animals. Some ferocious humanoids and woodsmen use trained dire wolves as mounts. Darker than normal wolves, dire wolves’ coats tend toward blacks and deep mottled grays. An adult dire wolf is typically about 9 feet long and weighs roughly 800 pounds.
 
-If the party *does* encounter the dragon of the fog peaks, it will take the form of a wisened man with a silvery beard, and will not engage the party in combat unless they attempt to fight him.
-## Statblock: Dragon of the Fog Peaks (Auros)
+### Encounter: Auros, Cloud Dragon of the Fog Peaks
+If the party *does* encounter the dragon of the fog peaks, it will take the form of a wisened man with a silvery beard, and will not engage the party in combat unless they attempt to fight him. He makes his home in a valley which is constantly obscured by shifting, hidden mists.
+## Statblock: Ancient Cloud Dragon
 **XP 153,600**  
 CN Gargantuan [dragon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon) ([air](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Air), [extraplanar](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Extraplanar))  
 **Init** +2; **Senses** [dragon senses](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon#TOC-Additional-Dragon-Rules), mist vision; [Perception](https://www.d20pfsrd.com/skills/perception) +34; **Aura** [frightful presence](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Frightful-Presence-Ex-) (300 ft., DC 28)
