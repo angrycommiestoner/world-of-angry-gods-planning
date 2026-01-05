@@ -5,7 +5,21 @@ Gormrik Stoneshaker, foremost geomancer of the Cassomir Pathfinder Lodge claims 
 # Threats & Encounters
 While in these mountains, the group will be more than sufficiently strong enough to scare off any wild animals that they would encounter, though they should still be on the lookout for humanoids, magical beasts and other supernatural occurrences. The mountains are considered largely impassable, mostly due to the mists, but also because of various dangers, from stumbling over a sheer cliff in the blinding fog to small tribes of various monstrous humanoids that inhabit the mountain. Most are content to stay within their lands, but will hunt and punish intruders most violently.
 
-Additionally, legends whisper of an ancient silver dragon, a being who is known by many names to the peoples that live in the foothills and surrounding areas of the Fog Peaks, and whose freezing breath is, at least in part, believed to be the reason for the foggy nature of the peaks. Finding the Minaret is no easy task, but finding this ancient monster would almost certainly be even more difficult (Multiple natural 1s on the Survival check across several days).
+Additionally, legends whisper of an ancient silver dragon, a being who is known by many names to the peoples that live in the foothills and surrounding areas of the Fog Peaks, and whose freezing breath is, at least in part, believed to be the reason for the foggy nature of the peaks. Finding the Minaret is no easy task, but finding this ancient monster would almost certainly be even more difficult.
+
+
+# Determining Static Encounters
+1) Roll 1d100 at the start of each new adventuring day, plus 1d100 per adventuring day since the last encounter.
+2) On a 33 or lower on any d100 roll, the party has a random encounter. Roll a d10 on [[#Table: Random Encounters|Table: Random Encounters]] to determine what the party has encountered.
+## Table: Random Encounters
+
+| D20 Result | Encounter                         |
+| ---------- | --------------------------------- |
+| 1-3        | Local Wildlife (Dire Wolf Pack, ) |
+| 4-8        |                                   |
+| 8-18       |                                   |
+| 19         |                                   |
+| 20         |                                   |
 
 If the party *does* encounter the dragon of the fog peaks, it will take the form of a wisened man with a silvery beard, and will not engage the party in combat unless they attempt to fight him.
 ## Statblock: Dragon of the Fog Peaks (Auros)
