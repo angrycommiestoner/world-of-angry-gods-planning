@@ -4,8 +4,10 @@ NE Huge plant
 blindsense 240 ft.
 ## DEFENSE
 **AC** 
-**hp**
+**hp** (12d8)
 **Fort** ; **Ref** ; **Will** ;
+**Defensive Abilities** DR 20/Slashing;
+**Weaknesses** Fire;
 ## OFFENSE
 
 ## TACTICS
