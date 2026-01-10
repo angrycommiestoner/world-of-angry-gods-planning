@@ -8,7 +8,7 @@ The local farms and plantations may not pay as well as an adventure, but it sure
 
 **Consequences of Failure:** Your performance is particularly unsatisfactory. You may not repeat this quest until you pay a fee for your behavior equal to 20 GP x character level squared.
 
-**Associated Skill Check DCs:** DC 18 Easy; DC 25 Medium; DC 30 Hard
+**Associated Skill Check DCs:** DC 18 Easy; DC 25 Medium; DC 41 Hard
 
 **Quest Repeatability:** Yes; **Skill Check DC Increase:** +2
 
