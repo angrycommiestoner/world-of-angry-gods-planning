@@ -4,6 +4,8 @@ NE Huge plant
 blindsense 240 ft.
 ## DEFENSE
 **AC** 
+**hp**
+**Fort** ; **Ref** ; **Will** ;
 ## OFFENSE
 
 ## TACTICS
