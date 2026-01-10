@@ -13,5 +13,5 @@ Bolster Local Guard
 
 **Quest Repeatability:** Yes; **Skill Check DC Increase:** +2
 
-**Rewards** +1/+2/+3* Fame in the region you completed this quest in; Potion of Shield of Faith +1/+3/+5*; 200 GP x Character Level^2; 
+**Rewards** +1/+2/+3* Fame in the region you completed this quest in; 200 GP x Character Level; 
 (* : Easy/Medium/Hard)
