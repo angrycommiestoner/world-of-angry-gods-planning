@@ -15,9 +15,9 @@ Additionally, legends whisper of an ancient silver dragon, a being who is known 
 
 | D20 Result | Encounter                                                                  |
 | ---------- | -------------------------------------------------------------------------- |
-| 1-3        | Local Wildlife (Dire Wolf Pack, Roc, )                                     |
-| 4-8        |                                                                            |
-| 8-18       |                                                                            |
+| 1-3        | Local Wildlife (1d3, Dire Wolf Pack, Roc, Man-Hunting Tree)                |
+| 4-8        | Wandering Earth Elemental                                                  |
+| 8-18       | Monstrous Humanoid Encounter (Troll Tribe, Kobold Tribe)                   |
 | 19         | Silver Sleipnir                                                            |
 | 20         | Roll Again. If the party rolls a 2nd natural 20, they will encounter Auros |
 ## Encounter: Dire Wolf Pack
