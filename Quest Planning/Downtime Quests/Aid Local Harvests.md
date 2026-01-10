@@ -1,13 +1,14 @@
+Aid Local Harvests
 The local farms and plantations may not pay as well as an adventure, but it sure is less dangerous. 
 **Length of Quest:** 3 Days
 
-**Associated Skills:** Craft (, Handle Animal, Survival, Profession (Farmer, Rancher), Ride
+**Associated Skills:** Craft (Cooking), Handle Animal, Survival, Profession (Farmer, Rancher), Ride
 
 **Rate of Failure:** 0%
 
 **Consequences of Failure:** Your performance is particularly unsatisfactory. You may not repeat this quest until you pay a fee for your behavior equal to 20 GP x character level squared.
 
-**Associated Skill Check DCs:** DC 14 Easy; DC 22 Medium; DC 30 Hard
+**Associated Skill Check DCs:** DC 18 Easy; DC 25 Medium; DC 30 Hard
 
 **Quest Repeatability:** Yes; **Skill Check DC Increase:** +2
 
