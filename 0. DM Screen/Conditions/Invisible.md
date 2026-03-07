@@ -1,1 +1,0 @@
-Invisible creatures are visually undetectable. An invisible creature gains a +2 bonus on attack rolls against sighted opponents, and ignores its opponents’ Dexterity bonuses to AC (if any). See the [invisibility special ability](https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Invisibility).
