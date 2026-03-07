@@ -59,7 +59,7 @@ You can feign health and hide your symptoms.
 **Source** [_Horror Realms pg. 58_](http://paizo.com/products/btpy9op8?Pathfinder-Campaign-Setting-Horror-Realms)  
 Disease clouds your thoughts.  
 **Prerequisite**: Manifestation level 6th, infectious thoughts, miserable company.  
-**Gift**: The dreams of victims of the diseases you spread are apparent to you. Once per day while you rest, you can cause a number of sleeping victims of your disease up to your manifestation level to suffer the effects of one of these spells of your choice: [[dream|dream]], [[fear|fear]] (upon awakening), [[woag-repo/2. Mechanics/spells (incomplete)/n/nightmare|nightmare]], or [[suggestion|suggestion]] (upon awakening).  
+**Gift**: The dreams of victims of the diseases you spread are apparent to you. Once per day while you rest, you can cause a number of sleeping victims of your disease up to your manifestation level to suffer the effects of one of these spells of your choice: [[dream|dream]], [[fear|fear]] (upon awakening), [[woag-repo/2. Mechanics/1. Spells (incomplete)/n/nightmare|nightmare]], or [[suggestion|suggestion]] (upon awakening).  
 **Stain**: You sleep poorly. You must rest for 12 hours each night to gain the full benefits of rest.  
 
 ## Infectious Thoughts

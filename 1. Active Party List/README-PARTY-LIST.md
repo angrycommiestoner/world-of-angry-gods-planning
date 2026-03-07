@@ -1,0 +1,3 @@
+**Please** make sure to always create a new sub-folder for each new party. Party folders should be titled after the name given in your recruitment post. Existing characters may be referenced using double square brackets ([[]]) surrounding the character’s name.
+
+Once your party has finished their adventure, **Please** move your entire folder for that party to the Party Archive folder. Make sure to include the start and end date of your adventure. You may include any information that you wish regarding the party. Recommended details for ease of access include: AC (including [[Flat-Footed]] and Touch AC), Saving Throws, HP, Hours-Per-CL or longer spell effects.
