@@ -113,7 +113,7 @@ The section below details which sources are allowed to be used for character cre
 
   
 
-Content from any base pathfinder 1e book is theoretically allowed, so long as the game masters have access to the relevant rules text. Use of online resources like the [Archives of Methys](https://aonprd.com/Default.aspx), [d20pfsrd](https://www.d20pfsrd.com/), the [Library of Metzofitz](https://metzo.miraheze.org/wiki/Library_of_Metzofitz), and other wiki’s is encouraged in providing this access. Links to them in your statblock are encouraged as well.
+Content from any base pathfinder 1e book is theoretically allowed, so long as the game masters have access to the relevant rules text. Use of online resources like the [Archives of Nethys](https://aonprd.com/Default.aspx), [d20pfsrd](https://www.d20pfsrd.com/), the [Library of Metzofitz](https://metzo.miraheze.org/wiki/Library_of_Metzofitz), and other wiki’s is encouraged in providing this access. Links to them in your statblock are encouraged as well.
 
   
 
