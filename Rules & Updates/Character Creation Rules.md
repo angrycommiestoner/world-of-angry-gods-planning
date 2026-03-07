@@ -1,6 +1,7 @@
-  ```table-of-contents
+```table-of-contents
 ```
-  All characters must be submitted for final approval by the Game Masters in a ticket within the discord server. Characters should be submitted on complete character sheets which contain all of the selections chosen, and any relevant information about those selections. Players may use a character sheet format of their choice, provided that it contains all relevant information, including at which level each choice was made.
+
+All characters must be submitted for final approval by the Game Masters in a ticket within the discord server. Characters should be submitted on complete character sheets which contain all of the selections chosen, and any relevant information about those selections. Players may use a character sheet format of their choice, provided that it contains all relevant information, including at which level each choice was made.
 
   
 
@@ -149,7 +150,11 @@ The following feats are not permitted: Sacred Geometry
 
   
 
-All Spheres of Power and Spheres of Might content produced by Drop Dead Studios is allowed, with the exception of the Tech and Tinker Spheres, and the Hypervitalize, and bestow life talents. Spheres of Guile content is permitted, but only for the optional Trade Tradition. The Leadership Sphere is permitted, but characters who use the Leadership Sphere may not possess the Leadership Feat.
+Item: The Horn of Plenty is not allowed
+
+  
+
+All Spheres of Power and Spheres of Might content produced by Drop Dead Studios is allowed, with the exception of the Leadership, Tech and Tinker Spheres, and the Hypervitalize, and bestow life talents. Spheres of Guile content is permitted, but only for the optional Trade Tradition. 
 
   
 
@@ -161,13 +166,36 @@ The feats in [This Document](https://docs.google.com/document/d/e/2PACX-1vQ7fo0m
 
   
 
+The homebrew items in [This Document](https://docs.google.com/document/d/e/2PACX-1vQOHzyeErR6aVMEskppFKJhofRpE_DXKWl9IeXF9sluF68oh-tXrLk5AvJ9HgFElQVi6RIN06t_DxqF/pub) have been added to the list of allowed options.
+
+  
+
 April Fool’s Content by Drop Dead Press and Dreamscarred Press studios must be approved for use by the GMs for balance. This includes content from sources such as the Jester’s Handbook, The Bear Sphere, the Catgirl Handbook and the various April Augmented sources.
 
   
 
-All Path of War, Akashic Mysteries, and Psionics content written by Dreamscarred Press is allowed with the exception of the Sieze the Opportunity feat. 
+All Path of War, Akashic Mysteries, and Psionics content written by Dreamscarred Press is allowed with the exception of the below 
 
   
+
+Dreamscarred Press
+
+- The Unwilling Participant Feat is not permitted. If you gain this feat as a bonus feat from a class or archetype, you may gain a different psionic feat that you qualify for instead. 
+    
+- Willian’s Temporal Acceleration and Schism are not permitted as psionic powers.
+    
+- The Sieze the Opportunity Feat is not permitted
+    
+- Rajah Heraldry - Invite Luck is no longer allowed.
+    
+- The Radiant Dawn martial discipline is no longer allowed.
+    
+- The Voyager class is now only permitted for single classed characters. This may not be used in Gestalt character builds.
+    
+
+  
+
+Moonhand Press
 
 The following content is being allowed by Moonhand press, using all current errata:
 
@@ -175,7 +203,7 @@ All Classes, archetypes, feats, traits, veils, spells, and powers, nebula orbits
 
   
 
-For the purposes of learning Pact Magic Spirits, and only for that purpose, Pact Magic is treated as commonplace.
+For the purposes of learning Pact Magic Spirits, and only for that purpose, Pact Magic is treated as commonplace. Additionally, the custom spirits in the [attached document](https://docs.google.com/document/d/e/2PACX-1vRY6cOUwfxh3KUAs9RwDap0PJqzZ0ULmD0Xkg6Nix_di1fg3YMSJAnd79Sy_jutTZo2s_M3OkszgNO-/pub) have been added to the list of allowed spirits for Pact Magic Users.
 
   
 
@@ -188,15 +216,9 @@ The following additional sources have been approved for class options, archetype
 
   
 
-From Diamond Spheres publishing, The Voidrusher archetype for striker is allowed. However, this has a unique interaction, as outlined in Specific Class Changes.
+Diamond Spheres Publishing
 
-  
-
-From Dreamscarred Press
-
-- The Unwilling Participant Feat is not permitted. If you gain this feat as a bonus feat from a class or archetype, you may gain a different psionic feat that you qualify for instead. 
-    
-- Willian’s Temporal Acceleration is not permitted as a psionic power.
+- The Voidrusher archetype for striker is allowed. However, this has a unique interaction, as outlined in Specific Class Changes.
     
 
   
@@ -276,7 +298,7 @@ The following content is allowed from Lost Spheres Publishing. This list only ac
 
   
 
-Content from Heroes of the Jade Oath is not permitted
+Content from Heroes of the Jade Oath is not currently permitted, pending review
 
   
 
@@ -284,9 +306,22 @@ Studio M–
 
 - The following feats are permitted: Shape Veil.
     
-- Guru (Retold) and Associated guru disciplines, and the Martyr’s Toga (retold) veil are permitted.
+- Guru (Retold) and Associated guru disciplines which are retold versions of base guru disciplines, and the Martyr’s Toga (retold) veil are permitted.
+    
+- The Black Templar (retold) prestige class is allowed.
+    
+- The Set Knowledge feat is allowed
     
 - We have reviewed the following and they will not be permitted. The Soulforge class; all veils, feats, alternate class features, and archetypes that reference the soulforge class are similarly not permitted.
+    
+- Enhanced Veils may now be applied for for approval. They function as written except as follows. When upgrading an enhanced veil with a special material, you must pay the full value of the magical upgrade or special material cost as though it was a weapon of that type. Enhanced Veils which have been upgraded count against Player Wealth Limits even when not shaped. Review of Enhanced Veils will soon begin to create a full allow/disallow list.
+    
+
+  
+
+The Knotty-Works
+
+- The Blackguard has been approved
     
 
   
@@ -295,11 +330,19 @@ The following content from Bloodforge, Bloodforge Infusions - Feather and Fur, a
 
   
 
-Legendary Games alternate base classes will not be allowed. Other Legendary Games content is still pending review.
+Legendary Games
 
-  
+- Legendary Games alternate base classes are not be allowed. 
+    
+- Legendary Rogue Talents are allowed, with the exception of Duelist’s Precision. All Talents with a requirement of at least 10th level are considered Advanced Talents.
+    
+- The Knocker archetype for Brawler is allowed.
+    
+- The Following Legendary Wizard Discoveries are approved. Arcane Fatigue, Creative Destruction, Evolved Summons, Evolved Undead, Feral Speech, Knowledge is Power, Multimorph, Observant Illusions, Spell Piercer, Staff-Like Wand
+    
 
-Legendary Rogue Talents are allowed, with the exception of Duelist’s Precision. All Talents with a requirement of at least 10th level are considered Advanced Talents.
+- Dimensional Bulwark is allowed, but now uses the following text: Whenever a creature attempts to use a teleportation effect or summon a creature within 60 feet of you or attempts to use a teleportation effect which would place them within 60 feet of yourself, you may attempt to block the effect. Make an opposed caster level check (1d20 + caster level) as an immediate action. If the check succeeds, the spell or effect fails and is wasted; otherwise, it is unaffected. You can use this discovery a number of times equal to your intelligence modifier, and regain all uses when you prepare your spells.
+    
 
   
 
@@ -312,6 +355,10 @@ Classes published by Little Red Goblin Games will not be allowed. Class features
   
 
 Some character options may be permitted from d&d 3.5 on a case by case basis if no equivalent exists in Pathfinder. All of these options must be approved by a GM, and will be converted using approximately [this format](https://docs.google.com/document/d/e/2PACX-1vRk6dQFfLs5o5xwJn7zUq31ZmvdZ3iYlg3z-j9WD8Q1elHC5RKFdtj_gClHWuu0zzih1GqdAXKwyay2/pub)
+
+  
+
+The [Frenzied Barbarian Archetype](https://docs.google.com/document/d/e/2PACX-1vTgQyoFDMzLIHPEZj85Biyn0trC08n6u7D15n3_xHx-EPyG8t0-ln_3pPBW9tAASy4Jx2-5g3Qa2yWT/pub) has been added to the allowed list.
 
 The Content listed in [this document](https://docs.google.com/document/d/e/2PACX-1vRjRmYpN9NUh1BlhvPiEDK-tYlIv0N5GLqDqnL6_-n3eKqA2FjO9hdYUqcyjrvUowl4_JOgoIaKtTmH/pub) includes sources which have already been approved for conversion from D&D 3.5, in their converted format.
 
@@ -697,6 +744,37 @@ Characters may choose to select [Oaths](http://spheresofpower.wikidot.com/oaths)
 
   
 
+Changes to these Oaths are as follows:
+
+- Oath of Offerings now requires that a player donate half of all income earned, and no longer represents an absolute cap on wealth obtained.
+    
+
+  
+
+Alternate Oaths and Oath Boons from Baron’s Otherworldly Citadel may be applied for on a per character basis. The Alternate Ritual Oath is approved for all characters.
+
+## Archetype Packages
+
+Archetype packages are sets of class abilities characters may select in place of some of the normal abilities gained from a class.
+
+  
+
+This optional system is written with the assumption that the listed classes have at least one archetype package built into them which represent a standard set of powers that all members of that class receive. Each archetype package allows you to remove some of the standard abilities of that class and replace them with new options. Any new options gained this way replace the references to the original class gained with references to the new class which they are granted for.
+
+  
+
+To gain a new archetype, a character must forgo one of the archetypes normally granted to his class. While most classes have only one archetype, some classes have two. Classes with multiple archetypes only need to give up one in order to take a new archetype package.
+
+  
+
+A list of available Archetype Packages are listed [Here](https://docs.google.com/document/d/e/2PACX-1vSKFrj-aWoNf4mgDO8gmAprVS99JaAmXr_13PRnYGirBmU7qlP5D9W40zDA_vTPfu4AMqQ7aiAGoyl_/pub).
+
+  
+
+All uses of archetype packages require GM approval.
+
+  
+
 ## Organizations, Fame and Prestige
 
 Players may now participate in the Fame and Prestige system by joining one or more Organizations. This is not required for any character, but the rules for this are laid out in [this document](https://docs.google.com/document/d/e/2PACX-1vRxrrEm_p-9hHQggV1MiK4KRVdar5fO1OfD4VACWqwXpkNVwCUCO1VHtLzuHI_F6CRz85LZvoLm_gQo/pub). A character may choose to begin play as a member of one listed organization, bypassing the entrance fee and examination. They must still pay dues at the end of their first month of play if they choose this option. 
@@ -943,7 +1021,7 @@ Vital Strike, Improved Vital Strike and Greater Vital Strike are now a single fe
 
   
 
-Weapon Finesse and Agile Maneuvers are now a single feat, titled Weapon Finesse, which is granted for free to all creatures with Dexterity of 13 or higher. In addition, Weapon Finesse can now be used with all light weapons, in addition to all other weapons in the Close, Light Blades, Heavy Blades, Monk, and Spears Fighter Weapon Groups, with the exception of bastard sword, falchion, flambard, great terbutje, greatsword, nine-ring broadsword, nodachi, orc skull ram, scythe, and seven-branched sword. Other weapons may be justified when presented. 
+Weapon Finesse and Agile Maneuvers are now a single feat, titled Weapon Finesse, which is granted for free to all creatures with Dexterity of 13 or higher. In addition, Weapon Finesse can now be used with all light weapons, in addition to all other weapons in the Close, Light Blades, Heavy Blades, Monk, and Spears Fighter Weapon Groups, with the exception of bastard sword, estoc falchion, flambard, great terbutje, greatsword, lizard king war trident, nine-ring broadsword, nodachi, orc skull ram, scythe, seven-branched sword, split-blade sword, and switchscythe. Other weapons may be justified when presented. 
 
   
 
@@ -1030,7 +1108,7 @@ The feats listed below gain the listed qualifiers, counting as a feat of that ca
 
 ## Downtime
 
-This server uses [downtime](https://www.d20pfsrd.com/gamemastering/other-rules/downtime) rules. Time available for downtime passes in realtime, and players must log their downtime activities. Players may log up to one week of downtime at a time. Each week on Monday morning at 12:00 AM PST, the calendar for downtime resets, and players may begin logging their next week of downtime. Downtime not spent the previous week is lost. At a GM’s discretion a player may receive an opportunity to recover or spend additional downtime, however this is not typical.
+This server uses downtime rules, which are detailed below. Time available for downtime passes in realtime, and players must log their downtime activities. Players may log up to one week of downtime at a time. Each week on Monday morning at 12:00 AM PST, the calendar for downtime resets, and players may begin logging their next week of downtime. Downtime not spent the previous week is lost. At a GM’s discretion a player may receive an opportunity to recover or spend additional downtime, however this is not typical.
 
   
 
@@ -1185,7 +1263,7 @@ This retraining does not allow you to reselect the feats your character gains at
 
 #### Feat
 
-You may change one feat to another through retraining. Retraining a feat takes 5 days with a character who has the feat you want. The old feat can’t be one you used as a prerequisite for a feat, class feature, archetype, prestige class, or other ability. If the old feat is a bonus feat granted by a class feature, you must replace it with a feat that you could choose using that class feature.
+You may change one feat to another through retraining. Retraining a feat takes 4 days with a character who has the feat you want. The old feat can’t be one you used as a prerequisite for a feat, class feature, archetype, prestige class, or other ability. If the old feat is a bonus feat granted by a class feature, you must replace it with a feat that you could choose using that class feature.
 
   
 
@@ -1490,6 +1568,7 @@ A character with Craft Staff can choose to create a Staff that also functions as
 |   |   |   |
 |---|---|---|
 |Feat|Spellcraft requirements|Other requirements|
+|Brew Stable Formulae|–|Alchemy sphere (at least 1 Alchemy sphere (formulae) talent).|
 |Capture Spell (SoP)|Spellcraft 1 rank|–|
 |Cooperative Crafting|Spellcraft 1 rank|Craft (any) 1 rank|
 |Craft Apparatus (SoP)|Spellcraft 1 rank|–|
@@ -1505,6 +1584,8 @@ A character with Craft Staff can choose to create a Staff that also functions as
 |Gunsmithing|–|Craft (firearms) 1 rank|
 |Scribe Scroll|Spellcraft 1 rank|–|
 |Brew Potion|Spellcraft 3 ranks|–|
+|Craft Cognizance Crystal (Psionics)|Spellcraft 3 ranks|Knowledge (Psionics) 3 ranks|
+|Craft Crystalline Focus (Psionics)|Spellcraft 3 ranks|Knowledge (Psionics) 3 ranks|
 |Craft Implement of Power (SoP)|Spellcraft 3 ranks|–|
 |Craft Wondrous Item|Spellcraft 3 ranks|–|
 |Creative Armorsmith|–|Craft (metalworking) 3 ranks, Knowledge (engineering) 3 ranks|
@@ -1515,6 +1596,7 @@ A character with Craft Staff can choose to create a Staff that also functions as
 |Haunt Scavenger|Spellcraft 3 ranks|Craft (alchemy) 3 ranks|
 |Inscribe Rune|Spellcraft 3 ranks|–|
 |Kinetic Crafting|Spellcraft 3 ranks|Kineticist level 3rd|
+|Scribe Tattoo (Psionics)|Spellcraft 3 ranks|Knowledge (Psionics) 3 ranks|
 |Smith Magical Weapons and Armor  (SoP)|Spellcraft 3 ranks|–|
 |Aligned Crafting|Spellcraft 5 ranks|–|
 |Craft Construct|Spellcraft 5 ranks|–|
@@ -1535,6 +1617,7 @@ A character with Craft Staff can choose to create a Staff that also functions as
 |Monstrous Crafter|Spellcraft 3 ranks|Craft (alchemy) 5 ranks or Knowledge (nature) 5 ranks|
 |Reinforced Crafting|Spellcraft 5 ranks|Ability to cast make whole or mending|
 |Natural Poison Harvester|–|Craft (alchemy) 6 ranks, Survival 6 ranks|
+|Craft Crystallized Pain (Pact Magic)|Spellcraft 7 ranks|Bind spirit class feature, ability to bind 4th-level spirits.|
 |Craft Ooze|Spellcraft 7 ranks|Craft (alchemy) 7 ranks, Knowledge(dungeoneering) 7 ranks|
 |Craft Technological Arms and Armor|–|Technologist, Craft (mechanical) 7 ranks, Knowledge (engineering) 7 ranks|
 |Craft Pharmaceutical|–|Technologist, Heal 9 ranks, Knowledge (nature) 9 ranks|
@@ -1634,7 +1717,7 @@ Capital is an abstraction of goods, items, favors, goodwill in a community, loan
 
 ### Kingdom Building
 
-Players are allowed to engage in Kingdom Building. We are using a somewhat modified version of these rules, [which is included HERE](https://docs.google.com/document/d/e/2PACX-1vT53b5BGlHcEqQYMkx1OwqZwW0iHdNJz5bfF8PfWGBADvK4mAcZ1u2Mdo_ItS4r56dOFQ8ueLvlh18f/pub). Players who want to engage in the creation of their own kingdom, should read up on these rules.
+Players are allowed to engage in Kingdom Building. We are using a modified version of these rules, [which is included HERE](https://docs.google.com/document/d/e/2PACX-1vT53b5BGlHcEqQYMkx1OwqZwW0iHdNJz5bfF8PfWGBADvK4mAcZ1u2Mdo_ItS4r56dOFQ8ueLvlh18f/pub). Players who want to engage in the creation of their own kingdom, should read up on these rules. New kingdoms should be approved by GMs.
 
   
 
@@ -2196,39 +2279,39 @@ Reach weapons may attack adjacent large or larger creatures if they threaten one
 
 ### Weapon Groups
 
-All feats, class features, and abilities that apply to a single weapon now apply to all weapons in that weapon group. If a weapon is in multiple weapon groups, choose a weapon group at the time you gain the ability for it to apply to. Default weapons groups in use are listed below. Weapons may be added to other weapon groups if there is reasonable justification.
+All feats, class features, and abilities that apply to a single weapon now apply to all weapons in that weapon group. If a weapon is in multiple weapon groups, choose a weapon group at the time you gain the ability for it to apply to. Default weapons groups in use are listed below. Weapons may be added to other weapon groups if there is reasonable justification. A list of weapons, their qualities, and their weapon groups, can be found [here](https://docs.google.com/spreadsheets/d/1su58VMvSNLcCAdYlazRad-9KZ_ZQLmaXmGn-FGTgbI4/edit?usp=sharing).
 
   
 
-Axes – bardiche, battleaxe, boarding axe, butchering axe, collapsible kumade, dwarven double waraxe, dwarven heavy axe-gauntlet, dwarven light axe-gauntlet, dwarven longaxe, dwarven maulaxe, dwarven waraxe, gandasa, greataxe, handaxe, heavy pick, hooked axe, hurlbat, knuckle axe, kumade, light pick, mattock, orc double axe, pata, throwing axe, tongi
+Axes – Axe Musket, bardiche, battleaxe, boarding axe, butchering axe, collapsible kumade, dwarven double waraxe, dwarven heavy axe-gauntlet, dwarven light axe-gauntlet, dwarven longaxe, dwarven maulaxe, dwarven urgrosh, dwarven waraxe, gandasa, greataxe, handaxe, heavy pick, hooked axe, hurlbat, knuckle axe, kumade, light pick, mattock, orc double axe, pata, pickaxe, throwing axe, tongi
 
   
 
-Blades, Heavy – aldori dueling sword, ankus, bastard sword, chakram, crystal chakram, cutlass, double chicken saber, double walking stick katana, elven curve blade, estoc, falcata, falchion, flambard, great terbutje, greatsword, katana, khopesh, klar, longsword, nine-ring broadsword, nodachi, rhoka sword, sawtooth sabre, scimitar, scythe, seven-branched sword, shotel, sickle-sword, split-blade sword, switchscythe, temple sword, terbutje, two-bladed sword
+Blades, Heavy – aldori dueling sword, ankus, bastard sword, chakram, crystal chakram, cutlass, double chicken saber, double walking stick katana, elven curve blade, estoc, falcata, falchion, flambard, great terbutje, greatsword, Horsechopper, katana, khopesh, klar, longsword, nine-ring broadsword, nodachi, rhoka sword, sawtooth sabre, scimitar, scythe, seven-branched sword, shotel, sickle-sword, split-blade sword, steel terbutje, switchscythe, temple sword, terbutje, two-bladed sword
 
   
 
-Blades, Light – bayonet, blade boot, brass knife, broken-back seax, butterfly knife, butterfly sword, chakram, crystal chakram, dagger, deer horn knife, dogslicer, drow razor, dueling dagger, elven leafblade, elven thornblade, gladius, hook hand, hunga munga, kama, kasatha spinal sword, katar, kerambit, kukri, kunai, lungchuan tamo machete, madu (leather/steel), manople, pata, quadrens, rapier, ratfolk tailblade, sanpkhang, sawtooth sabre, scizore, sea-knife, shang gou, short sword, sica, sickle, spider-leg sickle, spiral rapier, spring blade, starknife, sword cane, swordbreaker dagger, tailblade, wakizashi, war razor
+Blades, Light – bayonet, blade boot, brass knife, broken-back seax, butterfly knife, butterfly sword, chakram, crystal chakram, dagger, deer horn knife, dogslicer, drow razor, dueling dagger, elven leafblade, elven thornblade, gladius, hook hand, hunga munga, kama, kasatha spinal sword, katar, kerambit, kukri, kunai, lungchuan tamo, machete, madu (leather/steel), manople, pata, quadrens, rapier, ratfolk tailblade, sanpkhang, sawtooth sabre, scizore, sea-knife, shang gou, sharpened combat scabbard, short sword, sica, sickle, spider-leg sickle, spiral rapier, spring blade, starknife, sword cane, swordbreaker dagger, tailblade, wakizashi, war razor
 
   
 
-Bows – composite longbow, composite shortbow, orc hornbow, longbow, reflex bow, shortbow, thornbow
+Bows – composite longbow, composite shortbow, Horse Bow, orc hornbow, longbow, reflex bow, shortbow, thornbow
 
   
 
-Close – armor spikes, barbazu beard, bayonet, blade boot, brass knuckles, cestus, dan bong, dwarven boulder helm, dwarven heavy axe-gauntlet, dwarven light axe-gauntlet, emei piercer, fighting fan, garrote, gauntlet, heavy shield, hook hand, iron brush, katar, tri-bladed katar, klar, light shield, madu (leather/steel), mere club, punching dagger, rope gauntlet, sap, scizore, shield spikes, spiked armor, spiked gauntlet, tekko-kagi, tonfa, unarmed strike, war-shield, waveblade dwarven, wooden stake, wushu dart
+Close – armor spikes, barbazu beard, bayonet, Bich'hwa, blade boot, brass knuckles, cestus, dan bong, dwarven boulder helm, dwarven heavy axe-gauntlet, dwarven light axe-gauntlet, emei piercer, fighting fan, garrote, gauntlet, handwraps, heavy shield, hook hand, iron brush, Jutte, katar, tri-bladed katar, klar, light shield, madu (leather/steel), mere club, punching dagger, rope gauntlet, sai, sap, scizore, shield spikes, siangham, spiked armor, spiked gauntlet, switchblade knife, tekko-kagi, thorn bracer, tonfa, unarmed strike, dwarven war-shield, waveblade, wooden stake, wushu dart
 
   
 
-Crossbows – double crossbow, gastraphetes, hand crossbow, heavy crank crossbow, heavy crossbow, heavy slaver’s crossbow, launching crossbow, light crank crossbow, light crossbow, light slaver’s crossbow, minotaur double crossbow, dwarven heavy pelletbow, dwarven light pelletbow, repeating hand crossbow, repeating heavy crossbow, repeating light crossbow, stonebow tube arrow shooter, underwater heavy crossbow, underwater light crossbow, wrist launcher
+Crossbows – double crossbow, gastraphetes, hand crossbow, heavy crank crossbow, heavy crossbow, heavy slaver’s crossbow, heavy wrist launcher, launching crossbow, light crank crossbow, light crossbow, light slaver’s crossbow, minotaur double crossbow, dwarven heavy pelletbow, dwarven light pelletbow, repeating hand crossbow, repeating heavy crossbow, repeating light crossbow, stonebow, tube arrow shooter, underwater heavy crossbow, underwater light crossbow, wrist launcher
 
   
 
-Double – battle ladder, gnome, bo staff, boarding gaff, chain spear, chain-hammer, dire flail, double walking stick katana, double-chained kama, dwarven double waraxe, dwarven urgrosh, gnome hooked hammer, halfling double sling, halfling sling staff, kusarigama, meteor hammer, monk's spade, orc double axe, quarterstaff, taiaha, two-bladed sword, weighted spear
+Double – battle ladder, gnome, bo staff, boarding gaff, chain spear, chain-hammer, dire flail, double walking stick katana, double-chained kama, double spear, dwarven double waraxe, dwarven urgrosh, gnome hooked hammer, halfling double sling, halfling sling staff, kusarigama, meteor hammer, monk's spade, orc double axe, quarterstaff, taiaha, two-bladed sword, weighted spear
 
   
 
-Eastern Weapons – bich’hwa, bo staff, butterfly sword, chakram, chain spear, crystal chakram, dan bong, double chained kama, double chicken saber, double walking stick katana, emei piercer, fighting fan, hanbo, hooked lance, iron brush, jutte, kama, katana, kerambit, kukri, kusarigama, kyoketsu shoge, lungchuan tamo, madu, meteor hammer,monk’s spade, naginata, nodachi, nine ring broadsword, nine-section whip nunchaku, patu, rope dart, sai, sansetsukon, seven branched sword, shang guo, shuriken, siangham, sibat, spiked chain, tekko-kagi, temple sword, tetsubo, tiger fork, tonfa, tri-point double-edged sword, tube arrow shooter, urumi, wakizashi, wushu dart
+Eastern Weapons – bich’hwa, bo staff, butterfly sword, chakram, chain spear, crystal chakram, dan bong, double chained kama, double chicken saber, double walking stick katana, emei piercer, fighting fan, hanbo, hooked lance, iron brush, jutte, kama, katana, kerambit, kukri, kusarigama, kyoketsu shoge, lungchuan tamo, madu, meteor hammer,monk’s spade, naginata, nodachi, nine ring broadsword, nine-section whip nunchaku, patu, rope dart, rope gauntlet, sai, sansetsukon, seven branched sword, shang guo, shuriken, siangham, sibat, spiked chain, tekko-kagi, temple sword, tetsubo, tiger fork, tonfa, tri-point double-edged sword, tube arrow shooter, urumi, wakizashi, wushu dart
 
   
 
@@ -2236,33 +2319,37 @@ Firearms – all one-handed, two-handed, and siege firearms
 
   
 
-Flails – barbazu beard, battle poi, bladed scarf, cat-o'-nine-tails, chain spear, dire flail, double-chained kama, dwarven dorn-dergar, flailpole, flindbar, flying blade, flying talon, gnome flickmace, gnome pincher, halfling rope-shot, heavy flail, kusarigama, kyoketsu shoge, light flail, meteor hammer, morningstar, nine-section whip, nunchaku, sansetsukon, scorpion whip, spiked chain, urumi, whip
+Flails – barbazu beard, battle poi, bladed scarf, bolas, cat-o'-nine-tails, chain spear, chain-hammer, dire bolas, dire flail, double-chained kama, dwarven dorn-dergar, flailpole, flindbar, flying blade, flying talon, gnome flickmace, gnome pincher, halfling rope-shot, heavy flail, kusarigama, kyoketsu shoge, light flail, meteor hammer, morningstar, nine-section whip, nunchaku, sansetsukon, scorpion whip, shoanti bolas, spiked chain, urumi, whip
 
   
 
-Hammers – aklys, baston fighting stick, battle aspergillum, chain-hammer, club, combat scabbard, dwarven longhammer, dwarven maulaxe, dwarven ram hammer, dwarven sphinx hammer, earth breaker, gnome flickmace, gnome piston maul, gnome planson, greatclub, heavy mace, knobkerrie, lantern staff, light hammer, light mace, mere club, taiaha, tetsubo, wahaika, warhammer
+Hammers – aklys, baston fighting stick, battle aspergillum, bo staff, chain-hammer, club, combat scabbard, dwarven longhammer, dwarven maulaxe, dwarven ram hammer, dwarven sphinx hammer, earth breaker, gnome flickmace, gnome hooked hammer, gnome piston maul, gnome planson, gnomish battle ladder, greatclub, halfling sling-staff, hanbo, heavy mace, knobkerrie, lantern staff, light hammer, light mace, lucerne hammer, mere club, orc skull ram, quarterstaff, taiaha, tetsubo, throwing shield, traveling kettle, wahaika, warhammer
 
   
 
-Monk – baston fighting stick, bo staff, brass knuckles, butterfly sword, cestus, dan bong, deer horn knife, double chicken saber, double-chained kama, emei piercer, fighting fan, flindbar, hanbo, jutte, kama, kusarigama, kyoketsu shoge, Lungchuan tamo , monk's spade, nine-ring broadsword, nine-section whip, nunchaku, quarterstaff, rope dart, sai, sanpkhang, sansetsukon, seven-branched sword, shang gou, shuriken, siangham, temple sword, tiger fork, tonfa, traveling kettle, tri-point double-edged sword, unarmed strike, urumi, wushu dart
+Monk – baston fighting stick, bo staff, brass knuckles, butterfly sword, cestus, dan bong, deer horn knife, double chicken saber, double-chained kama, emei piercer, fighting fan, flindbar, hanbo, handwraps, jutte, kama, kusarigama, kyoketsu shoge, Lungchuan tamo , monk's spade, nine-ring broadsword, nine-section whip, nunchaku, quarterstaff, rope dart, rope gauntlet, sai, sanpkhang, sansetsukon, seven-branched sword, shang gou, shuriken, siangham, temple sword, tiger fork, tonfa, traveling kettle, tri-point double-edged sword, unarmed strike, urumi, wushu dart
 
   
 
-Natural – unarmed strike and all natural weapons, such as bite, claw, gore, tail, and wing; as well as Long lash, pounder, razored tail attachment, spiked tail attachment, and sweeper
+Natural – unarmed strike and all natural weapons, such as bite, claw, gore, tail, and wing; as well as Long lash, pounder, ratfolk tailblade, razored tail attachment, spiked tail attachment, and sweeper
 
   
 
-Polearms – bardiche, bec de corbin, bill, boarding gaff, boarding pike, crook, dwarven giant-sticker, dwarven longhammer, dwarven longaxe, fauchard, flailpole, glaive, glaive-guisarme, gnome ripsaw glaive, guisarme, halberd, hooked lance, horsechopper, lucerne hammer, mancatcher, monk's spade, naginata, nodachi, ogre hook, ranseur, rhomphaia, tiger fork
+Polearms – bardiche, bec de corbin, bill, boarding gaff, boarding pike, crook, dwarven giant-sticker, dwarven longhammer, dwarven longaxe, fauchard, flailpole, glaive, glaive-guisarme, gnome ripsaw glaive, guisarme, halberd, hooked lance, horsechopper, lucerne hammer, mancatcher, monk's spade, naginata, nodachi, ogre hook, ranseur, rhomphaia, tiger fork, Tri-point double-edged sword
+
+  
 
 Siege Engines – Ballista, bombard, catapult, corvus, firedrake, firewyrm, gallery, ram, siege tower, springal, trebuchet, and all other siege engines
 
   
 
-Spears – amentum, barbed spear, boar spear, boarding pike, chain spear, doru, double spear, elven branched spear, flask pike, harpoon, injection spear, javelin, lance, longspear, orc skull ram, phaleros, pilum, planson, sarissa, shrillshaft javelin, shortspear, sibat, spear, spear-sling, syringe spear, stormshaft javelin, tepoztopili, tiger fork, totem spear, trident, weighted spear
+Spears – amentum, barbed spear, boar spear, boarding pike, chain spear, doru, double spear, dwarven urgrosh, elven branched spear, flask pike, harpoon, injection spear, javelin, lance, lizard king war trident, longspear, orc skull ram, phaleros, pilum, planson, sarissa, shrillshaft javelin, shortspear, sibat, spear, spear-sling, syringe spear, stormshaft javelin, tepoztopili, tiger fork, totem spear, trident, weighted spear
 
   
 
-Thrown – aklys, amentum, atlatl, brass knife, blowgun, bolas, boomerang, chain-hammer, chakram, club, crystal chakram, dagger, dart, deer horn knife, dire bolas, doru, dueling dagger, dwarven maulaxe, dwarven ram hammer, dwarven sphinx hammer, flask thrower, grappling hook, halfling double sling, halfling sling staff, halfling stitched sling,  harpoon, hunga munga, hurlbat, javelin, jolting dart, kestros, knobkerrie, kunai, lasso, light hammer, lungchuan tamo, net, phaleros, pilum, poisoned sand tube, rope dart, shoanti bolas, shortspear, shrillshaft javelin, shuriken, sibat, sling, sling glove, snag net, spear, spring blade, starknife, stingchuck, stormshaft javelin, syringe spear, throwing axe, throwing arrow cord, throwing shield, trident, wahaika, wushu dart
+Thrown – aklys, amentum, atlatl, brass knife, blowgun, bolas, boomerang, chain-hammer, chakram, club, crystal chakram, dagger, dan bong, dart, deer horn knife, dire bolas, doru, dueling dagger, dwarven maulaxe, dwarven ram hammer, dwarven sphinx hammer, flask thrower, grappling hook, halfling double sling, halfling sling staff, halfling stitched sling,  harpoon, hunga munga, hurlbat, iron brush, javelin, jolting dart, kestros, knobkerrie, kunai, lasso, light hammer, lizard king war trident, lungchuan tamo, net, phaleros, pilum, poisoned sand tube, rope dart, shoanti bolas, shortspear, shrillshaft javelin, shuriken, sibat, sling, sling glove, snag net, spear, spring blade, starknife, stingchuck, stormshaft javelin, switchblade knife, syringe spear, throwing axe, throwing arrow cord, throwing shield, totem spear, trident, tube arrow shooter, wahaika, wooden stake, wushu dart
+
+  
 
 ## Magic
 
