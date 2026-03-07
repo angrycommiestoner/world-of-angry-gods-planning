@@ -1,0 +1,5 @@
+A character who has not yet acted during a combat is flat-footed, unable to react normally to the situation. A flat-footed character loses his [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) bonus to [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class) and Combat Maneuver Defense (CMD) (if any) and cannot make attacks of opportunity, unless he has the [Combat Reflexes](https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat) feat or Uncanny Dodge class ability.
+
+Characters with Uncanny Dodge retain their [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) bonus to their [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class) and can make attacks of opportunity before they have acted in the first round of combat.
+
+_Editor’s Note:_ Reference from immediate action rules: You cannot take immediate actions while flat-footed.
