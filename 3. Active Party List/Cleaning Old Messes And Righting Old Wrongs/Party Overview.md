@@ -50,4 +50,4 @@ HP: 72/72
 AC: 25 , Touch: 25  , Flat-Footed: 20 ,
 Size: Medium 
 Buffs:
-Debuffs: Paralyzed for 3 more rounds
+Debuffs:
