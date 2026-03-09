@@ -26,7 +26,7 @@ Liselle may also expend a Bound Nexus soul on [Divine Soul](http://spheresofpowe
 	- Proclamation lasts a number of rounds equal to 1/2 her Ghost Sovereign level (4) plus her Charisma modifier (6) (Current Total, 10 Rounds)
 - Conscription: Spend a Swift Action to cause an ally to make an attack against an enemy as if that enemy had provoked an attack of opportunity. 
 	- Either the ally or the target being attacked must be under the influence of Proclamation.
-# History
+# History {WIP}
 ## The Friendly Ghost
 
 Liselle was born to house Lupin-Baudelaire next in a long line of Lupin-Baudelaire children marked by the power of Desna in a strange and unique way. She was born with no body to call her own. Long did this tragic accident of birth haunt her, unable to feel the warmth of her loved ones’ embrace, Liselle grew up sharing the minds and inhabiting the bodies of others, and the time in between refining her mental acuity and control.
@@ -56,6 +56,6 @@ Liselle’s fury and terror in that moment were unmatched. She soared to her sis
 
 But this was wrong. She was falling endlessly into it, the creature’s soul evaporating like a cloud, leaving her nothing tangible to grasp onto. 
 
-# Allies, Enemies, & Contacts
-
+# Allies, Enemies, & Contacts {WIP}
+Come Back To Learn More Soon!
 
