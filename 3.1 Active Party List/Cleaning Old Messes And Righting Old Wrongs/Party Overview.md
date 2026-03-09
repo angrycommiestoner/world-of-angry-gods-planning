@@ -7,7 +7,7 @@ Aura of Courage (Su): Each ally within 10 feet of her gains a +4 morale bonus on
 Aura of Resolve (Su): Each ally within 10 feet of her gains a +4 morale bonus on saving throws against charm effects. This ability functions only while the paladin is conscious, not if she is unconscious or dead.
 
 [[Liselle Lupin-Baudelaire]]
-HP: 77/73
+HP: 86/81
 AC: 25 Touch: 20, Flat-Footed: 19
 Size: Medium
 Buffs: 
