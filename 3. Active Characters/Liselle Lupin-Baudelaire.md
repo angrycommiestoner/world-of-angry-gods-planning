@@ -1,9 +1,31 @@
-Level 8 Ghost Sovereign Soul Weaver/Triple Goddess Hedgewitch
+Level 9 Ghost Sovereign Soul Weaver/Triple Goddess Hedgewitch
 
 A member and current leader of House Lupin-Baudelaire, this youngest sister and Ustalavic Noblewoman is finding her place in this world, and coming to terms with her role in her family’s unique history.
 
 # Mechanics
+Role: Channel Blaster / Healer / Buffer/Debuffer
+Race: Custom Origin
+Systems Used: 1pp, Spheres of Power, Akasha
+### Notable Abilities/Combos:
+[Celestial Aura](http://spheresofpower.wikidot.com/hedgewitch#:~:text=talent%2E-,Path%20Power): Liselle wields the power of the night sky itself. She can project one of two auras. The first aura (Moon) grants a +1 bonus to Fortitude, +1 per 5 Hedgewitch Levels (Current Total, +2) and +1 Temp HP, +1 per 2 Hedgewitch Levels (Current Total, +5). This Temp HP refreshes at the beginning of her turn on every round for all allies within her aura at that time. The second aura grants a +1 bonus to Initiative and Perception checks, +1 per 5 Hedgewitch Levels (Current Total, +2)
 
+[Channel Energy](http://spheresofpower.wikidot.com/soul-weaver#toc5): Liselle can Channel Energy as the [Cleric](https://www.d20pfsrd.com/classes/core-classes/Cleric/#channel_energy_su) ability. In addition, Liselle has several Channel feats that allow her to damage enemies, especially undead. Notable combinations include:
+
+> Channel Energy + [Channel Life](http://spheresofpower.wikidot.com/channeling-feats#toc3): 5d6+4d8+16, Can be used to heal living creatures or to harm undead. If used to Heal, and Channel Life is using a Cure effect, Undead will still be harmed by the Cure effect. If used to Harm Undead, and Channel Life is using a Cure effect, Living creatures will still be healed by the Cure effect.
+> 
+> Channel Energy + [Channel Destruction](http://spheresofpower.wikidot.com/channeling-feats#toc2) ([Radiant Blast](http://spheresofpower.wikidot.com/destruction#toc64)): 5d4, can only be used to harm. 5d8 vs. targets weak vs sunlight. Affected creatures must make a DC 20 Reflex save or suffer a 20% miss chance for one round. May spend an additional spell point to increase the number of dice to 1 per CL (Current Total, 9)
+
+Liselle may also expend a Bound Nexus soul on [Divine Soul](http://spheresofpower.wikidot.com/soul-weaver#toc15) to increase her Channel Energy damage dice from d6s to d10s, or on [Channel Mastery](http://spheresofpower.wikidot.com/soul-weaver#toc13) to snag any Channeling Feat she meets the prerequisites for (usually [Channel Surge](https://www.d20pfsrd.com/feats/general-feats/channel-surge)).
+
+[Clinging Darkness](http://spheresofpower.wikidot.com/dark#toc8) + [Snagging Darkness](http://spheresofpower.wikidot.com/dark#toc54): Liselle’s bread and butter “Lockdown” combo. CMB is +14 (+6 Charisma, +8 Caster Level), deals 1d4 damage per CL per round (Current Total, 4d4). In conjunction with [Step Through Darkness](http://spheresofpower.wikidot.com/dark#toc64) or [Dual Darkness](http://spheresofpower.wikidot.com/dark#toc11) + [Stygian Immersion](http://spheresofpower.wikidot.com/dark#toc11) this combo can quickly become lethal against lesser foes.
+
+[Royal Command](http://spheresofpower.wikidot.com/ghost-sovereign#:~:text=Royal%20Command%20%28Su): Liselle may give a Royal Command to any ensouled creature.
+- Proclamation: Allows Liselle to declare an ensouled creature within close range (30 ft + 5 ft per CL, Current Total, 75 ft) a Friend or Foe of the Ghost Court.
+	- Friends of the Court receive a +2 Circumstance Bonus to attack rolls and AC against all of Liselle’s enemies (not just Foes of the Court).
+	- All of Liselle’s allies (not just Friends of the Court) gain a +2 Circumstance Bonus on attacks and AC against Foes of the Court.
+	- Proclamation lasts a number of rounds equal to 1/2 her Ghost Sovereign level (4) plus her Charisma modifier (6) (Current Total, 10 Rounds)
+- Conscription: Spend a Swift Action to cause an ally to make an attack against an enemy as if that enemy had provoked an attack of opportunity. 
+	- Either the ally or the target being attacked must be under the influence of Proclamation.
 # History
 ## The Friendly Ghost
 
