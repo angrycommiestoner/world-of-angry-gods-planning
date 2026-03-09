@@ -48,6 +48,12 @@ At last, she invited Eurwen to join the family for dinner, so that she could pro
 
 ## Dinner and Consequences
 
-Their meal was awkward. Mother was, unfortunately, Mother, and would not stop being herself anytime soon. Though she tried her best to make small talk, she felt a distinct and previously unknown discomfort, smiling and conversing with Eurwen through Bernadette’s form. As the meal came to a close, Liselle was instructed to see her guest safely from the keep and to then return immediately to her mother’s study. Not one to disobey such a direct command from her mother, she did.
+Their meal was awkward. Mother was, unfortunately, Mother, and would not stop being herself anytime soon. Though she tried her best to make small talk, she felt a distinct and previously unknown discomfort, smiling and conversing with Eurwen through Bernadette’s form. As the meal came to a close, Liselle was instructed to see her guest safely from the keep and to then return immediately to her mother’s study. Knowing better than to disobey such a direct command from her mother, especially after disappearing for a day and a half, she did so.
+
+Her mother’s words to her that night were cutting, and Liselle has never truly let them leave her heart. For her transgression, she was placed under the watch of her sisters. Where one went, she would always follow. Continuing in such a way, Liselle eventually accompanied her sisters on a simple hunt. A giant of some kind had pressed a tribe of goblins into it’s service, and had been harassing nearby villages. The fight was brutal. Elise and Bernadette charged the beast head-on while Liselle tried desperately to restrain it with her magic, but it was too mighty by far for her to keep down for long. At last, Bernadette took a crushing blow, rendering her unconscious.
+
+Liselle’s fury and terror in that moment were unmatched. She soared to her sister’s side and melded into her being. With a pained gasp, their shared eyes snapped open and they scrambled away from the creature’s club. Resting her sister’s unconscious form safely away from their foe, she yelled her fury as she emerged, ethereal and bleak, from her sister’s form. Liselle, a specter of death made real, rushed the hulking Oni. 
+
+# Allies, Enemies, & Contacts
 
 
