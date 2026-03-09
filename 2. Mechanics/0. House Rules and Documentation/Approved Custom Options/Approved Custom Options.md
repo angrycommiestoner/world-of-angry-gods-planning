@@ -45,6 +45,9 @@ A vestigial companion gains all the granted abilities of its patron spirit, whic
 # **Approved Custom Pact Binds**
 - [[Lady Hisako, the Betrayer]]
 - [[Sirrush, The Cloud Dragon]]
+- [[Naberius, The Grinning Hound|Naberius, the Grinning Hound]]
+- [[Dahlver-Nar, The Tortured One]]
+- 
 ---
 
 # Custom Race Builder Options
