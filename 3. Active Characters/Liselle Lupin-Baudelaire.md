@@ -24,7 +24,7 @@ In the course of the battle against this renegade mage, however, Liselle’s fam
 
 At last, she invited Eurwen to join the family for dinner, so that she could properly express her gratitude and explain to her mother what had happened to her.
 
-## Dinner and a Show
+## Dinner and Consequences
 
 Their meal was awkward. Mother was, unfortunately, Mother, and would not stop being herself anytime soon. Though she tried her best to make small talk, she felt a distinct and previously unknown discomfort, smiling and conversing with Eurwen through Bernadette’s form. As the meal came to a close, Liselle was instructed to see her guest safely from the keep and to then return immediately to her mother’s study. Not one to disobey such a direct command from her mother, she did.
 
