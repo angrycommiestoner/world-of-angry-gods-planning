@@ -52,7 +52,9 @@ Their meal was awkward. Mother was, unfortunately, Mother, and would not stop be
 
 Her mother’s words to her that night were cutting, and Liselle has never truly let them leave her heart. For her transgression, she was placed under the watch of her sisters. Where one went, she would always follow. Continuing in such a way, Liselle eventually accompanied her sisters on a simple hunt. A giant of some kind had pressed a tribe of goblins into it’s service, and had been harassing nearby villages. The fight was brutal. Elise and Bernadette charged the beast head-on while Liselle tried desperately to restrain it with her magic, but it was too mighty by far for her to keep down for long. At last, Bernadette took a crushing blow, rendering her unconscious.
 
-Liselle’s fury and terror in that moment were unmatched. She soared to her sister’s side and melded into her being. With a pained gasp, their shared eyes snapped open and they scrambled away from the creature’s club. Resting her sister’s unconscious form safely away from their foe, she yelled her fury as she emerged, ethereal and bleak, from her sister’s form. Liselle, a specter of death made real, rushed the hulking Oni. 
+Liselle’s fury and terror in that moment were unmatched. She soared to her sister’s side and melded into her being. With a pained gasp, their shared eyes snapped open and they scrambled away from the creature’s club. Resting her sister’s unconscious form safely away from their foe, she yelled her fury as she emerged, ethereal and bleak, from her sister’s form. Liselle, a specter of death made real, rushed the hulking Oni, pouring her essence into it as she had done to her sisters and mother so many times before, trying to forcibly wrest control of the creature’s form for herself…
+
+But this was wrong. She was falling endlessly into it, the creature’s soul evaporating like a cloud, leaving her nothing tangible to grasp onto. 
 
 # Allies, Enemies, & Contacts
 
