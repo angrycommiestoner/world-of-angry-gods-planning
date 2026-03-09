@@ -37,7 +37,7 @@ Debuffs: None
 Aenia
 HP: 35/35
 AC: 14, Touch: 11, Flat-Footed: 13
-Buffs:None
+Buffs: None
 Debuffs: None
 
 [[Melech]]
@@ -51,5 +51,5 @@ Debuffs: None
 HP: 72/72
 AC: 25 , Touch: 25  , Flat-Footed: 20 ,
 Size: Medium 
-Buffs:
-Debuffs:
+Buffs: None
+Debuffs: None
