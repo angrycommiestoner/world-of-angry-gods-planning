@@ -13,7 +13,6 @@ Size: Medium
 Buffs: 
 Celestial Aura - Moon: +2 bonus to Fortitude saves and +5 Temporary HP to allies within the aura, refreshing at the start of Liselle’s turn
 Celestial Aura - Stars: +2 bonus to Initiative and Perception to allies within the aura
-Shadow Blend - +20% Concealment in normal and dim light
 Debuffs:
 Night Sky: -2 to attack rolls and sight-based Perception checks
 Seraphic Glow: Evil creatures that enter Liselle’s light effects must make a Will save equal to the DC of the light effect or be sickened for one minute
