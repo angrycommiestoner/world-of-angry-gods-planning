@@ -1,5 +1,5 @@
 [[Elise Lupin-Baudelaire]]
-HP: 93/105 (with Rage, 89 Total HP normally)
+HP: 33/105 (with Rage, 89 Total HP normally)
 AC: 26, Touch: 14 , Flat-Footed: 21,
 Size: Medium (Large w/ Transformation)
 Buffs: 
