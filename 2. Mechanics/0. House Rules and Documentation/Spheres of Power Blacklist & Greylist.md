@@ -97,7 +97,9 @@ Reason: Studio M Content is not whitelisted for play
 Requestable?: Yes
 
 ### Blood
-
+#### [Hemo Goblin](http://spheresofpower.wikidot.com/blood#toc15)
+Reason: Jester’s Handbook content is not whitelisted for play
+Requestable?: Yes
 ### Conjuration
 
 ### Creation
