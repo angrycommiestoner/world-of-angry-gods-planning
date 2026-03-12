@@ -100,6 +100,7 @@ Requestable?: Yes
 #### [Hemo Goblin](http://spheresofpower.wikidot.com/blood#toc15)
 Reason: Jester’s Handbook content is not whitelisted for play
 Requestable?: Yes
+#### 
 ### Conjuration
 
 ### Creation
