@@ -82,5 +82,5 @@ Custom Spheres of Power & Might Talents should always be formatted as follows:
 
 ---
 # Approved Spheres of Power Talents
-[[Custom Spheres of Power Talents]]
+[[Spheres of Power Custom Talents]]
 [[Custom Spheres of Might Talents]]
