@@ -1056,55 +1056,55 @@ The feats listed below gain the listed qualifiers, counting as a feat of that ca
 
 ### Automatic Feat Gains, Summarized
 
-|   |   |   |
-|---|---|---|
-|BAB|Other requirement|Feat Granted|
-|–|–|Combat Expertise|
-|–|–|Deadly Aim|
-|–|–|Merciful Takedown|
-|–|–|Power Attack|
-|–|Caster Level +1|Eschew Materials|
-|–|Caster Level +1|Cantrips|
-|–|Caster Level +1|Improved Cantrips|
-|–|Magical Tail; Level advanced from prior Magical Tail feat|Magical Tail|
-|–|Dex 13|Weapon Finesse, Agile Maneuvers|
-|–|Dex 16|Precise Shot|
-|-|Cha 13, Channel Energy|Selective Channeling|
-|–|Wild Shape|Natural Spell|
-|–|Toughness, Endurance, or Diehard|Toughness, Endurance, and Diehard|
-|varies|First Style Feat in Chain, Prerequisites of Subsequent Style Feats in chain|Subsequent Style Feats in Chain|
-|1|–|Combat Stamina|
-|3|–|Improved Unarmed Strike|
-|3|Dex 15, Nimble Moves|Acrobatic Steps|
-|–|3 ranks in 3 different Craft skills|Underwater Basketweaving|
-|4|–|Catch Off-Guard, Throw Anything|
-|4|–|Precise Shot|
-|–|Wild shape or transformation class feature, or shapechanger subtype|Natural Spell|
-|–|Perform (any) 5 ranks|Ensemble|
-|6|Dimensional Agility|Dimensional Assault|
-|6|–|Rhino Charge|
-|6|Step Up|Following Step|
-|6|Armor Focus|Improved Armor Focus|
-|-|Mounted Combat, Precise Shot, Ride 7 ranks|Mounted Archery|
-|–|Mounted Archery, Ride 10 ranks|Improved Mounted Archery|
-|-|Arcane Armor Training, Armor Proficiency (medium), caster level 7|Arcane Armor Mastery|
-|-|Mounted Combat, Ride 7 ranks|Ride-by Attack|
-|9|Dimensional Assault|Dimensional Dervish|
-|10|Gang Up|Team Up|
-|10|Str 13|Powerful Maneuvers|
-|10|Int 13|Deft Maneuvers|
-|–|Blind-Fight, Perception 10 ranks|Improved Blind-fight|
-|11|Two-Weapon Fighting, Dex 17|Improved Two-Weapon Fighting|
-|11|Cleave|Great Cleave|
-|11|Following Step|Step Up and Strike|
-|11|Vital Strike|Improved Vital Strike|
-|12|Dimensional Dervish|Dimensional Savant|
-|–|Blind-Fight, Perception 15 ranks|Greater Blind-Fight|
-|16|Two-Weapon Fighting, Improved Two-Weapon Fighting, Dex 19|Greater Two-Weapon Fighting|
-|16|Powerful Maneuvers, Str 13|Greater Powerful Maneuvers|
-|16|Deft Maneuvers, Int 13|Greater Deft Maneuvers|
-|16|Improved Vital Strike|Greater Vital Strike|
-|16|Dex 17, Wind Stance|Lightning Stance|
+|        |                                                                             |                                   |
+| ------ | --------------------------------------------------------------------------- | --------------------------------- |
+| BAB    | Other requirement                                                           | Feat Granted                      |
+| –      | –                                                                           | Combat Expertise                  |
+| –      | –                                                                           | Deadly Aim                        |
+| –      | –                                                                           | Merciful Takedown                 |
+| –      | –                                                                           | Power Attack                      |
+| –      | Caster Level +1                                                             | Eschew Materials                  |
+| –      | Caster Level +1                                                             | Cantrips                          |
+| –      | Caster Level +1                                                             | Improved Cantrips                 |
+| –      | Magical Tail; Level advanced from prior Magical Tail feat                   | Magical Tail                      |
+| –      | Dex 13                                                                      | Weapon Finesse, Agile Maneuvers   |
+| –      | Dex 16                                                                      | Precise Shot                      |
+| -      | Cha 13, Channel Energy                                                      | Selective Channeling              |
+| –      | Wild Shape                                                                  | Natural Spell                     |
+| –      | Toughness, Endurance, or Diehard                                            | Toughness, Endurance, and Diehard |
+| varies | First Style Feat in Chain, Prerequisites of Subsequent Style Feats in chain | Subsequent Style Feats in Chain   |
+| 1      | –                                                                           | Combat Stamina                    |
+| 3      | –                                                                           | Improved Unarmed Strike           |
+| 3      | Dex 15, Nimble Moves                                                        | Acrobatic Steps                   |
+| –      | 3 ranks in 3 different Craft skills                                         | Underwater Basketweaving          |
+| 4      | –                                                                           | Catch Off-Guard, Throw Anything   |
+| 4      | –                                                                           | Precise Shot                      |
+| –      | Wild shape or transformation class feature, or shapechanger subtype         | Natural Spell                     |
+| –      | Perform (any) 5 ranks                                                       | Ensemble                          |
+| 6      | Dimensional Agility                                                         | Dimensional Assault               |
+| 6      | –                                                                           | Rhino Charge                      |
+| 6      | Step Up                                                                     | Following Step                    |
+| 6      | Armor Focus                                                                 | Improved Armor Focus              |
+| -      | Mounted Combat, Precise Shot, Ride 7 ranks                                  | Mounted Archery                   |
+| –      | Mounted Archery, Ride 10 ranks                                              | Improved Mounted Archery          |
+| -      | Arcane Armor Training, Armor Proficiency (medium), caster level 7           | Arcane Armor Mastery              |
+| -      | Mounted Combat, Ride 7 ranks                                                | Ride-by Attack                    |
+| 9      | Dimensional Assault                                                         | Dimensional Dervish               |
+| 10     | Gang Up                                                                     | Team Up                           |
+| 10     | Str 13                                                                      | Powerful Maneuvers                |
+| 10     | Int 13                                                                      | Deft Maneuvers                    |
+| –      | Blind-Fight, Perception 10 ranks                                            | Improved Blind-fight              |
+| 11     | Two-Weapon Fighting, Dex 17                                                 | Improved Two-Weapon Fighting      |
+| 11     | Cleave                                                                      | Great Cleave                      |
+| 11     | Following Step                                                              | Step Up and Strike                |
+| 11     | Vital Strike                                                                | Improved Vital Strike             |
+| 12     | Dimensional Dervish                                                         | Dimensional Savant                |
+| –      | Blind-Fight, Perception 15 ranks                                            | Greater Blind-Fight               |
+| 16     | Two-Weapon Fighting, Improved Two-Weapon Fighting, Dex 19                   | Greater Two-Weapon Fighting       |
+| 16     | Powerful Maneuvers, Str 13                                                  | Greater Powerful Maneuvers        |
+| 16     | Deft Maneuvers, Int 13                                                      | Greater Deft Maneuvers            |
+| 16     | Improved Vital Strike                                                       | Greater Vital Strike              |
+| 16     | Dex 17, Wind Stance                                                         | Lightning Stance                  |
 
 ## Downtime
 
