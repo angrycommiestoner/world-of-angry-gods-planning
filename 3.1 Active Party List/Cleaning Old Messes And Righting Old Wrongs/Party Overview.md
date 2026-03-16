@@ -18,8 +18,8 @@ Night Sky: -2 to attack rolls and sight-based Perception checks
 Seraphic Glow: Evil creatures that enter Liselle’s light effects must make a Will save equal to the DC of the light effect or be sickened for one minute
 
 [[Goromi Majima]]
-HP: 86/86 
-AC: 24, Touch: 24, FF: 19 (But uncanny dodge so rarely FF) 
+HP: 106/106 
+AC: 26, Touch: 26, FF: 20 (But uncanny dodge so rarely FF) 
 Size: M
 Buffs: 
 Goromis song - 1d10 rounds per target
