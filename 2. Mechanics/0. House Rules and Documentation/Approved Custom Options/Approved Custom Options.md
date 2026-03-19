@@ -47,12 +47,17 @@ A vestigial companion gains all the granted abilities of its patron spirit, whic
 - [[Sirrush, The Cloud Dragon]]
 - [[Naberius, The Grinning Hound|Naberius, the Grinning Hound]]
 - [[Dahlver-Nar, The Tortured One]]
-- 
+- [[Karsus, Hubris in the Blood]]
+- [[Malphas, the Turnfeather]]
+- [[The Walker Between the Stars]]
+- [[Shoda, the Last Guardian]]
+- [[Tenebrous, the Shadow that Was]]
+
 ---
 
 # Custom Race Builder Options
 Custom Race Builder Options are short, simple, unique, and rare enough to not need separate documents, however certain rules and standards should be followed when creating custom race builder options.
-- Include key information such as what kind of Racial Quality or Racial Trait is being created, what kind of ability the Racial Quality or Racial Trait is (i.e. Supernatural, Spell-Like, or Extraordinary), and the RP cost of the Racial Quality or Racial Trait
+- Include key information such as the Racial Quality or Racial Trait being created, what kind of ability the Racial Quality or Racial Trait is (i.e. Supernatural, Spell-Like, or Extraordinary), and the proposed RP cost of the Racial Quality or Racial Trait
 - Do not create a custom racial trait/quality that is just a better (or worse) version of an existing racial trait/quality!
 
 ---
@@ -68,6 +73,7 @@ While homebrewed archetypes are not expected to follow any specific template, al
 ---
 # Approved Custom Archetypes
 - [[Frenzied Berserker (Barbarian Archetype)]]
+- 
 
 
 ---
