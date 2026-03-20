@@ -14,12 +14,11 @@ id: ""
 hidden: false
 actions:
   - type: templaterCreateNote
-    templateFile: woag-repo/z_templates/Template, CustomPactBindTemplate.md
-    folderPath: woag-repo/2. Mechanics/0. House Rules and Documentation/Approved Custom Options/Custom Pact Binds
+    templateFile: AngryGods Vault/z_templates/Template, CustomPactBindTemplate.md
+    folderPath: AngryGods Vault/2. Mechanics/0. House Rules and Documentation/Approved Custom Options/Custom Pact Binds
     fileName: New Custom Pact Bind
     openNote: true
     openIfAlreadyExists: false
-
 ```
 
 # **Approved Custom Pact Binds**
